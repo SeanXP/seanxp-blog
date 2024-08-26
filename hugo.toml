@@ -317,7 +317,7 @@ enable = true
 [params.page.comment.utterances]
 enable = true
 # owner/repo
-repo = "SeanXP/seanxp.github.io"
+repo = "SeanXP/seanxp-blog"
 issueTerm = "pathname"
 label = ""
 lightTheme = "github-light"
