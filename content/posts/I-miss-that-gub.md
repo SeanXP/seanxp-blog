@@ -4,7 +4,7 @@ date: 2018-08-24T08:20:21+08:00
 tags: ["Poetry"]
 draft: false
 ---
-
+<!--more-->
 
  <div align=center>
  <img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/images/I-miss-that-gub-0.jpg" width="500" height="500" alt='that-bug'/>
@@ -24,4 +24,4 @@ draft: false
  </blockquote>
  </div>
 
-<!--more-->
+
