@@ -1,8 +1,10 @@
-+++
-title = 'About'
-date = 2016-05-26T13:10:59+08:00
-draft = false
-+++
+---
+title: About
+date: 2016-05-26T13:10:59+08:00
+tags: []
+categories: []
+draft: false
+---
 
 <div align=center>
 <img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/images/avatar.png" width="256" height="256" alt="SeanXP-Logo"/>
