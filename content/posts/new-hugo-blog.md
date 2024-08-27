@@ -1,6 +1,6 @@
 ---
 title: 我的 Hugo 新博客
-categories: Tutorial
+categories: []
 tags:
   - DIY
   - Efficiency
