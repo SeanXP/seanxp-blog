@@ -1,17 +1,15 @@
 ---
 title: 我的 Hugo 新博客
-categories:
-  - Tutorial
+categories: Tutorial
 tags:
   - DIY
   - Efficiency
   - Blog
 date: 2024-08-27T08:08:26+08:00
 draft: false
-hideInList: false
-isTop: false
 feature:
 ---
+
 凡是过去，皆为序章 (What's past is prologue)
 <!--more-->
 
@@ -35,9 +33,18 @@ feature:
 
 - 域名 `seanxp.com`，托管在 `Cloudfare`，方便使用 `Cloudfare CDN` 加速；
 - 博客系统 `hugo`，一个高效简单的静态网站生成器，不会像 `hexo` 那样报一堆 js 错误，无依赖性，golang 语言（golang 粉丝狂喜）；
-- 自动化构建静态博客  `Cloudfare Pages` 关联 `github`，更新 `.md` 文件到 github，就可以自动触发构建，无需再关心博客页面构建问题。
-- 编辑器 `obsidian` + `obsidian-git` + `quickadd`
+- 自动化构建静态博客  `Cloudfare Pages` 关联 `github`，更新 `.md` 文件到 github，就可以自动触发构建，无需再关心博客页面构建问题；
+	- 构建速度是真的快，推送后 20s 内就可以完成构建。
+- 编辑器 `obsidian` + `obsidian-git` + `Templater`；
 	- `obsidian` 是我的主力笔记软件，单独拆分了一个 vault 用于保存博客文章；
 	- `obsidian-git` 插件，方便快速更新博客文章，推送 github。
-	- `quickadd`插件，基于模板快速生成文件，新增 hugo 依赖的元数据。
+	- `Templater`插件，指定文件夹模板，可在新文件中快速新增 hugo 元数据。
 
+发文流程：
+1. `obsidian` 写完内容后，直接推送到 `github`仓库；
+2. `Cloudflare Pages` 监测到  `github`仓库变动，自动构建 hugo 静态页面；
+3. `seanxp.com` 上面就可以看到新的内容。
+
+参考：
+- [obsidian 配合 hugo、cloudflare：让发布博客简单到不可思议 :: Lillian Who](https://lillianwho.com/posts/obsidian-hugo-cloudflare/)
+- [Hugo With Obsidian :: 木木木木木](https://immmmm.com/hugo-with-obsidian/)
