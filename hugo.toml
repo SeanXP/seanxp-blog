@@ -38,19 +38,19 @@ version = "0.4.0"
     title = ""
     weight = 1
   [[menu.main]]
-    identifier = "tags"
-    pre = ""
-    post = ""
-    name = "标签"
-    url = "/tags/"
-    title = ""
-    weight = 2
-  [[menu.main]]
     identifier = "categories"
     pre = ""
     post = ""
     name = "分类"
     url = "/categories/"
+    title = ""
+    weight = 2
+  [[menu.main]]
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "标签"
+    url = "/tags/"
     title = ""
     weight = 3
   [[menu.main]]

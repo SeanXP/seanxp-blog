@@ -9,9 +9,8 @@ date: 2024-08-27T08:08:26+08:00
 draft: false
 feature:
 ---
-<center>凡是过去，皆为序章 (What's past is prologue)</center>
+凡是过去，皆为序章 (What's past is prologue)
 <!--more-->
-
 ## 反思
 
 快两年没有写博客了，反思一下：
