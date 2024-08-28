@@ -13,6 +13,9 @@ keywords = ["SeanXP", "Blog", "Programme", "Backend"]
 theme = "DoIt"
 dateFormat = "2006-01-02"
 
+[frontmatter]
+  lastmod = ['lastmod', ':git', ':fileModTime', 'date', 'publishDate']
+
 # 作者配置
 [author]
 name = "SeanXP"
@@ -24,6 +27,9 @@ gravatarEmail = ""
 [params]
 # DoIt 主题版本
 version = "0.4.0"
+# 哪种哈希函数用来 SRI, 为空时表示不使用 SRI
+# ("sha256", "sha384", "sha512", "md5")
+fingerprint = "sha256"
 
 [menu]
   [[menu.main]]
@@ -116,9 +122,9 @@ series = "series"
 [params.search]
 enable = true
 # 搜索引擎的类型 ("algolia", "fuse")
-type = "fuse"
+type = "algolia"
 # 文章内容最长索引长度
-contentLength = 4000
+contentLength = 3000
 # 搜索框的占位提示语
 placeholder = ""
 #  最大结果数目
@@ -130,9 +136,9 @@ highlightTag = "em"
 #  是否在搜索索引中使用基于 baseURL 的绝对路径
 absoluteURL = false
 [params.search.algolia]
-index = ""
-appID = ""
-searchKey = ""
+index = "blogindex"
+appID = "I9UI5JO10P"
+searchKey = "6de6b09d932d4270d5c8a7989d942988"
 [params.search.fuse]
 #  https://fusejs.io/api/options.html
 isCaseSensitive = false
@@ -148,7 +154,7 @@ ignoreFieldNorm = false
 # DoIt 新增 | 0.2.0 Section (所有文章) 页面配置
 [params.section]
 # section 页面每页显示文章数量
-paginate = 30
+paginate = 20
 # 日期格式 (月和日)
 dateFormat = "2006-01-02"
 # RSS 文章数目
@@ -199,7 +205,7 @@ disclaimer = ""
 [params.home.posts]
 enable = true
 # 主页每页显示文章数量
-paginate = 10
+paginate = 6
 
 # 作者的社交信息设置
 [params.social]
@@ -240,11 +246,11 @@ rssFullText = true
 # DoIt 新增 | 0.2.13 是否在文章开头显示系列导航
 seriesNavigation = true
 # 是否启用最后修改时间
-enableLastMod = true
+enableLastMod = false
 # 是否启用字数统计
 enableWordCount = true
 # 是否启用阅读时间估计
-enableReadingTime = true
+enableReadingTime = false
 # DoIt 新增 | 0.2.13 过时文章提示
 [params.page.outdatedArticleReminder]
 enable = false
@@ -257,9 +263,9 @@ warning = 180
 # 是否使用目录
 enable = true
 # DoIt 新增 | 0.2.9 是否保持使用文章前面的静态目录
-keepStatic = true
+keepStatic = false
 # 是否使侧边目录自动折叠展开
-auto = true
+auto = false
 # DoIt 新增 | 0.2.0 代码配置
 [params.page.code]
 # 默认展开显示的代码行数
