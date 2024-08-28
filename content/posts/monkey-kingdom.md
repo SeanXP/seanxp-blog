@@ -1,11 +1,13 @@
 ---
 title: 猴子王国 Monkey Kingdom
 date: 2015-09-23T12:55:33+08:00
-tags: ["Review", "Social", "Documentary"]
-categories: ["Documentary"]
+tags:
+  - 纪录片
+  - 社会学
+categories:
+  - 影视笔记
 draft: false
 ---
-
 ![Monkey Kingdom](https://images-na.ssl-images-amazon.com/images/M/MV5BMzIxNDc1MDg0MF5BMl5BanBnXkFtZTgwNTI3ODE4MzE@._V1_SY1000_SX676_AL_.jpg)
 <!--more-->
 

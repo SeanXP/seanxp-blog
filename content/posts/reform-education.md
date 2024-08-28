@@ -1,14 +1,17 @@
 ---
 title: TED-变革教育范式
 date: 2019-09-28T22:49:38+08:00
-tags: ["Learning", "Education", "Student"]
-categories: ["Open Classes"]
+tags:
+  - 学习
+  - 教育
+  - 公开课
+categories:
+  - 学习教育
 draft: false
 ---
+在接收教育的同时，我们是否也应该去思考下，目前的教育系统是有效的吗？
 
-<blockquote class="blockquote-center"> 在接收教育的同时，我们是否也应该去思考下，目前的教育系统是有效的吗？
 同九义，何汝秀？
-</blockquote>
 <!--more-->
 
 * [【TED】变革教育范式](http://open.163.com/movie/2012/1/Q/T/M8CKBN1LA_M8CKC26QT.html)

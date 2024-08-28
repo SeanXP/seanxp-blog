@@ -1,12 +1,14 @@
 ---
 title: 浅谈如何深入记账
 date: 2019-09-22T09:30:54+08:00
-tags: ["Life", "Guide", "Finance"]
-categories: ["Finance"]
+tags:
+  - 金融
+  - 记账
+  - 个人管理
+categories:
+  - 金融理财
 draft: false
 ---
-
-
 <div align=center>
 <blockquote class="blockquote-center">遇到喜欢的东西就买下来，钱不是真的花掉了，而是换了一种形式（账本）陪在你身边。
 </blockquote>

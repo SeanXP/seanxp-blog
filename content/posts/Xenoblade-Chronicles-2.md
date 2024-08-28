@@ -1,12 +1,14 @@
 ---
 title: ゼノブレイド2 (Xenoblade 2)
 date: 2018-04-01T21:38:13+08:00
-tags: ["Review", "Game", "Nintendo"]
-categories: ["Game"]
+tags:
+  - Nintendo
+  - 游戏
+  - 音乐
+categories:
+  - 游戏体验
 draft: false
 ---
-
-
 <div align=center>
 <img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Xenoblade-Chronicles-2/0.jpg" ></a>
 <blockquote class="blockquote-center"> 从前初识世界树

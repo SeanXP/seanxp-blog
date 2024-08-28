@@ -1,12 +1,13 @@
 ---
 title: ゼルダの伝説
 date: 2017-05-13T10:00:13+08:00
-tags: ["Review", "Game", "Nintendo"]
-categories: ["Game"]
+tags:
+  - Nintendo
+  - 游戏
+categories:
+  - 游戏体验
 draft: false
 ---
-
-
 <div align=center>
 <!--<img src="https://ww4.sinaimg.cn/large/006tKfTcgy1ffjic3u5rcj30zk0k0tbb.jpg" width="1280" height="720" alt='Princess Zelda'/>-->
 <!--<img src="https://i.loli.net/2019/04/30/5cc8565e02bc5.jpg" width="1280" height="720" alt='Princess Zelda'/>-->
@@ -17,9 +18,6 @@ draft: false
 </div>
 
 <!--more-->
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=1&id=35250042&auto=1&height=430"></iframe>
-
 ## 序
 [《塞尔达传说：荒野之息》（The Legend of Zelda: Breath of the Wild）](https://www.wikiwand.com/zh-hans/%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B4_%E8%8D%92%E9%87%8E%E4%B9%8B%E6%81%AF) 由任天堂企划制作本部与任天堂旗下子公司 Monolith Soft 协力开发。游戏最早计划为 Wii U 平台独占发行（结果做完已经到了 Wii U时代的结束），之后（迫不得已）宣布将在任天堂新的混合型游戏主机任天堂 Switch 上发售，并将成为该主机的首发游戏之一。同时任天堂确认本作会是任天堂在Wii U上开发的最后一款游戏。
 

@@ -1,12 +1,13 @@
 ---
 title: 高反五月上拉萨
 date: 2021-05-15T09:44:52+08:00
-tags: ["Tour", "Fun", "Life"]
-categories: ["Tour"]
+tags:
+  - 旅游
+  - 拉萨
+categories:
+  - 旅游游记
 draft: false
 ---
-
-
 <div align=center>
 <img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/37.jpeg" ></a>
 <blockquote class="blockquote-center">

@@ -1,8 +1,11 @@
 ---
 title: 云南游记
 date: 2020-09-13T07:24:30+08:00
-tags: ["Tour", "Fun", "Life"]
-categories: ["Tour"]
+tags:
+  - 云南
+  - 旅游
+categories:
+  - 旅游游记
 draft: false
 ---
 

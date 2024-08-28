@@ -1,8 +1,12 @@
 ---
 title: OSI七层模型 & 交换负载均衡策略研究
 date: 2018-12-14T08:11:53+08:00
-tags: ["Internet", "Network", "Router"]
+tags:
+  - 计算机网络
+  - 负载均衡
 draft: false
+categories:
+  - 学习笔记
 ---
 
 <blockquote class="blockquote-center">All problems in computer science can be solved by another level of indirection. - David Wheeler

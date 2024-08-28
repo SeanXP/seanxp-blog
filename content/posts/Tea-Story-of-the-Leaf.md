@@ -1,8 +1,11 @@
 ---
 title: 茶#人在草木间
 date: 2017-06-14T12:56:19+08:00
-tags: ["Learning", "Documentary", "Chinese", "Life"]
+tags:
+  - 纪录片
 draft: false
+categories:
+  - 影视笔记
 ---
 
 

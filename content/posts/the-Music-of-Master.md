@@ -1,12 +1,15 @@
 ---
 title: Music for the Degree of Master in Engineering
 date: 2017-05-20T06:58:22+08:00
-tags: ["Music", "University", "Master", "Fun", "Life", "Student"]
-categories: ["Music"]
+tags:
+  - 音乐
+  - 大学
+  - 生活
+  - DIY
+categories:
+  - 生活随笔
 draft: false
 ---
-
-
 <div style="position: relative;"><div>国内图书分类号：J642</div><div style="position: absolute; right: 0px; top: 0px;">学校代码：1OO45</div></div><div style="position: relative;"><div>国际图书分类号：784.4</div><div style="position: absolute; right: 0px; top: 0px;">密级：绝密</div></div>
 
 <h1 align="center">工学硕士学位音乐</h1>
@@ -15,7 +18,6 @@ draft: false
 <!--more-->
 
 # 绪论
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=30903117&auto=1&height=66"></iframe>
 
 # 主要研究内容
 

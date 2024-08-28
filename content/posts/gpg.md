@@ -1,11 +1,13 @@
 ---
 title: The GNU Privacy Guard
 date: 2017-02-03T19:15:35+08:00
-tags: ["GitHub", "Internet", "Learning", "Linux", "Software", "Tutorial"]
-categories: ["Tutorial"]
+tags:
+  - Linux
+  - 加密
+categories:
+  - 科技数码
 draft: false
 ---
-
 # Reference
 
 * [The GNU Privacy Guard](https://www.gnupg.org/)

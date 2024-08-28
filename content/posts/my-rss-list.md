@@ -1,12 +1,13 @@
 ---
 title: 我的RSS订阅列表
 date: 2016-05-05T20:41:50+08:00
-tags: ["Tutorial", "Efficiency", "List"]
-categories: ["Tutorial"]
+tags:
+  - 效率
+  - RSS
+categories:
+  - 科技数码
 draft: false
 ---
-
-
 我个人很喜欢RSS，少数量、高质量的RSS订阅，使人可以在纷繁杂乱的互联网潮流中，及时获取到真正有阅读价值的文章。
 这里不做RSS的科普，网上已经有很多，善用搜索引擎就能找到。
 关于RSS阅读器，我使用的是[feedly](https://feedly.com/)，客户端使用[Reeder](https://reederapp.com)。

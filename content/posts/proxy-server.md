@@ -1,8 +1,12 @@
 ---
 title: 网络代理服务器
 date: 2018-08-12T10:38:27+08:00
-tags: ["Network", "Internet", "Server"]
-categories: ["Network"]
+tags:
+  - 计算机网络
+  - 网络代理
+  - 工具
+categories:
+  - 网络技术
 draft: false
 ---
 

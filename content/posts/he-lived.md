@@ -1,20 +1,23 @@
 ---
 title: 他曾活过啊
 date: 2018-12-10T23:39:29+08:00
-tags: ["Life", "Mourn"]
+tags:
+  - 哀悼
+  - 感悟
+  - 生命
 draft: false
+categories:
+  - 生活随笔
 ---
-
+<div align=center>
+<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/images/he-lived-0.JPG" width="540" height="540" alt='哈工大铁道口'/>
+</div>
 <blockquote class="blockquote-center">有骂过这家公司，
 有骂过这个时代，
 有骂过这不真实的生活，
 到头来，唯愿你一路平安。
 </blockquote>
-<div align=center>
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/images/he-lived-0.JPG" width="540" height="540" alt='哈工大铁道口'/>
-</div>
 <!--more-->
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=443875380&auto=1&height=66"></iframe>
 
 今日惊闻师弟去世之噩耗，甚为惋惜。
 师弟于今年七月自高校毕业，工作未满半载，正是一展胸中抱负的青春年华，止步于此，如何不让人惋惜？
@@ -33,4 +36,4 @@ draft: false
 
 将这个正值青春年华的少年逼迫至此，是这个企业的悲哀，也是这个时代的悲哀。
 
-サヨナラサヨナラ
+サヨナラサヨナラ（再见）

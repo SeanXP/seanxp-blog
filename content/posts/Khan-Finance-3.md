@@ -1,15 +1,20 @@
 ---
 title: Khan Academy - Finance and capital markets (3)
 date: 2018-03-04T15:24:38+08:00
-tags: ["Learning", "Finance", "Abstract", "Khan", "Course"]
-categories: ["Open Classes"]
+tags:
+  - Khan
+  - Coursera
+  - 金融
+  - 公开课
+categories:
+  - 学习笔记
 draft: false
 ---
+人类的一切智慧是包含在这四个字里面的：‘等待’和‘希望’！
 
-<blockquote class="blockquote-center"> 人类的一切智慧是包含在这四个字里面的：‘等待’和‘希望’！
-Wait and hope (Fac et spera)!
-《基督山炒股记》
-</blockquote>
+Wait and hope (Fac et spera)! 
+
+—— 《基督山炒股记》 
 <!--more-->
 
 # [Khan-Finance-1](https://seanxp.com/2016/05/Khan-Finance-1/)

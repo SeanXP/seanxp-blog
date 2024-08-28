@@ -1,8 +1,11 @@
 ---
 title: 真田丸
 date: 2016-12-19T21:42:42+08:00
-tags: ["Review", "History"]
-categories: ["TV"]
+tags:
+  - 日剧
+  - 历史
+categories:
+  - 影视笔记
 draft: false
 ---
 

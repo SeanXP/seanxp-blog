@@ -1,10 +1,14 @@
 ---
 title: 卡付卡付卡
 date: 2019-04-30T06:42:48+08:00
-tags: ["Life", "Guide", "Finance"]
+tags:
+  - 金融
+  - 信用卡
+  - 消费观
 draft: false
+categories:
+  - 金融理财
 ---
-
 <div align=center>
 <img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/credit/0.png" alt='shut up and take my money'/>
 <blockquote class="blockquote-center">钱是人类共同的语言

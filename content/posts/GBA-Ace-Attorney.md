@@ -1,11 +1,13 @@
 ---
-title: 異議あり！
+title: 異議あり —— 逆转裁判游戏体验
 date: 2017-02-06T21:48:57+08:00
-tags: ["Review", "Game", "GBA"]
-categories: ["Game"]
+tags:
+  - GBA
+  - 游戏
+categories:
+  - 游戏体验
 draft: false
 ---
-
 <div align=center>
 <!--<img src="https://ww1.sinaimg.cn/large/006tNbRwly1fch3qkki7sj30go0afaod.jpg" width="480" height="300" alt='逆转裁判全人物'/>-->
 <img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/GBA-Ace-Attorney/0.jpg" width="480" height="300" alt='逆转裁判全人物'/>

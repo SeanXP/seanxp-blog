@@ -1,12 +1,15 @@
 ---
 title: 内网穿透校园网搭建 IPv6 代理
 date: 2018-08-12T14:18:07+08:00
-tags: ["Network", "Linux", "Server", "University"]
-categories: ["Tutorial"]
+tags:
+  - Linux
+  - 计算机网络
+  - 网络代理
+  - 大学
+categories:
+  - 网络技术
 draft: false
 ---
-
-
 <div align=center>
 <img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/school-proxy/0.jpg" alt='proxy'/>
 <blockquote class="blockquote-center">那时我们有梦，关于校园网，关于种子，关于穿越高校的 IPv6，

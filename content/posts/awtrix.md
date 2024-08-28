@@ -1,8 +1,12 @@
 ---
 title: DIY Awtrix WiFi Clock
 date: 2019-05-12T06:28:09+08:00
-tags: ["DIY", "Clock", "Embedded"]
-categories: ["DIY"]
+tags:
+  - 嵌入式
+  - 生活
+  - DIY
+categories:
+  - 科技数码
 draft: false
 ---
 

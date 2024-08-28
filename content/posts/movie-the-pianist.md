@@ -1,8 +1,12 @@
 ---
 title: The Pianist
 date: 2015-09-04T12:49:03+08:00
-tags: ["Review", "Documentary", "War", "Life"]
-categories: ["Movie"]
+tags:
+  - 战争
+  - 电影
+  - 感悟
+categories:
+  - 影视笔记
 draft: false
 ---
 

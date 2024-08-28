@@ -1,16 +1,17 @@
 ---
 title: 霜降十月游九寨
 date: 2021-11-13T11:20:26+08:00
-tags: ["Tour", "Fun", "Life"]
-categories: ["Tour"]
+tags:
+  - 九寨沟
+  - 旅游
+categories:
+  - 旅游游记
 draft: false
 ---
-
 九寨归来不看水，
 弱水三千一瓢饮。
 
 <!--more-->
-
 ## 九寨风光
 
 ![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Jiuzhaigou/01.jpg)

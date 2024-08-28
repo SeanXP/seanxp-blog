@@ -1,14 +1,18 @@
 ---
 title: Khan-Microeconomics-2
 date: 2019-05-04T14:40:09+08:00
-tags: ["Learning", "Finance", "Abstract", "Khan", "Course"]
-categories: ["Open Classes"]
+tags:
+  - Khan
+  - Coursera
+  - 金融
+  - 公开课
+categories:
+  - 学习笔记
 draft: false
 ---
+I can do this all day.
+—— 会计师联盟：无差异曲线（Accountants: Indifference Curve）
 
-<blockquote class="blockquote-center">I can do this all day.
-——会计师联盟：无差异曲线（Accountants: Indifference Curve）
-</blockquote>
 <!--more-->
 
 * [khanacademy-microeconomics](https://www.khanacademy.org/economics-finance-domain/microeconomics)

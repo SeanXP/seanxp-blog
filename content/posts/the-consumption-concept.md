@@ -1,11 +1,15 @@
 ---
 title: 双十一防剁手指南
 date: 2019-11-10T09:12:38+08:00
-tags: ["Life", "Guide", "Finance"]
-categories: ["Finance"]
+tags:
+  - 理财
+  - 消费观
+  - 投资
+  - 个人管理
+categories:
+  - 金融理财
 draft: false
 ---
-
 <div align=center>
 <blockquote class="blockquote-center">起初，他们发京东红包二维码的时候，
 我没有说话，因为我不逛京东。

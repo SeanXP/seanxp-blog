@@ -1,11 +1,15 @@
 ---
 title: 智齿列传第八
 date: 2017-12-10T08:44:41+08:00
-tags: ["Biology", "History"]
-categories: ["Biology"]
+tags:
+  - 历史
+  - 人类
+  - 生物学
+  - 牙齿
+categories:
+  - 学习笔记
 draft: false
 ---
-
 <div align=center>
 <img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/images/tooth8th-0.jpg" width="540" height="540" alt='Teeth'/>
 嗡 嘛 智 牟 耶 萨 列 德

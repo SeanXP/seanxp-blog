@@ -1,8 +1,11 @@
 ---
 title: 烟花三月下扬州
 date: 2021-04-25T08:50:15+08:00
-tags: ["Tour", "Fun", "Life"]
-categories: ["Tour"]
+tags:
+  - 扬州
+  - 旅游
+categories:
+  - 旅游游记
 draft: false
 ---
 

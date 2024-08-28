@@ -1,11 +1,13 @@
 ---
 title: 金陵秋游
 date: 2020-12-01T06:50:51+08:00
-tags: ["Tour", "Fun", "Life"]
-categories: ["Tour"]
+tags:
+  - 南京
+  - 旅游
+categories:
+  - 旅游游记
 draft: false
 ---
-
 <div align=center>
 <a href="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/nanjing-23.jpg" target="_blank"><img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/nanjing-23.jpg" width="378" height="378"></a>
 <blockquote class="blockquote-center">烟雨入江南，

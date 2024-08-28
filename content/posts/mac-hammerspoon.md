@@ -1,15 +1,19 @@
 ---
 title: Mac神器hammerspoon
 date: 2016-05-09T07:41:58+08:00
-tags: ["Mac", "Software", "Tutorial", "Efficiency"]
-categories: ["Mac"]
+tags:
+  - Mac
+  - 工具
+  - 效率
+categories:
+  - 生活随笔
 draft: false
 ---
 
 <div align=center>
 <img src="https://raw.githubusercontent.com/Hammerspoon/hammerspoon.github.io/master/images/hammerspoon.png" width="100" height="100" alt='Hammerspoon'/>
-一键切换常用应用，一键调整桌面布局，Love Mac，Love Hammerspoon。
 </div>
+一键切换常用应用，一键调整桌面布局，Love Mac，Love Hammerspoon。
 <!--more-->
 # What is Hammerspoon?
 This is a tool for powerful automation of OS X. At its core, Hammerspoon is just a bridge between the operating system and a Lua scripting engine.

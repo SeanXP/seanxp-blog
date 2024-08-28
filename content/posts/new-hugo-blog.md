@@ -1,16 +1,15 @@
 ---
 title: 我的 Hugo 新博客
-categories: []
+categories:
+  - 生活随笔
 tags:
   - DIY
-  - Efficiency
   - Blog
 date: 2024-08-27T08:08:26+08:00
 draft: false
 feature:
 ---
-
-凡是过去，皆为序章 (What's past is prologue)
+<center>凡是过去，皆为序章 (What's past is prologue)</center>
 <!--more-->
 
 ## 反思
@@ -24,12 +23,33 @@ feature:
 * 作为一名 IT 从业者，总是想不起来自动化，实在惭愧。写博客这件事是好的，道路也是曲折的，那就利用 IT 技术去**尽可能的自动化，减少阻力**。
 * **博客是写给自己的，顺便给他人看的**。之前导向错了，所以很多值得总结的内容，都写在了个人笔记系统里面，并没有分享出来。但是从我个人使用互联网的经验，自己的个人笔记再全面，也不过是互联网内容中的沧海一粟。不如把自己的笔记共享出来，一起共建一个更好的互联网。
 
-## 新博客原则
+## 原则
 1. 自动化，确保 99% 的时间精力都用在内容上，而非配置、解决博客系统构建等问题上；
 2. 简单化，博客系统简单点，不需要各种花里胡哨的插件。文章的配图、序言能省就省，直入主题最重要；
 3. 日常化，日常学习到的值得分享的内容，简单整理下就分享处理，不用“攒大招”搞一个系列出来；就当作是个人的公开笔记（“笔记”而非“博客”）
+### 分类方式
+分类（category）为主，标签（tag）为辅。一篇文章只能属于一个「分类」，但能拥有多个「tag」。
 
-## 新博客方案
+使用 Claude 针对我以前的博客分类/标签进行了归纳总结，整理出下面的分类，感觉还不错，试用一段时间看看：
+```
+读书笔记
+影视笔记
+旅游游记
+金融理财
+科技数码
+历史文化
+游戏体验
+生活随笔
+学习教育
+网络技术
+```
+
+
+参考：
+* [如何规划blog的标签（tag）和分类 - 心内求法 - 博客园](https://www.cnblogs.com/holbrook/archive/2012/11/05/2755268.html)
+* [个人博客的分类划分](https://noodlefighter.com/posts/2836/)
+
+## 博客方案
 
 - 域名 `seanxp.com`，托管在 `Cloudfare`，方便使用 `Cloudfare CDN` 加速；
 - 博客系统 `hugo`，一个高效简单的静态网站生成器，不会像 `hexo` 那样报一堆 js 错误，无依赖性，golang 语言（golang 粉丝狂喜）；
@@ -45,6 +65,6 @@ feature:
 2. `Cloudflare Pages` 监测到  `github`仓库变动，自动构建 hugo 静态页面；
 3. `seanxp.com` 上面就可以看到新的内容。
 
-参考：
+方案参考：
 - [obsidian 配合 hugo、cloudflare：让发布博客简单到不可思议 :: Lillian Who](https://lillianwho.com/posts/obsidian-hugo-cloudflare/)
 - [Hugo With Obsidian :: 木木木木木](https://immmmm.com/hugo-with-obsidian/)

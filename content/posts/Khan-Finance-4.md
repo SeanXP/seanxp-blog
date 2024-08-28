@@ -1,15 +1,17 @@
 ---
 title: Khan Academy - Finance and capital markets (4)
 date: 2018-03-11T16:48:28+08:00
-tags: ["Learning", "Finance", "Abstract", "Khan", "Course"]
-categories: ["Open Classes"]
+tags:
+  - Khan
+  - Coursera
+  - 金融
+  - 公开课
+categories:
+  - 学习笔记
 draft: false
 ---
-
-<blockquote class="blockquote-center"> 不想创业的程序员不是一个好会计。 --- 刘昂星
-</blockquote>
+不想创业的程序员不是一个好会计。 —— 刘昂星（中华小当家）
 <!--more-->
-
 # [Khan-Finance-1](https://seanxp.com/2016/05/Khan-Finance-1/)
 # [Khan-Finance-2](https://seanxp.com/2018/02/Khan-Finance-2/)
 # [Khan-Finance-3](https://seanxp.com/2018/03/Khan-Finance-3/)

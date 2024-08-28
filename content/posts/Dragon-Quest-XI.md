@@ -1,22 +1,19 @@
 ---
 title: 勇者斗恶龙XI
 date: 2020-03-29T07:12:51+08:00
-tags: ["Review", "Game", "Nintendo"]
-categories: ["Game"]
+tags:
+  - Nintendo
+  - 游戏
+categories:
+  - 游戏体验
 draft: false
 ---
+![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Dragon-Quest-XI/0.png)
 
-
-<div align=center>
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Dragon-Quest-XI/0.png" ></a>
-<blockquote class="blockquote-center">Who controls the past controls the future;
-Who controls the present controls the past.
-胸怀勇气，手握雷电，寻觅逝去的时光！
-</blockquote>
-</div>
-
+<center>Who controls the past controls the future;</center>
+<center>Who controls the present controls the past.</center>
+<center>胸怀勇气，手握雷电，寻觅逝去的时光！</center>
 <!--more-->
-
 ## 序
 * [wiki-勇者斗恶龙XI](https://zh.wikipedia.org/zh-hans/%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8DXI_%E5%B0%8B%E8%A6%93%E9%80%9D%E5%8E%BB%E7%9A%84%E6%99%82%E5%85%89)
 

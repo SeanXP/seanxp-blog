@@ -1,11 +1,14 @@
 ---
 title: 粮食、枪炮、病菌与钢铁
 date: 2019-12-22T15:18:35+08:00
-tags: ["Reading", "Book", "History", "Human", "Society"]
-categories: ["Book"]
+tags:
+  - 历史
+  - 社会学
+  - 人类
+categories:
+  - 读书笔记
 draft: false
 ---
-
 <div align=center>
 <img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/images/Guns-Germs-and-Steel-0.jpg" width="550" height="373"/>
 <blockquote class="blockquote-center">那已风化百年的历史

@@ -1,11 +1,14 @@
 ---
 title: 锦官城游记
 date: 2020-12-12T09:21:03+08:00
-tags: ["Tour", "Fun", "Life"]
-categories: ["Tour"]
+tags:
+  - 旅游
+  - 生活
+  - 成都
+categories:
+  - 旅游游记
 draft: false
 ---
-
 
 <div align=center>
 <a href="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-04.jpg" target="_blank"><img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-04.jpg" width="378" height="504"></a>

@@ -1,11 +1,13 @@
 ---
 title: 日剧：JIN-仁(仁医)
 date: 2016-04-05T15:05:27+08:00
-tags: ["Review", "TV"]
-categories: ["TV"]
+tags:
+  - 日剧
+  - 历史
+categories:
+  - 影视笔记
 draft: false
 ---
-
 <!--![JIN-1](https://ww2.sinaimg.cn/large/006tNbRwly1fdmdakvrz0j30zk0k00wz.jpg)-->
 ![JIN-1](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/TV-Jin-0.jpg)
 我生君未生，君生我已老。

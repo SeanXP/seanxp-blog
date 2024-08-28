@@ -1,12 +1,13 @@
 ---
 title: 临安游记
 date: 2020-12-27T15:29:36+08:00
-tags: ["Tour", "Fun", "Life"]
-categories: ["Tour"]
+tags:
+  - 杭州
+  - 旅游
+categories:
+  - 旅游游记
 draft: false
 ---
-
-
 <div align=center>
 <a href="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-25.jpeg" target="_blank"><img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-25.jpeg" width="672" height="448"></a>
 <blockquote class="blockquote-center">人人尽说江南好，游人只合江南老。春水碧于天，画船听雨眠。

@@ -1,12 +1,14 @@
 ---
 title: A Sweet Dream Within A Switch Game
 date: 2019-10-07T19:08:29+08:00
-tags: ["Review", "Game", "Nintendo"]
-categories: ["Game"]
+tags:
+  - Nintendo
+  - 游戏
+  - 塞尔达传说
+categories:
+  - 游戏体验
 draft: false
 ---
-
-
 <div align=center>
 <img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/the-legend-of-zelda-links-awakening/0.jpg" width="512" height="512"></a><blockquote class="blockquote-center">All that we see or seem,
 我们所看到和感受的一切，

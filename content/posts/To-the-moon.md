@@ -1,8 +1,12 @@
 ---
 title: To the moon
 date: 2017-05-16T19:38:39+08:00
-tags: ["Review", "Game", "Love", "Life"]
-categories: ["Game"]
+tags:
+  - 爱
+  - 游戏
+  - 音乐
+categories:
+  - 游戏体验
 draft: false
 ---
 

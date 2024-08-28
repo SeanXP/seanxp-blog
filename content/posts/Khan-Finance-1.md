@@ -1,15 +1,18 @@
 ---
 title: Khan Academy - Finance and capital markets (1)
 date: 2016-05-10T14:40:17+08:00
-tags: ["Learning", "Finance", "Abstract", "Khan", "Course"]
-categories: ["Open Classes"]
+tags:
+  - Coursera
+  - Khan
+  - 金融
+  - 公开课
+categories:
+  - 学习笔记
 draft: false
 ---
-
-<blockquote class="blockquote-center"> 天下熙熙，皆为利来；天下壤壤，皆为利往。
+天下熙熙，皆为利来；天下壤壤，皆为利往。
 夫千乘之王，万家之侯，百室之君，尚犹患贫，而况匹夫编户之民乎！
-《史记 货殖列传》
-</blockquote>
+——《史记 货殖列传》
 <!--more-->
 
 # 简介

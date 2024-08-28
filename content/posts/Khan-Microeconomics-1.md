@@ -1,8 +1,13 @@
 ---
 title: Khan Academy - Microeconomics (1)
 date: 2019-05-04T13:34:51+08:00
-tags: ["Learning", "Finance", "Abstract", "Khan", "Course"]
-categories: ["Open Classes"]
+tags:
+  - Khan
+  - Coursera
+  - 金融
+  - 公开课
+categories:
+  - 学习笔记
 draft: false
 ---
 

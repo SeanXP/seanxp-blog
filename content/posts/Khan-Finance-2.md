@@ -1,16 +1,19 @@
 ---
 title: Khan Academy - Finance and capital markets (2)
 date: 2018-02-25T10:30:45+08:00
-tags: ["Learning", "Finance", "Abstract", "Khan", "Course"]
-categories: ["Open Classes"]
+tags:
+  - Khan
+  - Coursera
+  - 金融
+  - 公开课
+categories:
+  - 学习笔记
 draft: false
 ---
-
-<blockquote class="blockquote-center"> 东市买骏马，西市买鞍鞯，南市买辔头，北市买长鞭。
+东市买骏马，西市买鞍鞯，南市买辔头，北市买长鞭。
 万里赴商机，海关度若飞。归来见天子，纳税百千强。
-</blockquote>
-<!--more-->
 
+<!--more-->
 # [Khan-Finance-1](https://seanxp.com/2016/05/Khan-Finance-1/)
 
 # 流动性与偿还能力

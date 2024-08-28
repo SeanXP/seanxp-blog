@@ -1,11 +1,14 @@
 ---
 title: 日本东京都之旅
 date: 2019-07-21T15:27:26+08:00
-tags: ["Tour", "Fun", "Life"]
-categories: ["Tour"]
+tags:
+  - 日本
+  - 旅游
+  - 东京
+categories:
+  - 旅游游记
 draft: false
 ---
-
 <div align=center>
 <img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Japan-Tokyo/0.jpg" width="512" height="512" alt='Fujisan'/>
 <blockquote class="blockquote-center">为何为好事泪流
@@ -13,8 +16,6 @@ draft: false
 </blockquote>
 </div>
 <!--more-->
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=28830804&auto=1&height=66"></iframe>
-
 ## 序
 因为很喜欢看日漫和日剧的原因，对日本这个国家的历史和文化很感兴趣。曾经计划去一趟日本关西大阪，看看丰臣秀吉之城，奈何最终出游计划落空。幸好近期赶上一次日本东京都的旅游机会，决定花掉即将过期的年休假，飞去日本，体验下日本生活。
 

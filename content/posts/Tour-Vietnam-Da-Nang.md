@@ -1,11 +1,13 @@
 ---
 title: 岘港游记
 date: 2019-06-30T09:18:14+08:00
-tags: ["Tour", "Fun", "Life"]
-categories: ["Tour"]
+tags:
+  - 越南
+  - 旅游
+categories:
+  - 旅游游记
 draft: false
 ---
-
 <div align=center>
 <img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Vietnam-Da-Nang/0.jpg" width="512" height="512" alt='Fly Me to the Da Nang'/>
 <blockquote class="blockquote-center"> 乘上与平时相反方向的列车，为了去看未曾看过的风景。

@@ -1,8 +1,12 @@
 ---
 title: 西安游记
 date: 2020-01-22T10:56:48+08:00
-tags: ["Tour", "Fun", "Life"]
-categories: ["Tour"]
+tags:
+  - 西安
+  - 旅游
+  - 历史
+categories:
+  - 旅游游记
 draft: false
 ---
 

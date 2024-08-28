@@ -1,12 +1,13 @@
 ---
 title: 金秋九月赏北疆
 date: 2021-09-25T08:38:29+08:00
-tags: ["Tour", "Fun", "Life"]
-categories: ["Tour"]
+tags:
+  - 新疆
+  - 旅游
+categories:
+  - 旅游游记
 draft: false
 ---
-
-
 <div align=center>
 <img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-XinJiang/19.jpeg" ></a>
 </div>

@@ -1,8 +1,12 @@
 ---
 title: 三月春游
 date: 2021-03-27T21:10:15+08:00
-tags: ["Tour", "Fun", "Life"]
-categories: ["Tour"]
+tags:
+  - 重庆
+  - 旅游
+  - 美食
+categories:
+  - 旅游游记
 draft: false
 ---
 

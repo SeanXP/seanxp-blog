@@ -1,14 +1,18 @@
 ---
 title: 那个“歌吧”
 date: 2018-08-24T08:20:21+08:00
-tags: ["Poetry"]
+tags:
+  - 歌曲
+  - 生活
+  - DIY
 draft: false
+categories:
+  - 生活随笔
 ---
+打工人写给自己的歌 —— 那个“歌吧”（GUB）
 <!--more-->
-
- <div align=center>
  <img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/images/I-miss-that-gub-0.jpg" width="500" height="500" alt='that-bug'/>
- <blockquote class="blockquote-center">
+ 
  磁盘的风，能否吹降内存的增
  液晶的光，能否抚慰终端的伤
  栈顶的针，能否落向堆链的身
@@ -21,7 +25,5 @@ draft: false
  可能我溢了缓冲才会死机吧
  可能我偏要单线程跑到底吧
  可能我还没遇见，那个“歌吧”（GUB）
- </blockquote>
- </div>
 
 

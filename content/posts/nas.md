@@ -1,13 +1,14 @@
 ---
 title: NAS 从入门到放弃
 date: 2019-11-09T10:08:59+08:00
-tags: ["Internet", "Hardware"]
+tags:
+  - 工具
+  - 生活
 draft: false
+categories:
+  - 科技数码
 ---
-
-<blockquote class="blockquote-center">予有钱者入门，
-予没有钱者放弃。
-</blockquote>
+予有钱者入门，予没有钱者放弃。
 <!--more-->
 
 ## 序

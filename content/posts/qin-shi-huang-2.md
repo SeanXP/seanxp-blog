@@ -1,8 +1,13 @@
 ---
 title: 中国古代历史与人物：秦始皇（2）
 date: 2019-08-31T12:35:36+08:00
-tags: ["History", "Chinese", "Learning", "Course"]
-categories: ["History"]
+tags:
+  - Coursera
+  - 历史
+  - 史记
+  - 公开课
+categories:
+  - 历史文化
 draft: false
 ---
 
