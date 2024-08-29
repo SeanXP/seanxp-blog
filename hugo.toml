@@ -319,15 +319,14 @@ enable = false
 # DoIt 更改 | 0.2.0 评论系统设置
 [params.page.comment]
 enable = true
-# DoIt 新增 | 0.2.5 Utterances 评论系统设置
-[params.page.comment.utterances]
+# DoIt 新增 | 0.2.13 Remark42 评论系统设置
+[params.page.comment.remark42]
 enable = true
-# owner/repo
-repo = "SeanXP/seanxp-blog"
-issueTerm = "pathname"
-label = ""
-lightTheme = "github-light"
-darkTheme = "github-dark"
+host = "https://remark42.seanxp.com"
+site_id = "seanxp.com"
+max_shown_comments = 15
+show_email_subscription = true
+simple_view = true
 
 # DoIt 新增 | 0.2.0 网站分析配置
 [params.analytics]
