@@ -11,7 +11,7 @@ draft: false
 
 
 <div align=center>
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/0.jpg" ></a>
+<img src="https://image.seanxp.com/Tour-Yunnan/0.jpg" ></a>
 <blockquote class="blockquote-center">我叫遥大地，小学五年级，要到月球去。
 </blockquote>
 </div>
@@ -48,7 +48,7 @@ draft: false
 8. 9.6周日，昆明一日游，西山/滇池海埂公园，昆明飞深圳（17:20-19:25）；
 
 ## Day0 去大理
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/1.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/1.jpg)
 
 	Earth，你好吗？真是的，分别还不到两小时。
 	这次要到月球去，真是再好不过了。能在月球穿我的滑板鞋，是我一直以来的梦想。
@@ -69,11 +69,11 @@ draft: false
 海景房，没有日出，没有海风，没有阳光明媚万里无云，有的是深更半夜里，电闪雷鸣，听取蛙声一片。
 晚上下了一晚上的雨，早上还在下小雨，本来以为环游洱海的计划要泡汤，10点左右雨渐渐停了，于是赶紧出发，环游洱海。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/2.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/2.jpg)
 从正义门进入喜洲古镇，逛了一个多小时。刚刚下过雨，空气很清新，也不会太晒，湖面也很平静，就是天空不给力，并不是蓝天白云。
 吃了下传闻中的喜洲粑粑，类似北方的甜大饼。个人感觉鲜花饼更甜也更好吃一些。看了看镇上的老宅子，老榕树。街道上就感觉没什么逛的，类似大理古城的商业街，里面各种民族特色衣服或者首饰、纪念品之类的，对我毫无吸引力。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/3.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/3.jpg)
 下午去双廊古镇，又是一片更大的商业街罢了。古镇的原有风貌，只能抬头看看屋檐，低头看看石板路罢了。路上同样很多野生菌火锅，各种各样的菌都没见过。下午又开始下大雨，双廊游玩一半而返。
 
 双廊去挖色的最美环海公路，坐在车上已然犯困。这条路上也看到了不少小姐姐，很多都租着花花绿绿的甲壳虫汽车，自驾来环游洱海的。小普陀，就是一个有间房子的小小岛，登岛还要收费15元，没什么兴趣。环海东路的沿海景色确实不错，公路离海岸线很近，又没有多少植被挡住事业，一路环行，右侧就是“蓝天白云洱海”。可惜这一天是阴天，只能看看湖面而已。下次来云南，一定要找个晴天再环游一次洱海！
@@ -89,25 +89,25 @@ draft: false
 ## Day2 三只羊下山吃草，快上点苍山
 第一天天气不佳，从洱海回来就一直下大雨，直到深夜。第二天要去苍山的想法有些动摇，如果还是下雨天，上索道感觉也看不到什么好风光。不过云南天气就是这样飘忽不定，第二天放晴了，而且看到了洱海日出。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/4.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/4.jpg)
 人生有很多美好的事情，但更多的是美好的东西就在旁边，而你却无动于衷。
 思考人生时发现阳光照了进来，出来发现已经快结束了，就是一件听起来不怎么美好的事情。
 所以说，思考人生时不要玩手机。:-)
 
 天气不错，快上点苍山！再次穿过大理古城，来到苍山洗马谭索道口。查了下苍山山顶气温十五六度，也自备了外套，加上同行的小伙伴都比较年轻气盛，所以就没有再租借氧气瓶和羽绒服。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/5.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/5.jpg)
 10点开始坐洗马谭索道上苍山，虽然还是有不少白云，不过蓝天也慢慢出现。缆车上俯瞰洱海全景，蓝天、白云、洱海月，和昨天阴天环游洱海真的是完全不一样的体验。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/6.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/6.jpg)
 随着缆车海拔高度的进一步攀升，穿入了环山云层里。周围可见度不断降低，最后到了只能看到座下缆车的地步，偶尔左侧突然闪过另一个缆车。虽然没有了亮丽的苍山风景线，飘飘然仿佛升仙般的缆车体验，实际也不错嘛！
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/7.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/7.jpg)
 缆车继续攀升，直至穿过云层，到了苍山山顶，真正的「拨云见日」。山顶是真正的蓝天白云大太阳，风景好的同时也非常的晒（由于之前是阴天且下雨，同行的小伙伴们都没有想到要做防晒工作，就短短苍山半日游，最后基本都被晒伤了）。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/8.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/8.jpg)
 下缆车后，经过一段长长的楼梯，高原反应空气稀薄，紫外线也是非常晒，最后终于抵达了洗马潭观景台。洗马潭湖水清澈见底，旁边就是苍山旁的云层，山巅之湖，更像是云巅之湖！
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/9.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/9.jpg)
 从洗马潭观景台再爬一段楼梯，抵达山顶。网上有句广告，叫做"维他柠檬茶，爽过吸大麻"，在海拔3966米的山顶上吃上两粒薄荷糖，再大吸一口高山冷空气，那感觉真的是令人大脑颤抖（还真是怠惰啊）。
 
 登山一时爽，高原反应火葬场。爬山过程中感觉体力还行，还是同行小伙伴里第一个爬上山顶的。结果从苍山逛下来后，就开始一直头疼，恨不能“用利斧砍开脑袋，取出风涎，方可除头风病根”。直到晚上吃过晚餐，才缓解过来。
@@ -131,10 +131,10 @@ draft: false
 ## Day3 玉龙雪山蓝月谷
 本来今天的行程是计划丽江古城一日游，不过由于天气非常好，第二天丽江反而可能会下雨，所以我们上午调整了行程，直接出发去玉龙雪山。可惜由于最近玉龙雪山大索道检修，没办法通过大索道登上最高的冰川公园（不过这个季节应该也看不到雪，这雪山，不上也罢√）。所以最后选择了云杉坪小索道+蓝月谷一日游的行程。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/10.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/10.jpg)
 通过索道抵达云杉坪风景区，途径一大片原始森林高山草甸。没想到在高原高山上，绿化程度还能这么高，里面有很多百年大树，地面上基本被绿草地衣覆盖。看到有一颗大树倒了下去，将绿化带分隔开来。给人一种风之谷漫画中「腐海」被阻断的感觉。原始森林，好茂盛的生命力！
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/11.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/11.jpg)
 穿过长长的原始森林区域，来到云杉坪的高山牧场。背靠雪山，一片宽广的草地牧场，上面还有些许牛羊。不过雪山上的天气不太好，云层浓密地遮挡着害羞的雪山，使人难以一窥雪山真面目。其实是这样的天气，牧场上依旧有许许多多来拍照的新人夫妇。
 
 是什么让他们在粪便遍地的草场欢呼？
@@ -142,16 +142,16 @@ draft: false
 咚巴拉！
 
 从云杉坪索道下来，中午在附近的村子吃了土鸡锅，下午就在雪山脚下参观蓝月谷白水河。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/12.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/12.jpg)
 这头牦牛的犄角，完美符合了 Y=X^3 的曲线，非常有趣。虽然天气不怎么好，但是蓝月谷的景色还是非常漂亮的，蓝色色的湖水，背后是绿意葱葱的山峰，再远处就是云雾中的雪山。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/13.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/13.jpg)
 除了牦牛以外，还看到一头羊驼，毛发好旺盛！
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/14.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/14.jpg)
 逛了蓝月谷一圈，来拍婚纱照的夫妻非常非常多，走几步就能看到一对新人在摆拍。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/15.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/15.jpg)
 这位大妈，独自一人面对瀑布激流扬起的水雾，还能微笑地张开双臂去面对。
 
 	风雨彩虹
@@ -160,39 +160,39 @@ draft: false
 
 	D3. 铿锵玫瑰
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/16.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/16.jpg)
 雪山套餐里赠送的氧气瓶，完全没有用到。昨天爬苍山3966米都不需要氧气瓶，今天爬更低的云杉坪就更不需要了。倒是很应景，蓝月谷的景色，青山绿水，美的“令人窒息”。
 
 今天还遇见了一场“意外”。一对情侣来蓝月谷玩，戒指掉进木桥的缝隙里了，男孩下水游到木桥下面去找。蓝月谷这个水质，看着可见度不会太高。木桥和水面的距离，就是男孩能够呼吸的空间，看着挺危险。男孩下水三次去找，女孩趴在木桥上哭着说不要戒指了，让男孩赶紧上来。最后幸运地是男孩第三次下水找到了戒指。不得不感叹爱情的力量，连旁边的小姑娘都看呆了。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/17.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/17.jpg)
 
 ## Day4 云南古镇
 第四天的行程是丽江古城一日游。上午先出发去束河古镇游玩，下午和晚上再回大研古镇逛。
 束河古镇，比丽江古城（大研古镇）要小一些，商业化也少一些，所以上午来这边，游客还不是很多。听着音乐，看看小镇上的建筑，散散步。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/18.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/18.jpg)
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/19.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/19.jpg)
 没想到在人来人往的街道，能都看到这样一株元气满满的向日葵！
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/20.jpg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/201.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/20.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/201.jpg)
 商业化少一些，小镇的整体生活节奏还是挺慢的，慢节奏生活。早上的狗狗还都躺着睡懒觉呢。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/21.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/21.jpg)
 没想到大早上，还有有很多来拍婚纱照的新婚夫妇。可是我更关心这家店的包酱豆腐好不好吃哎。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/22.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/22.jpg)
 古镇深处的一条小巷子，墙上画着图画象形文字东巴文。这个...还挺象形的。
 
 逛玩束河古镇，中午返回大研古镇吃午餐。然后逛大研古镇。天气预报今天丽江下雨，结果今天中午大太阳非常的晒。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/23.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/23.jpg)
 漫步在大研古镇的石板路上，蓝天白云，风景也不错。不过昔日里的古镇建筑，已经充斥了商业化气息了。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/24.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/24.jpg)
 
 参观木府前，对木府的认知几乎为零，只是听说过《木府风云》这部电视剧，也没有看过。听过木府里面包含云南特色民族建筑，所以才买门票进来逛逛。跟着其他旅游团的导游讲解，对木府土司木增的事迹有些了解，在上网查了相关资料，对纳西族也很感兴趣了。有时间可以看看《木府风云》这部电视剧。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/25.jpg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/26.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/25.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/26.jpg)
 正在看《木府风云》的剧情简介，看到庭院里就来了两个小朋友。玩耍的样子，突然感觉代入到了电视剧里面。
 
 	阿勒邱和19阿宅阿寺的日常小游戏。
@@ -214,13 +214,13 @@ draft: false
 
 计划从丽宁公路出发，经过宁蒗，抵达泸沽湖，四个小时车程(8:30-12:30)。
 一路上路况不佳，山路崎岖，各种落石路段，还有因落石而拥塞变成单车道的路段。女司机师傅也是猛，各种弯道超车。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/27.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/27.jpg)
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/28.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/28.jpg)
 就是这样各种弯道爬坡的山路，竟然有人在学车？我们眼里的迷之操作，司机说这是这边的常规操作，经常有学员在山路上学车。
 
 前方的道路还很曲折，远方是金沙江。一路远眺，感觉前方白茫茫，开始担忧泸沽湖的天气，不知道中午抵达时天气如何。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/29.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/29.jpg)
 
 	丽宁公路连超四车，十八弯弯道再超两车，连续下坡21km，落石路段8km，团雾路段，路基沉陷路段，
 	连续下坡急弯路段，落石路段，弯道超车，急弯路段，弯道超车，连超两车，
@@ -233,21 +233,21 @@ draft: false
 
 每年5-10月，泸沽湖的水面便会绽放出纯白的小花，洁净淡雅，三片雪白色的花瓣聚拢在一起，簇拥着中间一抹黄色的花蕊。在云南的9大高原湖泊里，唯有泸沽湖最常能寻到它的踪迹，因为这种花对水质要求非常高，必须要生长在没有污染的水域。
 幸运的是，这个季节还能看到些许少量的水性杨花，而且中午过后马上就要凋谢了。所以我们第一站就是坐猪槽船看水性杨花。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/30.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/30.jpg)
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/31.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/31.jpg)
 坐猪槽船短途往返，划船到湖中央，船下就是湖水泉眼。听说湖中央的泉眼水甚至可以直接饮用。泸沽湖的水质非常的清澈，旁边的妹子用矿泉水装了一瓶，太阳光下甚至看不出来和矿泉水的区别。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/32.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/32.jpg)
 穿过草海走婚桥，旁边都是一对对情侣相互摆拍合影，游览过程中出现了身体不适的情况。走婚桥上的游客非常多，一路走走逛逛，看看两边的草海。走婚桥路程较短，后面就是长长的商业街。甚至有很多小朋友在出摊卖货。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/33.jpg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/34.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/33.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/34.jpg)
 四川情人滩（是的，泸沽湖处于四川云南两省交界，所以就连情人滩都分四川版和云南版 XD），中午非常的晒，游客很少，风景相比走婚桥更好。阳光直射湖水，清澈见底，微风吹过，湖面波光粼粼。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/35.jpg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/36.jpg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/37.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/35.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/36.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/37.jpg)
 泸源涯的游客很稀少，景色却是最优美的。高处拍摄泸沽湖，湖面平静，波光粼粼，好一副山水画！
 
 	夫夷以近，则游者众；险以远，则至者少。而世之奇伟、瑰怪，非常之观，常在于险远，而人之所罕至焉，故非有志者不能至也。
@@ -255,13 +255,13 @@ draft: false
 穿过川滇交界线，重新回来云南，抵达客栈。稍作歇息，晚上去体验了一把摩梭篝火晚会，又和朋友一起吃了顿柴火鸡。
 
 Day6 早上又逛了云南版的情人滩，游客不少，不过天气不如昨天了。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/38.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/38.jpg)
 远眺里格半岛。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/39.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/39.jpg)
 大洛水村旁的摩梭族小孩。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/40.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/40.jpg)
 
 	蓝蓝的天空银河里
 	有只小白船
@@ -273,29 +273,29 @@ Day6 早上又逛了云南版的情人滩，游客不少，不过天气不如昨
 
 	D6. 小白船
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/41.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/41.jpg)
 第6天上午环游泸沽湖结束，准备返回丽江。又是4小时的速度与激情。回程路上遇到了塌方路段，对面车道堵的严严实实，只有小车勉强可以从单车道穿过。不由感叹这次旅游运气蛮好，赶上了泸沽湖近一周来的好天气，也赶上路况正常的时候，没有耽误行程。
 
 由于行程紧凑，没有耽误，下午顺利抵达丽江，坐动车前往最后一战——昆明。抵达酒店后，去南屏街夜市逛。可惜有些晚，很多餐馆都歇业了。只能在小吃街吃点。昆明女孩真的是人手捧着一杯奶茶，小吃街一半都是饮品铺子。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/42.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/42.jpg)
 返回酒店，看看昆明夜景，最后一夜，明天就在昆明散散步，当作普通周末休息了。
 
 ## Day7 西山滇池
 
 带着泳裤一星期了，终于能游泳一次。在丽江时，酒店由于疫情原因，室外泳池关闭了。难得喝一次泳池水，就一次喝个饱。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/43.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/43.jpg)
 
 酒店早餐也很给力，49F的自助早餐。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/44.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/44.jpg)
 
 洗漱完毕，办理了退房。开始了昆明半日游。本来是打算去滇池海埂公园的，结果半路先上了西山。坐索道上西山，远眺滇池美景。不过看过了泸沽湖，滇池也就这么回事了。同样的，去过了苍山和玉龙雪山，西山也没有多大吸引力。到时聂耳墓祭拜了下，也更深入地了解了这位音乐天才的人生事迹。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/45.jpg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/46.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/45.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/46.jpg)
 
 下山归来，逛逛滇池海埂公园。周末公园里很多亲子游，大人带着孩子来公园玩耍，一派祥和气息。听听歌，吹吹风，看看景，逗逗狗，也蛮不错的。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/47.jpg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/48.jpg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Yunnan/49.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/47.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/48.jpg)
+![](https://image.seanxp.com/Tour-Yunnan/49.jpg)
 
 	“这个”年纪的我们和“那个”年纪的我们
 	D7. 这个年纪

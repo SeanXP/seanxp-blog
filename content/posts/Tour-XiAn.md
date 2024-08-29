@@ -11,7 +11,7 @@ draft: false
 ---
 
 <div align=center>
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-XiAn/0.jpg" width="300" height="400"></a>
+<img src="https://image.seanxp.com/Tour-XiAn/0.jpg" width="300" height="400"></a>
 <blockquote class="blockquote-center">鸳鸯双栖蝶双飞，满园春色惹人醉。
 悄悄问圣僧，女儿美不美？
 </blockquote>
@@ -40,14 +40,14 @@ draft: false
 最好提前预约，因为当天的免费票只有6000张，晚了好时间段或者票没有了会打乱出行计划的。或者在网上预约30元珍宝馆+基础馆票可以直接进不用排队。
 
 我是在飞猪上定“珍宝馆+讲解”的套票，上午9点集合，导游领票后带队入场。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-XiAn/1.jpg)
+![](https://image.seanxp.com/Tour-XiAn/1.jpg)
 
 不到一周就要过年了，没相当游客还是这么的多。珍宝馆看展品，只有两种情况，要么被挤得远远地眺望，要么被挤的脸贴玻璃看。导游讲解很专业，奈何硬件设备跟不上时代，单挂耳耳机戴上一上午，耳朵非同难受。每个导游都有一个伸缩杆做向导带路，上面绑的东西五花八门，有丝带、有玩偶，十分有趣。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-XiAn/2.jpg)
+![](https://image.seanxp.com/Tour-XiAn/2.jpg)
 
 既然来了，其他东西可以被挤得看不到，但是镇馆之宝还是必须要拍一张纪念的。
 [兽首玛瑙杯](https://zh.wikipedia.org/zh-hans/%E5%85%BD%E9%A6%96%E7%8E%9B%E7%91%99%E6%9D%AF)，1970年于陕西省西安市何家村唐代窖藏出土的一件玛瑙酒具，现藏于陕西历史博物馆，是唐代的一件俏色玉雕精品。2002年被列入中华人民共和国禁止出国(境)展览文物名单。（一件异域进贡给大唐的宝物，如今成为了中国国宝 :-)）
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-XiAn/3.jpg)
+![](https://image.seanxp.com/Tour-XiAn/3.jpg)
 
 我不是很喜欢拍文物，一是没有专业设备和良好的拍摄环境，拍出来的照片，也没有多少回忆价值。不如直接上网搜高清图片简单方便。所以拍摄的照片不多，只有几张，而且是因为看上去觉的有趣，而非文物有多么多么贵重等。
 
@@ -55,11 +55,11 @@ draft: false
 
 	So many people all around the MUSEUM.
 博物馆的人实在是太多多多多多多多多多多多多多多多多了。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-XiAn/4.jpg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-XiAn/5.jpg)
+![](https://image.seanxp.com/Tour-XiAn/4.jpg)
+![](https://image.seanxp.com/Tour-XiAn/5.jpg)
 
 意外的路人小姐姐入镜，还非常配合地摆了一个亚洲标准剪刀手 XD。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-XiAn/6.jpg)
+![](https://image.seanxp.com/Tour-XiAn/6.jpg)
 
 总体而言，博物馆还是非常值得去的，门票+讲解费用不及一顿海底捞，但是收获的却是一上午的历（xiang）史（hu）薰（yong）陶（ji）。站在现代人的角度去看古代人所创作的这些东西，有些物品在现代已经有了更好更先进的替代品，不禁让人感受进步带来的幸福；有些物品在现代反而做不出来（或者没有人会去做），也能让人感受到古人的技术造诣（体验不到黄金脸盆洗脸的快乐了）。
 
@@ -76,12 +76,12 @@ draft: false
 我是从南门登上城墙，租了一辆山地自行车，绕着城墙骑行了整整一圈。全长14公里，如果是公路骑行的话，不费吹灰之力。但是这可是城墙上，城墙上面是一块块灰砖堆垒起来的，所以骑行起来坑坑洼洼不断，加上自行车减震效果不行，一路下来手腕简直太酸爽。而且其实城墙上面也不是水平的，而是倾斜一定角度，对外垒高加强防御，对内垒低倾斜方便排水，在城墙下面走，也能看到一条条排水管道。
 
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-XiAn/7.jpg)
+![](https://image.seanxp.com/Tour-XiAn/7.jpg)
 
 骑行时，路上经常能看到一些刻字的灰砖，都是 xx 村 xx 年（户县大王王守，一九八四）。网上查到，是1984年至1986年期间，西安城墙曾进行大规模的维护修缮。距离西安18公里的户县（现在更名为鄠邑区）大王镇王守村，为修缮西安城墙工程烧制了大批的城砖。为了便于区分和铺设，人们仿效故人在城砖之上烧制文字。所以，凡是刻有“户县大王王守，一九八四”字样的城砖，都是仿制品。
 
 三四十年，刻在砖上的字都有些变得模糊不清了，真正流传后世的，又有哪些东西呢？想到三体小说里，人类即将灭绝之际，用于传承知识的载体，不是各种电子设备，也是刻石头。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-XiAn/8.jpg)
+![](https://image.seanxp.com/Tour-XiAn/8.jpg)
 
 ## Day1.3-骡马市
 晚上去逛骡马夜市，好吃的小吃不少，每样吃一点，逛完一条街就吃饱了。
@@ -89,12 +89,12 @@ draft: false
 
 ## Day2.1-大雁塔
 因为第一天上午是9点才去陕西历史博物馆集合，所以第一天上午我就来大雁塔外面逛逛。还没日出，公园里已经有不少人了。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-XiAn/9.jpg)
+![](https://image.seanxp.com/Tour-XiAn/9.jpg)
 广场前有一位老大爷在玩轮滑，装备齐全，滑的很溜。想到了我荒废已久的轮滑鞋。大一大二时很喜欢玩轮滑，参加了轮滑社，团购了轮滑鞋，和舍友一起去操场学轮滑，从开始得相互搀扶才能站起来，到后面的练习各种过桩技巧。后来学业竞赛两头跑，也就渐渐荒废了。真没时间吗？也不是，和舍友周末玩一天局域网游戏还是很 high 的。大学期间爱好不少，由于时间精力有限，不少都浅尝辄止。没能坚持下去可惜吗？也不觉的可惜，因为当时是真喜欢，也花费时间精力去学习，去体验这些东西。也只有体验足够多的东西，才能真正发现哪些是你更喜爱，更想去追求的东西。
 
 人生的路还很长，希望我也能时刻像这位大爷一样，保持一颗年轻的心态，持续学习，终身成长。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-XiAn/10.jpg)
+![](https://image.seanxp.com/Tour-XiAn/10.jpg)
 
 日出长安，清晨慈恩，
 雁塔前跳舞的阿姨们，
@@ -105,8 +105,8 @@ draft: false
 
 这次来大雁塔的目的，就是为了站在父亲大人曾经站的地方，拍一张相同背景的照片。大雁塔和大雄宝殿仍在，但是其他布局早已更换（连地砖都换了一层了）。
 事过境迁，但又殊途同归。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-XiAn/11.jpg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-XiAn/12.jpg)
+![](https://image.seanxp.com/Tour-XiAn/11.jpg)
+![](https://image.seanxp.com/Tour-XiAn/12.jpg)
 
 [大慈恩寺（大雁塔）](http://www.mafengwo.cn/poi/2719.html)
 大雁塔又名大慈恩寺塔，原称慈恩寺西院浮屠（浮屠即塔的意思），唐代玄奘为藏经典而修建。大慈恩寺是唐朝的皇家寺院，原是高宗李治为纪念其母长孙皇后而建，唐僧是该寺的首任主持，并在此翻译佛经。
@@ -116,16 +116,16 @@ draft: false
 毕业几年，还没有回过西电，每次回西安都是中转。趁着这次西安旅游，特地回西电北南校区逛逛。走走自己之前三点一线走过的路，听听自己当初爱听的歌。（缘，妙不可言。博文写到这里时，随机到了《With An Orchid》这首歌，是西电80年校庆时的背景音乐，当时我非常喜欢听这首音乐。而明年就是西电的90年校庆了。另一个印象深刻的背景音乐，是图书馆天天开馆时放的《星空》XD）
 
 	青春慢慢从身边溜走，我开始变的怀旧
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-XiAn/13.jpg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-XiAn/14.jpg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-XiAn/15.jpg)
+![](https://image.seanxp.com/Tour-XiAn/13.jpg)
+![](https://image.seanxp.com/Tour-XiAn/14.jpg)
+![](https://image.seanxp.com/Tour-XiAn/15.jpg)
 
 ## Day2.3-小雁塔
 [小雁塔](http://www.mafengwo.cn/poi/2721.html)
 又名荐福寺塔，始建于唐代，现位于西安博物院内。是唐代佛教建筑艺术遗产，佛教传入中原地区并融入汉族文化的标志性建筑。西安博物院和皮影戏就在小雁塔景区里，可以一起逛。而且小雁塔只需要身份证就可以领取免费门票。
 小雁塔环境清幽，经受了1200多年风雨的侵袭和70余次地震的考验，历史上曾经历过三次离合。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-XiAn/16.jpg)
+![](https://image.seanxp.com/Tour-XiAn/16.jpg)
 
 ## Day2.4-永兴坊
 第二天去了网红美食城永兴坊，边吃边逛，边逛边吃。最后出门再买根糖葫芦，糖葫芦8元一串，一串8颗，一颗山楂一元钱，真正感受到了通货膨胀的压力，都要吃不起糖葫芦了。
@@ -138,8 +138,8 @@ Tips: 门票采取的一票一人的实名制，所以建议预约购票，并�
 可以在售票大厅可以现场拼导游讲解，可以进到售票大厅的导游都是正规的。
 
 第三天一早就坐车去了兵马俑，赶着最早的一班，拼上讲解导游逛兵马俑。先逛零二三号坑，最后逛一号坑。导游专业幽默，讲解得非常好。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-XiAn/17.jpg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-XiAn/18.jpg)
+![](https://image.seanxp.com/Tour-XiAn/17.jpg)
+![](https://image.seanxp.com/Tour-XiAn/18.jpg)
 
 	千人千面兵马俑，潼关渭水守千秋。
 	百万将士今犹在，仍拥当年秦始皇。

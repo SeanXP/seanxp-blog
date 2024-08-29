@@ -10,7 +10,7 @@ categories:
   - 生活随笔
 ---
 <div align=center>
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/images/he-lived-0.JPG" width="540" height="540" alt='哈工大铁道口'/>
+<img src="https://image.seanxp.com/images/he-lived-0.JPG" width="540" height="540" alt='哈工大铁道口'/>
 </div>
 <blockquote class="blockquote-center">有骂过这家公司，
 有骂过这个时代，

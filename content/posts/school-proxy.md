@@ -11,7 +11,7 @@ categories:
 draft: false
 ---
 <div align=center>
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/school-proxy/0.jpg" alt='proxy'/>
+<img src="https://image.seanxp.com/school-proxy/0.jpg" alt='proxy'/>
 <blockquote class="blockquote-center">那时我们有梦，关于校园网，关于种子，关于穿越高校的 IPv6，
     如今下班后的我们深夜饮酒，杯子碰到一起，都是梦破碎的声音。
 </blockquote>
@@ -19,7 +19,7 @@ draft: false
 
 <!--more-->
 <div align=center>
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/school-proxy/1.jpg" width="400" height="400" alt='NAT'/>
+<img src="https://image.seanxp.com/school-proxy/1.jpg" width="400" height="400" alt='NAT'/>
 </div>
 * [wiki-网络地址转换](https://www.wikiwand.com/zh-hans/%E7%BD%91%E7%BB%9C%E5%9C%B0%E5%9D%80%E8%BD%AC%E6%8D%A2)
 
@@ -53,7 +53,7 @@ draft: false
 
 autossh 是一个用来启动 SSH 并进行监控的程序，通过 autossh，内网机器通过防火墙利用 SSH 隧道搭建一个反向代理，建立端口映射关系，外网就可以主动访问内网的特定端口了。实际上 SSH 本身就可以搭建反向代理，但是由于网络故障或抖动，SSH 可能会断开，而 autossh 支持断开重连机制，确保 SSH 会话的稳定。
 
-![ssh反向代理](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/school-proxy/2.jpg)
+![ssh反向代理](https://image.seanxp.com/school-proxy/2.jpg)
 
 [autossh (1) - Linux Man Pages](https://www.systutorials.com/docs/linux/man/1-autossh/)
 autossh: monitor and restart ssh sessions
@@ -92,7 +92,7 @@ autossh 的使用也非常简单，一行命令即可：
 2. 内网机器可以通过 SSH 连接外网机器（这里为了方便连接，一般可使用 SSH 公钥认证登录（ssh public key authentication）来避免手动输入密码；
 
 ### ngrok
-![ngrok内网穿透](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/school-proxy/3.png)
+![ngrok内网穿透](https://image.seanxp.com/school-proxy/3.png)
 
 #### 简介
 * [ngrok - Introspected tunnels to localhost](https://github.com/inconshreveable/ngrok)
@@ -174,7 +174,7 @@ ngrok的主要用途有以下几种：
 * [github-frp](https://github.com/fatedier/frp)
 * [frp中文文档](https://github.com/fatedier/frp/blob/master/README_zh.md)
 
-![frp架构](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/school-proxy/4.jpg)
+![frp架构](https://image.seanxp.com/school-proxy/4.jpg)
 
 根据对应的操作系统及架构，从 [Release](https://github.com/fatedier/frp/releases) 页面下载最新版本的程序。
 
@@ -211,7 +211,7 @@ CERNET2主干网将充分使用CERNET的全国高速传输网，以 2.5Gbps-10Gb
 中国教育和科研计算机网CERNET始建于1994年，是中国第一个采用IPv6技术的全国性互联网，对中国互联网发展具有重大示范意义。
 2001年，CERNET提出建设全国性下一代互联网CERNET2计划。2003年8月，CERNET2计划被纳入由国家发改委等八部委联合领导的中国下一代互联网示范工程CNGI。
 
-![CERNET2的100所高校的主干网络拓扑图](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/school-proxy/5.jpg)
+![CERNET2的100所高校的主干网络拓扑图](https://image.seanxp.com/school-proxy/5.jpg)
 
 ### [IPv6](https://www.wikiwand.com/zh-hans/IPv6)
 网际网路通讯协定第6版（英文：Internet Protocol version 6，缩写：IPv6）是互联网协议的最新版本，用于封包交换互联网络的网路层协议，旨在解决IPv4地址枯竭问题。

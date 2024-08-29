@@ -9,7 +9,7 @@ categories:
 draft: false
 ---
 <!--![JIN-1](https://ww2.sinaimg.cn/large/006tNbRwly1fdmdakvrz0j30zk0k00wz.jpg)-->
-![JIN-1](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/TV-Jin-0.jpg)
+![JIN-1](https://image.seanxp.com/images/TV-Jin-0.jpg)
 我生君未生，君生我已老。
 我恨君生迟，君恨我生早。
 唯留书一封，寸心以相表。

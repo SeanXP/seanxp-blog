@@ -13,7 +13,7 @@ draft: false
 
 <div align=center>
 <!--<img src="https://ws3.sinaimg.cn/large/0069RVTdgy1fu6qzkm6gmj30hs06fdgz.jpg" alt='proxy'/>-->
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/proxy-server/0.jpg" alt='proxy'/>
+<img src="https://image.seanxp.com/proxy-server/0.jpg" alt='proxy'/>
 <blockquote class="blockquote-center">剑阁峥嵘而崔嵬，一夫当关，万夫莫开。
 </blockquote>
 </div>
@@ -24,14 +24,14 @@ draft: false
 * [proxy flow chart](https://docs.mitmproxy.org/stable/concepts-modes/)
 
 <!--![代理选择](https://ws4.sinaimg.cn/large/0069RVTdgy1fu6rqoy6qtj312o0sgwg5.jpg)-->
-![代理选择](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/proxy-server/1.jpg)
+![代理选择](https://image.seanxp.com/proxy-server/1.jpg)
 
 ## 正向代理（Forward Proxy）
 正向代理/客户端代理，**隐藏了真实的请求客户端**，服务端不知道真实的客户端是谁，客户端请求的服务都被代理服务器代替来请求。
 **正向代理用于获取互联网资源**，作为一个媒介，将互联网上获取的资源返回给相关联的客户端。某科学的超（fan）电（qiang）磁（gong）炮（ju）扮演的就是典型的正向代理角色。
 
 <!--![正向代理示意图](https://ws2.sinaimg.cn/large/0069RVTdgy1fu6qazmkmhj30zk0dcwg2.jpg)-->
-![正向代理示意图](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/proxy-server/2.jpg)
+![正向代理示意图](https://image.seanxp.com/proxy-server/2.jpg)
 
 根据代理服务器的部署位置，可分为以下两种用法：
 1. 正向代理服务器处于防火墙内，正义的防火墙可以保护局域网，只留正向代理服务器一个入口为局域网内的客户端提供访问 nternet 的途径，且对外屏蔽客户端的细节。正向代理还可以使用缓冲特性减少网络使用率。
@@ -52,7 +52,7 @@ draft: false
 **反向代理用于提供互联网资源**，作为一个媒介，将后端的服务器资源返回给互联网上相关联的客户端。很多互联网提供商（BAT）都有对应的反向代理。
 
 <!--![反向代理示意图](https://ws2.sinaimg.cn/large/0069RVTdgy1fu6qyf7scxj30xc0cijss.jpg)-->
-![反向代理示意图](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/proxy-server/3.jpg)
+![反向代理示意图](https://image.seanxp.com/proxy-server/3.jpg)
 
 反向代理的典型用途是将防火墙后面的服务器提供给 Internet 用户访问，并提供服务器端的安全防护。反向代理还可以为后端的多台服务器提供负载平衡，或为后端较慢的服务器提供缓冲服务。Nginx 就是性能非常好的反向代理服务器，用来做负载均衡。
 
@@ -88,7 +88,7 @@ draft: false
 * [mitmproxy(HTTPS proxy)](https://mitmproxy.org/)
 
 <!--![手机https拦截代理](https://ws1.sinaimg.cn/large/0069RVTdgy1fu6sm9q0u3j30hq0dbgm7.jpg)-->
-![手机https拦截代理](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/proxy-server/4.jpg)
+![手机https拦截代理](https://image.seanxp.com/proxy-server/4.jpg)
 
 mitmproxy 是用 Python 和 C 开发的一个中间人代理软件（man-in-the-middle proxy），它可以用来拦截、修改、重放和保存 HTTP/HTTPS 请求。mitmproxy 就是用于 MITM 的 proxy。用于中间人攻击的代理首先会向正常的代理一样转发请求，保障服务端与客户端的通信，其次，会适时的查、记录其截获的数据，或篡改数据，引发服务端或客户端特定的行为。不同于 fiddler 或 wireshark 等抓包工具，mitmproxy 不仅可以截获请求帮助开发者查看、分析，更可以通过自定义脚本进行二次开发。
 

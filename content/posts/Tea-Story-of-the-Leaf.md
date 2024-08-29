@@ -10,7 +10,7 @@ categories:
 
 
 <div align=center>
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/images/Tea-Story-of-the-Leaf.jpg" width="600" height="400" alt='Tea'/>
+<img src="https://image.seanxp.com/images/Tea-Story-of-the-Leaf.jpg" width="600" height="400" alt='Tea'/>
 <blockquote class="blockquote-center"> 一碗喉吻润，二碗破孤闷。
 三碗搜枯肠，惟有文字五千卷。
 四碗发轻汗，平生不平事，尽向毛孔散。

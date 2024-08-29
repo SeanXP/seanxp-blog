@@ -11,7 +11,7 @@ categories:
 ---
 打工人写给自己的歌 —— 那个“歌吧”（GUB）
 <!--more-->
- <img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/images/I-miss-that-gub-0.jpg" width="500" height="500" alt='that-bug'/>
+ <img src="https://image.seanxp.com/images/I-miss-that-gub-0.jpg" width="500" height="500" alt='that-bug'/>
  
  磁盘的风，能否吹降内存的增
  液晶的光，能否抚慰终端的伤

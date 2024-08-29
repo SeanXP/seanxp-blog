@@ -48,14 +48,14 @@ draft: false
 财务状况表，也叫做资产负债表（GAAP旧制：Balance Sheet；IFRS制：SOFP, Statement of Financial Position），为会计、商业会计或簿记实务上的财务报表之一，**<font color=red>与损益表（综合损益表）、现金流量表、权益变动表并列企业四大常用财务报表</font>**。资产负债表利用会计平衡原则，将合乎会计原则的资产、负债、股东权益交易科目分为“资产”和“负债及股东权益”两大区块，在经过分录、转帐、分类帐、试算、调整等等会计程序后，以特定日期的静态企业情况为基准，浓缩成一张报表。其报表功用除了企业内部除错、经营方向、防止弊端外，也可让所有阅读者于最短时间了解企业经营状况。
 近现代后，世界各地之会计原则经由公报与各种交流设定，渐趋一致。是故，会计成为世界各国企业通用的语言，同样的，**<font color=red>各地资产负债表除了报表所使用文字不尽统一外，模板与基本原则几乎完全相同</font>**。
 **<font color=red>四张财务报表中，资产负债表是核心，其他几张表都是对资产负债表某个项目的解释和说明。因此，资产负债表是对企业整体状况的概括性描述，可以从这张表中看出这家企业的好坏。</font>**
-![某公司资产负债表](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/images/Khan-Finance-4-0.jpg)
+![某公司资产负债表](https://image.seanxp.com/images/Khan-Finance-4-0.jpg)
 * 资产负债表按照 资产=负债+股东权益 的结构，从左到右、从上到下排列。**资产金额总计＝负债金额合计＋股东权益金额合计**
 * 资产是企业资金的占用，是能够给企业带来收益的资源；
 * 负债和股东权益是企业资金的两种不同来源，是企业要承担的代价；
 
 ## [综合损益表（Statement of Comprehensive Income）](https://zh.wikipedia.org/zh-hans/%E5%88%A9%E6%BD%A4%E8%A1%A8)
 利润表（GAAP旧制：英语：Income Statement，IFRS制：英语：Statement of Comprehensive Income, 综合损益表），或称购销损益帐（Trading and Profit and Loss Account），为会计重要财务报表之一（其馀为资产负债表、现金流量表、股东权益变动表）。**<font color=red>主要计算及显示公司的盈利状况</font>**。合伙经营和有限公司的利润表中会在计算公司净盈利后加入分配帐（appropriation account），以显示公司如何分发盈利。
-![综合损益表示例](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/images/Khan-Finance-4-1.jpg)
+![综合损益表示例](https://image.seanxp.com/images/Khan-Finance-4-1.jpg)
 
 需要注意的是，利润表是以应收应付的形式入帐（accrual basis），甚少机构（如非牟利机构）会以实收实付（cash basis）形式入帐。
 毛销售 => 净销售 => 毛利润 => 营业收入 => 纯利
@@ -69,7 +69,7 @@ draft: false
 ## [现金流量表（Statement of Cash Flows）](https://www.wikiwand.com/zh-hans/%E7%8F%BE%E9%87%91%E6%B5%81%E9%87%8F%E8%A1%A8)
 现金流量表（GAAP旧制：Cash Flow Statement；IFRS制：Statement of Cash Flows）是财务报表的三个基本报告之一，所表达的是在一固定期间（通常是每月或每季）内，一家机构的现金（包含银行存款）的增减变动情形。**<font color=red>现金流量表的出现，主要是要反映出资产负债表中各个项目对现金流量的影响，并根据其用途划分为经营、投资及融资三个活动分类</font>**。现金流量表可用于分析一家机构在短期内有没有足够现金去应付开销。国际财务报告准则第7号公报规范现金流量表的编制。
 现金流量表是一份显示于指定时期（一般为一个月，一季。主要是一年的年报）的现金流入和流出的财务报表。作为一个财务分析工具，现金流量表的主要作用是决定公司短期生存能力，特别是缴付帐单的能力。
-![xyz_cash_flow_statement](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/images/Khan-Finance-4-2.jpg)
+![xyz_cash_flow_statement](https://image.seanxp.com/images/Khan-Finance-4-2.jpg)
 
 ## [权益变动表](https://www.wikiwand.com/zh-hans/%E8%82%A1%E6%9D%B1%E6%AC%8A%E7%9B%8A)
 在企业会计里，股东权益指股东对资产清偿所有负债后剩馀价值的所有权。它出现在财务报表的资产负债表里，并等于资产减去负债。
@@ -80,7 +80,7 @@ draft: false
 折旧（英语：Depreciation）在会计学是指在一个期间使用的部分使其提列成资产的减少以表示使用的纪录。例如房屋及建筑就是其中一个须提列折旧的物品。但是土地不需提列折旧，因为土地的总供给数量通常是固定不变的。
 依据收入费用配合原则，固定资产的成本必须在其提供服务的会计期间逐期转列为费用，作为相关营业收入的减项，以计算营业损益，这个有系统的将固定资产成本转成费用的方式，称为“折旧”。
 
-![固定资产折旧计算表](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/images/Khan-Finance-4-3.jpg)
+![固定资产折旧计算表](https://image.seanxp.com/images/Khan-Finance-4-3.jpg)
 
 ## 折旧的计算
 为了计算折旧，我们必须根据以下3项资资料：

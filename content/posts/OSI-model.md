@@ -20,7 +20,7 @@ categories:
 
 ## OSI模型
 <!--![OSI模型架构图](https://ws4.sinaimg.cn/large/006tNbRwgy1fy4sxgx3q2g314r0u0dih.gif)-->
-![OSI模型架构图](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/OSI-model/0.jpg)
+![OSI模型架构图](https://image.seanxp.com/OSI-model/0.jpg)
 [开放式系统互联通信参考模型](https://www.wikiwand.com/zh-hans/OSI%E6%A8%A1%E5%9E%8B)（英语：Open System Interconnection Reference Model，缩写为 OSI），简称为<font color=red>OSI模型（OSI model）</font>，一种概念模型，由国际标准化组织提出，一个试图使各种计算机在世界范围内互连为网络的标准框架。1984年，ISO发布了著名的ISO/IEC 7498标准，它定义了网络互联的7层框架，也就是开放式系统互联参考模型。
 * <font color=red>**第7层 应用层（Application Layer）**</font>提供为应用软件而设的接口，以设定与另一应用软件之间的通讯。例如: HTTP，HTTPS，FTP，TELNET，SSH，SMTP，POP3等。
 * **第6层 表达层（Presentation Layer）**把数据转换为能与接收者的系统格式兼容并适合传输的格式。表示层(Presentation)为不同终端的上层用户提供数据和信息正确的语法表示变换方法。该层被弃用。应用层的HTTP、FTP、Telnet等协议有类似的功能。传输层的TLS/SSL也有类似功能。
@@ -45,10 +45,10 @@ categories:
 * **第1层 物理层（Physical Layer）**是计算机网络OSI模型中最低的一层。物理层规定:为传输数据所需要的物理链路建立、维持、拆除，而提供具有机械的，电子的，功能的和规范的特性。
 
 <!--![OSI模型示意图](https://ws3.sinaimg.cn/large/006tNbRwgy1fy4t1mgndhj30jq0k2ad6.jpg)-->
-![OSI模型示意图](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/OSI-model/1.jpg)
+![OSI模型示意图](https://image.seanxp.com/OSI-model/1.jpg)
 
 <!--![OSI模型概览图](https://ws3.sinaimg.cn/large/006tNbRwgy1fy4t2g0dhfj30f60n60ur.jpg)-->
-![OSI模型概览图](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/OSI-model/2.jpg)
+![OSI模型概览图](https://image.seanxp.com/OSI-model/2.jpg)
 
 ## TCP/IP协议栈
 [互联网协议族](https://www.wikiwand.com/zh-hans/TCP/IP%E5%8D%8F%E8%AE%AE%E6%97%8F)（英语：Internet Protocol Suite，缩写IPS）是一个网路通讯模型，以及一整个网络传输协议家族，为网际网路的基础通讯架构。它常被通称为<font color=red>**TCP/IP协议族（TCP/IP Protocol Suite，TCP/IP Protocols）**</font>，简称TCP/IP。
@@ -56,7 +56,7 @@ categories:
 它将软体通信过程抽象化为四个抽象层，采取协定堆叠的方式，分别实作出不同通信协定。协定套组下的各种协定，依其功能不同，被分别归属到这四个阶层之中，常被视为是简化的七层OSI模型。
 
 <!--![OSI模型与TCP/IP模型对比示意图](https://ws1.sinaimg.cn/large/006tNbRwgy1fy4t55fc87j30jq0ci407.jpg)-->
-![OSI模型与TCP/IP模型对比示意图](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/OSI-model/3.jpg)
+![OSI模型与TCP/IP模型对比示意图](https://image.seanxp.com/OSI-model/3.jpg)
 
 ### 为什么OSI协议没有普及?
 
@@ -75,7 +75,7 @@ categories:
 
 ## 协议层交换技术
 <!--![协议层交换示意图](https://ws2.sinaimg.cn/large/006tNbRwgy1fy4t81xhkcj30f60cs0tv.jpg)-->
-![协议层交换示意图](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/OSI-model/4.jpg)
+![协议层交换示意图](https://image.seanxp.com/OSI-model/4.jpg)
 
 * **集线器（Hub）、中继器（Repeater）**：工作在物理层，集线器的主要功能是**对接收到的信号进行再生整形放大**，以扩大网络的传输距离，同时把所有节点集中在以它为中心的节点上。
 * **网桥（Bridge）、交换机（Switch）**：工作在数据链路层，用于连接不同的网络。网桥/交换机会在自身存储其硬件端口与MAC地址的映射关系。一般使用网桥/交换机隔离LAN。简单来说，网桥可以看做一个端口数少的交换机。网桥能够识别数据链路层中的数据帧，并将这些数据帧临时存储于内存，再重新生成信号作为一个全新的数据帧转发给相连的另一个网段（network segment）。网桥是早期的两端口数据链路层网络设备，用来连接不同网段的计算机网络设备同时它又可隔离冲突域。因为它的两个端口不是共享一条背板总线（分别有一条独立的交换信道），比当时的集线器性能更好（集线器上各端口都是共享同一条背板总线的）。后来，网桥被具有更多端口、同时也可隔离冲突域的交换机所取代。
@@ -155,14 +155,14 @@ TCP/UDP 端口号提供的附加信息可以为网络交换机利用，这是四
 ### 四层交换与七层交换的区别
 
 <!--![四层七层交换对比](https://ws3.sinaimg.cn/large/006tNbRwgy1fy5ycafe6sj30h3087dfp.jpg)-->
-![四层七层交换对比](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/OSI-model/5.jpg)
+![四层七层交换对比](https://image.seanxp.com/OSI-model/5.jpg)
 
 负载均衡器通常为四层交换机或七层交换机。四层交换机主要分析IP层及TCP/UDP层，实现四层流量负载均衡。七层交换机除了支持四层负载均衡以外，还有分析应用层的信息，如HTTP协议URI或Cookie信息。
 * 七层负载均衡基本都是基于http协议的，适用于web服务器的负载均衡。（nginx）  
 * 四层负载均衡主要是基于tcp协议报文，可以做任何基于tcp/ip协议的软件的负载均衡。(haproxy、LVS)  
 
 <!--![TCP连接区别](https://ws4.sinaimg.cn/large/006tNbRwgy1fy5ycuu5ryj30bu07m74w.jpg)-->
-![TCP连接区别](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/OSI-model/6.jpg)
+![TCP连接区别](https://image.seanxp.com/OSI-model/6.jpg)
 
 四层交换通过报文中的目标地址和端口，再加上负载均衡设备设置的服务器选择方式，决定最终选择的内部服务器。以常见的TCP为例，负载均衡设备在接收到第一个来自客户端的SYN 请求时，即通过上述方式选择一个最佳的服务器，并对报文中目标IP地址进行修改（改为后端服务器IP，RS(Real Server)），直接转发给该服务器。TCP的连接建立，即三次握手是客户端和服务器直接建立的，负载均衡设备只是起到一个类似路由器的转发动作。在某些部署情况下，为保证服务器回包可以正确返回给负载均衡设备，在转发报文的同时可能还会对报文原来的源地址进行修改。
 

@@ -12,7 +12,7 @@ draft: false
 ---
 
 <div align=center>
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/images/qin-shi-huang-2-0.jpg" width="512" height="512"/><blockquote class="blockquote-center">公如青山，我如松柏，同心同德，永为知音。
+<img src="https://image.seanxp.com/images/qin-shi-huang-2.jpg" width="512" height="512"/><blockquote class="blockquote-center">公如青山，我如松柏，同心同德，永为知音。
 </blockquote>
 </div>
 

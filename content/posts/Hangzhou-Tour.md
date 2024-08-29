@@ -9,7 +9,7 @@ categories:
 draft: false
 ---
 <div align=center>
-<a href="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-25.jpeg" target="_blank"><img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-25.jpeg" width="672" height="448"></a>
+<a href="https://image.seanxp.com/hangzhou202012/hangzhou-25.jpeg" target="_blank"><img src="https://image.seanxp.com/hangzhou202012/hangzhou-25.jpeg" width="672" height="448"></a>
 <blockquote class="blockquote-center">人人尽说江南好，游人只合江南老。春水碧于天，画船听雨眠。
 垆边人似月，皓腕凝霜雪。未老莫还乡，还乡须断肠。
 </blockquote>
@@ -28,16 +28,16 @@ draft: false
 ## Day1
 周六上午9点落地杭州萧山机场，坐大巴车到西湖，10点左右就开始逛西湖了，也赶上了杭州人民刚刚开始的周末休闲好时光。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-01.jpeg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-01.jpeg)
 断桥残雪，是西湖上著名的景色，以冬雪时远观桥面若隐若现于湖面而称著。属于西湖十景之一。断桥残雪是欣赏西湖雪景之佳地。可惜当天虽冷，但还没有到下雪的程度，无缘得见真正的「断桥残雪」，很遗憾。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-02.jpeg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-02.jpeg)
 杭州前几天刚刚降温，周六当天非常冷，上午虽然已出太阳，看上去湖面波光粼粼，但是依旧寒风瑟瑟，走在湖边冻得哆嗦。
 
 	山外青山楼外楼，西湖歌舞几时休？
 	寒风冻得游人颤，怎把杭州作汴州？
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-03.jpeg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-03.jpeg)
 
 云水光中位于断桥侧畔，是白堤的始点，葛岭的入口。“云水光中”水榭临湖而筑。1994 年新作修饰，黛瓦朱栏，是湖畔著名水榭之一。在此可远眺外湖漾漾水色，近赏里湖连天荷叶。
 
@@ -45,13 +45,13 @@ draft: false
 	室外萧笙，云间笑话，人在蓬莱。
 	天香暗逐风回，近十里荷花盛开，买个扁舟，山南游遍，山北归来。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-04.jpeg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-04.jpeg)
 可惜来的不是时候，即将冬至，荷叶早已凋零，只剩下连天枯萎的荷叶。但是湖面清澈平静，水中倒影清晰可见，也有一番别致的美感。旁边的小麻雀叼着面包屑飞来飞去，自有一番生气。
 
 看着这片荷叶，暗下决心，下次一定要夏季来赏下这传闻中的漫天荷花。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-05.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-06.jpeg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-05.jpeg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-06.jpeg)
 西湖真的是老少皆宜，一年四季都有着赏不完的美景。看到有老头在放风筝，小男孩在吹肥皂泡，小女孩在看鸭子，还有一对对的情侣在合影拍照。漫步山水之间，让人心旷神怡，西湖是个养老溜娃的好地方。
 
 	人人尽说江南好，游人只合江南老。
@@ -60,8 +60,8 @@ draft: false
 	未老莫还乡，还乡须断肠。
 	————《菩萨蛮·人人尽说江南好》
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-07.jpg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-08.jpg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-07.jpg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-08.jpg)
 孤山是西湖中最大的岛屿，山高38米（这个高度实在有点矮...），是文物胜迹荟萃之地。孤山在西湖的里、外湖之间，因与其他山不相接连，所以称孤山。听说孤山是观赏西湖景色最佳之地，也许是我未得其法，孤山的高度还不足以俯瞰西湖，个人感觉还不如在孤山路白沙堤近距离欣赏西湖更好。
 
 	孤山寺北贾亭西，水面初平云脚低。
@@ -70,7 +70,7 @@ draft: false
 	最爱湖东行不足，绿杨阴里白沙堤。
 	————《钱塘湖春行》
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-09.jpeg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-09.jpeg)
 从孤山出来，就是曲院风荷，可惜季节不对，就没有去逛。直接踏上苏堤。
 “苏堤春晓”景观是指寒冬过后，苏堤报春的美妙景色。苏堤南起南屏山麓，北到栖霞岭下，全长近三公里，是北宋大诗人苏东坡任杭州知州时，疏浚西湖，利用挖出的葑泥构筑而成。后人为了纪念苏东坡治理西湖的功绩将它命名为苏堤。
 
@@ -78,7 +78,7 @@ draft: false
 
 走过狭长的苏堤，远远就看到了远处的雷峰塔。这就是下一站的目的地。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-10.jpeg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-10.jpeg)
 旧雷峰塔在一百年前倒塌（1924年倒塌），后来在其基础上搭建了新的雷峰塔。所以在塔顶还有两层地下室可以看到以前的断壁残垣。而且背景音乐是《新白娘子传奇》的主题曲《千年等一回》。
 
 做电梯登上雷峰塔，可以一览西湖美景。登得高，寒风也吹的冷，在塔顶瑟瑟发抖，耳边响起雷峰塔的背景音乐：
@@ -90,7 +90,7 @@ draft: false
 	太冷了呀
 
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-11.jpeg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-11.jpeg)
 相比民间故事《白蛇传》，我现在对雷峰塔的真实历史更感兴趣。最近在看宋朝历史，就讲到了吴越末代国君钱俶被赵二给坑了的故事。宋太宗太平兴国三年（978年），钱俶奉旨入汴京（今河南开封），被扣留，不得已自献封疆于宋。钱俶第七子钱惟演，又是章献明肃皇后刘娥之兄刘美的妻舅，和五鬼丁谓一起坑了寇准，后来被贬，晚年任西京留守，又兴起一阵文坛之风，欧阳修、梅尧臣等一批青年文士聚集其幕下，诗会文游，颇得其袒护支持。不同的人对其评价不一（“我官迷心窍人品差，但我知道我是好诗人”）：
 
 	寇准：丁谓、钱惟演，佞人也，不可以辅少主。
@@ -103,10 +103,10 @@ draft: false
 	西湖南岸夕照山，夕照山上雷峰尖。
 	白蛇留在湖南岸，谁知塔为黄妃添？
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-12.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-13.jpg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-15.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-14.jpeg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-12.jpeg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-13.jpg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-15.jpeg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-14.jpeg)
 
 逛完雷峰塔，时间还早，没有耐心等雷峰夕照，就继续逛西湖。把西湖逛了整整一圈，正好赶上了夕阳西下。最后伴着落日，听着歌，看着小朋友们喂鸳鸯，喂松鼠，悠闲的西湖一日游结束了。
 
@@ -117,38 +117,38 @@ draft: false
 ## Day2
 第二天出发去飞来峰灵隐寺，一上来就是一个照壁，上题「咫尺西天」，有点蒙。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-16.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-17.jpeg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-16.jpeg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-17.jpeg)
 埋葬灵隐开山始祖慧理和尚骨灰的“理公塔”。该塔高约8米，六角七层，位于飞来峰的岩洞旁。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-18.jpeg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-18.jpeg)
 
 	飞来峰下，理公塔边，洞府幽邃，深可二三里，秉烛而入，至里，余仰视洞顶有一线天光飕然而入。
 
 飞来峰造像位于中国浙江省杭州市灵隐寺旁。飞来峰又名灵鹫峰，是一座石灰岩山峰，海拔168米。飞来峰与灵隐寺间隔一条小溪，在溪边的岩壁上保存有五代至元代500多年中陆续完成的石雕佛像，共有345尊。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-21.jpeg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-21.jpeg)
 灵隐寺创建于东晋咸和元年（326年），距今已有1670多年历史。印度僧人慧理来到中国传教，后因此处景色奇幽，以为是“仙灵所隐”，就在当地建立寺院，取名为“灵隐”。五代时吴越国王钱俶笃信佛教，对灵隐寺的建设倍加关心。当时灵隐寺达到了九楼、十八阁、七十七殿堂、僧众三千的规模，成为江南地区的佛教名刹。康熙皇帝曾赐名云林禅寺，位于杭州西湖西北面，在飞来峰与北高峰之间灵隐山山麓中，是杭州历史悠久、景色宜人的游览胜地，中国最早的佛教寺院和中国十大古刹之一，亦是南宋高僧济公的修行地。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-19.jpg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-20.jpeg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-19.jpg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-20.jpeg)
 灵隐寺内香客云集，一个普通的周日上午都有这么多的人来烧香拜佛，热闹非凡。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-22.jpeg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-22.jpeg)
 拜完灵隐寺，再等飞来峰！飞来峰其实好矮，没登几阶台阶就已登顶，飞来峰顶也是树木环绕，根本看不到其他远景，被王安石骗了。
 
 	飞来峰上千寻塔，闻说鸡鸣见日升。
 	不畏浮云遮望眼，只缘身在最高层。
 	————《登飞来峰》
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-23.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-24.jpeg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-23.jpeg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-24.jpeg)
 逛完飞来峰，中午来西湖附近吃饭，又是一堆小朋友来喂鸽子喂松鼠，这里的鸽子松鼠都被养的肥肥胖胖的。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-25.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-27.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-26.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/hangzhou202012/hangzhou-28.jpeg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-25.jpeg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-27.jpeg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-26.jpeg)
+![](https://image.seanxp.com/hangzhou202012/hangzhou-28.jpeg)
 下午来逛浴鹄湾，景色优美，人烟稀少，没有多少游客。霁虹桥也是一处景色优美胜地，还遇到不少来拍照的小姐姐们，漫步水上楼阁，赏山赏水赏美人，妙极！
 
 ## 后记

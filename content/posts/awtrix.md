@@ -11,14 +11,14 @@ draft: false
 ---
 
 <div align=center>
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/awtrix/0.jpg" alt='shut up and take my money'/>
+<img src="https://image.seanxp.com/awtrix/0.jpg" alt='shut up and take my money'/>
 <blockquote class="blockquote-center">小明在用 $200 买来的 Lametric Time，我在用 ￥200 DIY 的 AWTRIX Clock：
 	我们都有着光明的未来。
 </blockquote>
 </div>
 <!--more-->
-![Awtrix-SeanXP](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/awtrix/1.jpg)
-![Awtrix-matrix](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/awtrix/2.jpg)
+![Awtrix-SeanXP](https://image.seanxp.com/awtrix/1.jpg)
+![Awtrix-matrix](https://image.seanxp.com/awtrix/2.jpg)
 
 ## 相关材料
 1. WS2812B 8x32 全彩可编程像素软屏（淘宝115元）
@@ -33,7 +33,7 @@ draft: false
 7. 一台 Linux Server，需安装 Awtrix Server
 8. 502胶水、美工刀等工具
 
-![3d打印](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/awtrix/3.png)
+![3d打印](https://image.seanxp.com/awtrix/3.png)
 实际成本：硬件部分（115+27.83+3.58），3D打印部分（246.04元），成本在400元左右。
 
 ## DIY流程

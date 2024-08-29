@@ -11,7 +11,7 @@ draft: false
 ---
 
 <div align=center>
-<a href="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-04.jpg" target="_blank"><img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-04.jpg" width="378" height="504"></a>
+<a href="https://image.seanxp.com/chengdu202012/chengdu-04.jpg" target="_blank"><img src="https://image.seanxp.com/chengdu202012/chengdu-04.jpg" width="378" height="504"></a>
 <blockquote class="blockquote-center">丞相祠堂何处寻？
 	锦官城外柏森森。
 </blockquote>
@@ -47,7 +47,7 @@ draft: false
 	由来名位输勋业，丞相功高百代思。
 	————《题武侯祠》
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-01.jpg)
+![](https://image.seanxp.com/chengdu202012/chengdu-01.jpg)
 
 武侯祠相比与前面的汉昭烈庙，地基低，而且就是一个小四合院，建筑中就体验出了君尊臣卑。但是古往今来，人们对诸葛亮的评价非常非常高。青史不够，宇宙来凑，古人评价诸葛亮都到了“名垂宇宙”的程度。
 
@@ -55,12 +55,12 @@ draft: false
 	三分割据纡筹策，万古云霄一羽毛。
 	————《咏怀古迹五首・其五》
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-02.jpg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-03.jpg)
+![](https://image.seanxp.com/chengdu202012/chengdu-02.jpg)
+![](https://image.seanxp.com/chengdu202012/chengdu-03.jpg)
 
 武侯祠后面是三义庙。原位于成都提督街，1997年因城建需要，迁建于武侯祠内，并于1998年1月重建完成。大殿内塑有刘备、关羽、张飞的泥塑像，基本是《三国演义》版本的人物造型，也是我们所最熟悉的。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-05.jpg)
+![](https://image.seanxp.com/chengdu202012/chengdu-05.jpg)
 
 惠陵外圈是两道红墙，红墙外面是茂密的竹影，“红墙竹影”就是武侯祠的一大美景。早晨起来漫步其中，头顶翠竹遮天蔽日，真的有了杜甫诗中的意境：
 
@@ -70,12 +70,12 @@ draft: false
 	出师未捷身先死，长使英雄泪满襟。
 	————《蜀相》
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-06.jpg)
+![](https://image.seanxp.com/chengdu202012/chengdu-06.jpg)
 
 两道红墙围起来的，就是刘备墓惠陵——汉昭烈皇帝之陵。红墙银杏绿苔石像，诉说着那一段传颂千古的三国往事。
 
 ## Day1 [杜甫草堂](https://www.mafengwo.cn/poi/5004.html)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-07.jpg)
+![](https://image.seanxp.com/chengdu202012/chengdu-07.jpg)
 
 	八月秋高风怒号，卷我屋上三重茅。
 	茅飞渡江洒江郊，高者挂罥长林梢，下者飘转沉塘坳。
@@ -91,7 +91,7 @@ draft: false
 
 杜甫，字子美，号少陵野老，曾任左拾遗、检校工部员外郎，后曾隐居成都草堂。杜甫在草堂里，写下了多少篇让小学生“熟读并背诵全文”的经典诗词呀！
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-08.jpg)
+![](https://image.seanxp.com/chengdu202012/chengdu-08.jpg)
 
 多少达官贵人的豪门宅邸都以烟消云散，唯独杜甫的草堂流传至今。真正经典的东西，即使当时受限或不被看重，也将会在历史长河中不断展示其宝贵的价值。真是应了杜甫的一首绝句：
 
@@ -99,20 +99,20 @@ draft: false
 	尔曹身与名俱灭，不废江河万古流。
 	————《戏为六绝句・其二》
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-09.jpg)
+![](https://image.seanxp.com/chengdu202012/chengdu-09.jpg)
 在少陵草堂学习的小姑娘，这大概就是传说中的全身心沉浸式背诗体验了。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-10.jpg)
+![](https://image.seanxp.com/chengdu202012/chengdu-10.jpg)
 漫步于杜甫草堂之间，就连长廊上的路灯上都是杜甫的诗词。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-11.jpg)
+![](https://image.seanxp.com/chengdu202012/chengdu-11.jpg)
 “廨”意为官署，即古代地方官吏办公场所。杜甫出生于在“奉儒守官”的仕宦之家，深受儒家思想的影响，从小就希望辅佐君主、报效国家。
 然仕途坎坷，曾在唐肃宗麾下做左拾遗的杜甫，因直言进谏而被贬官，不久便辞官而去。后来流寓成都时，杜甫被好友严武举荐，担任“节度参谋、检校工部员外郎”一职，不过也只是个挂名的虚职。所以后人专门修建了一座大廨来纪念为官之苦的杜甫。
 
 	异代不同时，问如此江山龙蜷虎卧几诗客；
 	先生亦流寓，有长留天地月白风清一草堂。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-12.jpg)
+![](https://image.seanxp.com/chengdu202012/chengdu-12.jpg)
 大雅堂原是草堂寺的大雄宝殿，2002年，杜甫草堂博物馆将其改建为展示诗歌文化的陈列厅后对外开放。大雅堂内，陈列着一面巨型磨漆壁画和十二尊诗人塑像（屈原、陶渊明、陈子昂、王维、李白、白居易、李商隐、苏轼、黄庭坚、陆游、李清照、辛弃疾）。大雅堂，小学生的恶梦之地。
 
 ## Day1 双流老妈兔头
@@ -142,12 +142,12 @@ draft: false
 
 2000年，都江堰以其为“当今世界年代久远、惟一留存、以无坝引水为特征的宏大水利工程”，与青城山共同作为一项世界文化遗产被列入世界遗产名录。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-13.jpg)
+![](https://image.seanxp.com/chengdu202012/chengdu-13.jpg)
 第二天，一大早就出发，去都江堰！从春熙路出发，坐地铁抵达犀浦站（50min），然后坐成灌快铁直达离堆公园站（30min），搭乘快铁前往都江堰市，离开市区就是一片沃野千里的天府之地，心情很好！抵达离堆公园火车站后，再坐公交两站抵达离堆公园公交站，就到了都江堰景区门口。
 
 	奔跑在希望的田野上
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-14.jpg)
+![](https://image.seanxp.com/chengdu202012/chengdu-14.jpg)
 卧铁、杩槎、竹笼。小小工具，显示出古人设计水利工程的智慧。
 
 卧铁，是埋在内江“凤栖窝”处的淘滩标准，也是内江每年维修清淘河床深浅的标志。遵从李冰的“深淘滩，低作堰”原则，在从古至今，每年枯水期都要对河道清除淤积的泥沙。那到底挖泥沙挖到多深合适呢？经过人们的经验，找出了一个合适的深度，并埋上卧铁。以后岁修就挖到卧铁为止。相传李冰建堰时在内江河床下埋有石马，作为每年淘滩深度的标准，后来演变为卧铁。卧铁至今留存4根。（有种定海神针的感觉）
@@ -159,7 +159,7 @@ draft: false
 
 竹笼：用当地竹料编制，内装卵石而成，可用以护岸，筑分水鱼嘴、导水坝、溢流坝、挡水坝等，有很强的抗冲防浪特性和稳定性。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-15.jpg)
+![](https://image.seanxp.com/chengdu202012/chengdu-15.jpg)
 据说这棵银杏树是三国时代的张松所栽，距今已经1800年了（银杏，落叶乔木，寿命可达3000年以上）。
 非常幸运，赶上了银杏树最好看的季节，得以一览千年银杏古树。
 
@@ -168,15 +168,15 @@ draft: false
 	观于张肃、张松，而有慨于兄弟之间也。一则卖主求荣，而不告其兄；一则惧祸及己，而不顾其弟。
 	在同胞之兄弟且然，而况备与璋之以同宗通谱者耶？
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-16.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-16.jpeg)
 离堆之上建有伏龙观，前身名为范贤馆。北宋初年，人民怀念李冰功绩，扩建殿宇，沿袭李冰父子“降龙治水”传说，改称伏龙观。（北宋初年，蜀地人民要一边忙着起义，还要一边忙着扩建庙宇，好忙啊）
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-17.jpg)
+![](https://image.seanxp.com/chengdu202012/chengdu-17.jpg)
 鱼嘴是在岷江江心修筑的分水堤坝，形似大鱼卧伏江中，它把岷江分为内江和外江，内江用于灌溉，外江用于排洪。
 
 	奔腾在不息的江流中
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-18.jpg)
+![](https://image.seanxp.com/chengdu202012/chengdu-18.jpg)
 五大古桥之一，安澜桥。横跨在内江和外江的分水处，是一座名播中外的古索桥。明朝末年毁于战火。清嘉庆八年（公元1803年），何先德夫妇倡议修建竹索桥，以木板面，旁设扶栏，两岸行人可以安渡狂澜，故更名“安澜桥”（取不畏波澜，安然过江之意）。民间为纪念何氏夫妇，又称之为“夫妻桥”。凡是和爱情占点边的经典，势必会有一整张墙的同心锁，这里也不例外。
 
 ## Day2 [问道青城山](https://www.mafengwo.cn/poi/2494961.html)
@@ -184,31 +184,31 @@ draft: false
 
 青城山，中国四大道教名山之一（四川青城山、湖北武当山、江西龙虎山、安徽齐云山），成都十景之一。最高峰老君阁海拔1260米，青城山分为前山和后山，群峰环绕起伏、林木葱茏幽翠，享有“青城天下幽”的美誉。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-19.jpg)
+![](https://image.seanxp.com/chengdu202012/chengdu-19.jpg)
 匹夫无罪，怀璧其罪。可怜的孔雀，因为自身的美丽而被束缚于此。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-20.jpg)
+![](https://image.seanxp.com/chengdu202012/chengdu-20.jpg)
 爬山路上偶遇散步上山的道士。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-21.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-21.jpeg)
 坐大巴到山脚下，坐渡船到月城湖对岸，坐缆车上山，然后又是一路爬山，最终抵达老君阁！老君阁位于青城第一峰绝顶，海拔高1260米。天气不是很好，雾蒙蒙的，反而更有一种仙山楼阁耸立的感觉。
 
 	危楼高百尺，手可摘星辰。
 	不敢高声语，恐惊天上人。
 	————《夜宿山寺》
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-22.jpg)
+![](https://image.seanxp.com/chengdu202012/chengdu-22.jpg)
 老君阁门前案板上，整整齐齐摆放上很多燃灯，都是爬山上来的游客祈福用的。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-23.jpg)
+![](https://image.seanxp.com/chengdu202012/chengdu-23.jpg)
 本来买的是往返索道票，但是发现逛完老君阁，直接原路返回没什么乐趣，就放弃了下山的索道，改从另一边下山。人生在世，总是走相同的路，难免有些乏味无趣了。上山容易（缆车）下山难，下山的路并不好走，但是过程却也更有趣，相比缆车更能近距离欣赏青城山的幽静。
 
 	奔波在幽悠的山脚下
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-24.jpg)
+![](https://image.seanxp.com/chengdu202012/chengdu-24.jpg)
 之前上山时，有人问我要不要坐滑杆，开始还不知其意。下山归来，快到山脚下时，正好遇见一位坐滑杆上山的游客，前后两人抬着游客上山。如此美景，坐滑杆上山反而觉的可惜了。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-25.jpg)
+![](https://image.seanxp.com/chengdu202012/chengdu-25.jpg)
 晚上回来，疲累至极，决定去吃顿串串。冒菜是一个人的火锅，火锅是一群人的冒菜，串串是签签上的火锅，冒菜是没有签签的串串。串串确实好吃！
 
 	中辣不是你想吃想点就能吃
@@ -222,53 +222,53 @@ draft: false
 
 大熊猫善于爬树，也爱嬉戏。爬树的行为一般是临近求婚期，或逃避危险，或彼此相遇时弱者借以回避强者的一种方式。大熊猫每天除去一半进食的时间，剩下的一半时间多数便是在睡梦中度过（实在是太羡慕了）。大熊猫99%的食物都是竹子，可供大熊猫食用的竹类植物共有12属、60多种。野外大熊猫的寿命为18-20岁，圈养状态下可以超过30岁。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-26.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-26.jpeg)
 第三天，趁着周一工作日，游客应该较少，去看大熊猫。第一站就是山顶的大熊猫月亮产房，没想到还是需要排队。排着长长的队伍，终于看到了大熊猫幼崽，还在睡觉中，非常的可爱。
 
 大熊猫在4-8岁时性成熟，生育年龄可达20岁。大熊猫繁殖期为8-9月，妊娠期90-184天，平均135天。雌性每次产下1~2只幼崽，重85~142克，但野外通常只成活一只。幼崽约50~60天后睁眼，75~80天后能够爬行，7~9个月可以少量进食竹子，但仍以母乳为主要食物来源，与母亲一同生活约18月~2年后离开。
 
 出生的大熊猫幼子只有一二两重，呈粉红色，与成年熊猫形态差别很大。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-27.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-27.jpeg)
 大熊猫月亮产房旁边，就是大熊猫1号别墅和2号别墅，每只大熊猫都有单独的活动区域。大熊猫喜欢独居，每只大熊猫有单独的活动区域。除发情期外，常过着独栖生活，昼夜兼行。早上9点，有的大熊猫已经吃完竹子开始散步消化了，有的大熊猫还迷糊着没有睡醒。而且右边这只大熊猫还喜欢坐在渠边睡觉，总感觉会一不留神滚下去（但是等了好久也没有滚下去，可能是屁股太大了，太稳了）。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-28.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-29.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-28.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-29.jpeg)
 昭美是野生大熊猫，相比与别墅区内的其他“家养”大熊猫，确实活泼灵动许多。昭美喜欢走很远的路，到一个固定地点去排便（上图）。然后走慢悠悠地走回来（下图）。昭美还喜欢在边边走猫步，上午其他大熊猫都在睡觉或者吃竹子，就她一个在家里来回走边边，溜游客。把游客溜的来回跑，就为了在好位置拍张昭美的照片。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-30.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-30.jpeg)
 如果不看屁股，大熊猫是真的黑白。为什么屁股那么黄呢，是因为大熊猫喜欢坐着吃竹子，小短手又够不着屁股，就导致屁股上面都是黄土了。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-31.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-32.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-31.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-32.jpeg)
 雅竹、雅韵两姐妹非常和睦地坐在一起吃着早上刚砍的新鲜竹子。看大熊猫吃竹子，听起来噶嘣脆，就好像人类喜欢吃甘蔗一样吧。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-33.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-34.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-33.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-34.jpeg)
 两只熊猫吃的正尽兴时，第三势力（文文）登场！
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-35.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-35.jpeg)
 大熊猫坐着吃竹子，喜欢靠着墙或者树。这两只熊猫背靠背坐着吃竹子，就好像镜像一般，就连拿竹子的手势都一模一样。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-36.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-36.jpeg)
 手里的竹子吃完了，就爬过来准备舔文文手里的嫩竹子了。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-37.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-37.jpeg)
 三方势力争斗，就为了一根早上新砍的嫩竹子！
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-38.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-38.jpeg)
 路上偶遇来看大熊猫的小妹妹，穿着大熊猫黑白的衣服，也不坐车车了，着急的一路小跑，就想提前看一眼大熊猫。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-39.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-39.jpeg)
 之所以早上早点来看大熊猫，是因为大熊猫早上饿了会起来吃点竹子，然后可能会活动一下，之后就又开始倒头大睡了。所以如果来的时间不对，就像这样，只能看到圆滚滚的一个大屁股了。这只大熊猫太懒了，早上9点了，还没起床，下面的嫩竹子都要变老了！
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-40.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-40.jpeg)
 看到一只小熊猫爬上了树，为了吃一口嫩树叶。结果卡在树杈上了，上也上不去，下也下不来，搭拉着右脚无处安放。然后就开始睡觉了。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-41.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-41.jpeg)
 同一家的另一只大熊猫，来回爬，大熊猫妈妈还在睡觉，就踩着妈妈爬上了树干，爬上去又慌的不行，又慢慢爬下来了。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-42.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-42.jpeg)
 除了大熊猫，还有小熊猫。相比行动有些笨拙迟缓的大熊猫，小熊猫太灵活了，导致除了进食，很难拍到一张照片。
 
 小熊猫属，也叫红熊猫或九节狼，是一种小型哺乳动物，原产于中国西南地区。小熊猫有着红褐色的皮毛和长而蓬松的尾巴，且由于前肢较短，所以步态摇摆蹒跚（走路姿势太妖娆了）。它是一种树栖动物，主要以竹笋为主食，但也会杂食禽蛋、鸟类、昆虫和小型哺乳动物。在野外自然条件下它是一种独居动物，黄昏到黎明是其主要活动期，而白天大部分时间处于静栖状态。
@@ -277,33 +277,33 @@ draft: false
 
 小熊猫与现生熊科动物中相对较基群的大熊猫并无紧密关系，目前本属已知有两物种。小熊猫科目前尚存两物种：喜马拉雅小熊猫，中华小熊猫。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-43.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-43.jpeg)
 小熊猫具有领土意识，除繁殖季节外均为独居。小熊猫的天敌包括雪豹、鼬科动物和<font color=red>人类</font>。当它们感觉到威胁或危险时，它们会尝试爬到岩石柱或树上以逃离险情。一旦不能逃走，它们会用后肢站立，使它们看起来体积更大，并用它们锋利的前爪进行自卫。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-44.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-44.jpeg)
 
 	你眺望着天边
 	我眺望你的脸
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-45.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-45.jpeg)
 这只大熊猫真的是懒到极致了，十点多了，还没有起床。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-46.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-46.jpeg)
 十点以后的大熊猫基地，就是这样的场景，一道厚厚的人墙，基本没办法站在前排去好好观赏下大熊猫了。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-47.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-47.jpeg)
 圆滚滚，真的是百看不腻的存在呀！
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-48.jpg)
+![](https://image.seanxp.com/chengdu202012/chengdu-48.jpg)
 看完大熊猫，下午就收拾行李返回深圳了。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-49.jpg)
+![](https://image.seanxp.com/chengdu202012/chengdu-49.jpg)
 见识到了真的的云海，就像海浪拍打沙滩一般，不过是海拔九千米的高空之上。
 
 	我看见了云海 如晦如梦幻
 	我唤来了星繁 似灭似绚烂
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-50.jpeg)
+![](https://image.seanxp.com/chengdu202012/chengdu-50.jpeg)
 夕阳下的万米高空，云层之上，犹如脱离大气层飞离地球之外一般。
 
 ## 后记
@@ -316,7 +316,7 @@ draft: false
 旁边的同事和舍友都很慌，于是决定去做个核酸检测，花钱消灾，稳定人心。不然可能让周围人操心两星期，这也是对他人不责任的做法。
 周二下午预约了深圳南山医院的核酸检测（复工门诊7号楼），没想到深圳做核酸检测的好多，排队50min，检测5s。做完检测，在家远程办公等结果。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/chengdu202012/chengdu-51.png)
+![](https://image.seanxp.com/chengdu202012/chengdu-51.png)
 第二天结果就出来了，开开心心去上班了，还和朋友们一起去吃了「冬天里的第一头烤全羊」。
 
 不过成都一位确诊的姑娘就没这么幸运了，因为一晚上跑了多家酒吧，被人肉所有的资料，还要在网上面对着如潮水般汹涌的网络暴力。

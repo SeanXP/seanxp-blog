@@ -12,7 +12,7 @@ draft: false
 
 
 <div align=center>
-<a href="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Chongqing/3.jpeg" target="_blank"><img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Chongqing/3.jpeg" width="512" height="512"></a>
+<a href="https://image.seanxp.com/Tour-Chongqing/3.jpeg" target="_blank"><img src="https://image.seanxp.com/Tour-Chongqing/3.jpeg" width="512" height="512"></a>
 <blockquote class="blockquote-center">劝君莫惜金缕衣，
 劝君惜取少年时。
 花开堪折直须折，
@@ -38,10 +38,10 @@ draft: false
 
 每天的行程，吃是起点，亦是终点。每天都去了八一路好吃街，不要笑，重庆美食让我放弃了思考，放弃了赏景，这几天散散步，吃吃重庆美食就感觉很幸福，基本没怎么拍风景。（走路是为了消化，消化是为了吃更多好吃的 :-)
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Chongqing/1.jpeg)
+![](https://image.seanxp.com/Tour-Chongqing/1.jpeg)
 周六上午抵达重庆后，就迫不及待来到传说中的重庆美食圣地————八一路好吃街。先来一碗重庆小面！端上来才发现点错了，点成招牌牛肉面了。但是牛肉面也非常好吃。味道不清楚是否正宗，价格很“正宗” ಠ_ಠ。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Chongqing/2.jpeg)
+![](https://image.seanxp.com/Tour-Chongqing/2.jpeg)
 吃完牛肉面，开始逛解放碑，各种商业街不怎么感兴趣，也没怎么逛。中心的人民解放纪念碑倒是很有趣，碑下有两名保安一直在转圈圈巡逻。
 
 脑部小剧场：
@@ -50,36 +50,36 @@ draft: false
 
 从解放碑出发，又去逛了逛洪崖洞，商业气息浓厚，白天游客也比较少。本来想体验下传说中的采耳，研究后发现很多采耳师傅并没有经过专业培训，存在操作的安全风险，可能弄伤鼓膜，而且也可能会把耵聍（这个词足够文艺，但不够优雅）捅到耳道深处，最终还是放弃了。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Chongqing/3.jpeg)
+![](https://image.seanxp.com/Tour-Chongqing/3.jpeg)
 站在洪崖洞，远眺千厮门大桥，偶尔还会有轨道交通列车从下面呼啸而过。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Chongqing/4.jpeg)
+![](https://image.seanxp.com/Tour-Chongqing/4.jpeg)
 白天站在洪崖洞远眺千厮门大桥，晚上反过来，走在千厮门大桥去欣赏洪崖洞夜景。之前一直对这种 LED 灯来装潢建筑的流派嗤之以鼻，觉的乡土气息浓重，不晓得为什么有人会对 LED 灯如此着迷（应该是生物对光刺激的趋向性）。但是量变引发质变，只要 LED 灯堆的足够多，就能够吸引更多趋光性的游客。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Chongqing/5.jpeg)
+![](https://image.seanxp.com/Tour-Chongqing/5.jpeg)
 虽然洪崖洞和《千与千寻的神隐》影片中的油屋实际并无关联，但是在这般漂亮的洪崖洞夜景前，突然闯进一艘大船，耳边就响起了油屋的 BGM。碰巧脚下的大桥叫做千厮门，「千与千寻与千厮门」，十分有趣。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Chongqing/6.jpeg)
+![](https://image.seanxp.com/Tour-Chongqing/6.jpeg)
 逛完夜景，回到八一路好吃街吃夜宵。深夜增肥密码：杂酱酸辣粉+玫瑰冰粉+降龙麻辣鸡爪+酸奶紫米露。一碗酸辣粉，一碗冰粉，一个是毒药，一个是解药，一起吃真刺激。有个朋友问“为啥不进屋里吃，非要在花坛上吃？”，因为要“接地气”。这也是八一路好吃街的特色之一，屋里的位置基本坐满了，而且很多店都开在街道边，并没有位置，所以有很多人都在是旁边的花坛上、楼梯上、马路边吃。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Chongqing/7.jpeg)
+![](https://image.seanxp.com/Tour-Chongqing/7.jpeg)
 第二天上午逛瓷器口古镇，一个商业化气息非常浓厚的小镇。而且有一半的店铺同质化严重，都是卖辣椒酱或者重庆火锅底料的。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Chongqing/8.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Chongqing/9.jpeg)
+![](https://image.seanxp.com/Tour-Chongqing/8.jpeg)
+![](https://image.seanxp.com/Tour-Chongqing/9.jpeg)
 整个街道都弥漫着火锅底料的味道。火锅底料果然大部分都是油，虽然知道不太健康，但是就是香！壮士，干了这锅火锅汤！
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Chongqing/10.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Chongqing/11.jpeg)
+![](https://image.seanxp.com/Tour-Chongqing/10.jpeg)
+![](https://image.seanxp.com/Tour-Chongqing/11.jpeg)
 偶尔有几间茶馆/咖啡馆，都是靠宠物卖萌来拉客，来来往往的游客，走累了不妨停下脚步，撸猫撸狗不比逛商业街有趣？
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Chongqing/13.jpeg)
+![](https://image.seanxp.com/Tour-Chongqing/13.jpeg)
 没想到麻花也是重庆的特产之一。无论是重庆哪个区的商业街，都能看到陈氏麻花店。
 陈建平麻花这边排了很长很长的队伍，陈昌银麻花这边却无人问津。因为凡有的，还要给他更多，使他丰富有余；凡没有的，连他仅有的，也要夺去。（马太福音 25:29）
 
 逛完瓷器口古镇，中午前往观音桥步行街。这里也有一个超大的室内美食街（观音桥好吃街），重庆美食应有尽有。可惜距离我住的地方较远，所以还是以八一路好吃街为主。（光顾着吃了，忘记了拍照）
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Chongqing/14.jpeg)
+![](https://image.seanxp.com/Tour-Chongqing/14.jpeg)
 第二天下午很悠闲，吃饱喝足后，坐着重庆魔幻的轨道交通上天入地，来到了单轨李子坝站，列车穿楼而过。楼下有很多人张着嘴巴，利用错位摄影的手法来拍“三口一头猪”。
 
 	听见吗
@@ -87,17 +87,17 @@ draft: false
 	跨越兴奋
 	奔向你的楼房
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Chongqing/15.jpeg)
+![](https://image.seanxp.com/Tour-Chongqing/15.jpeg)
 第三天上午去逛黄桷坪，本来打算去看看四川美术学院(黄桷坪校区)，可惜因为疫情封校，被保安大叔拦在门外。只好作罢，去逛涂鸦一条街。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Chongqing/16.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Chongqing/17.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Chongqing/18.jpeg)
+![](https://image.seanxp.com/Tour-Chongqing/16.jpeg)
+![](https://image.seanxp.com/Tour-Chongqing/17.jpeg)
+![](https://image.seanxp.com/Tour-Chongqing/18.jpeg)
 涂鸦不止涂了一条街，而是一个大街区，到处都有涂鸦，还有最近几天的新涂鸦图案。但是我感觉九成以上的涂鸦，都是瞎涂，没有美感的那种文字涂鸦，只有不到一成的涂鸦，或文字，或图案，是有趣好看的。而且涂鸦一条街最开始也是由于一批高治疗的涂鸦带起来的。由于涂鸦的覆盖特性，我觉得如果不加约束，继续任由随意涂鸦，这条街区后续可能会被毁掉。
 
 	没有约束的自由，不是真正的自由。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Chongqing/20.jpeg)
+![](https://image.seanxp.com/Tour-Chongqing/20.jpeg)
 行程的最后，逛了逛鹅岭二厂文创园。没怎么get到里面的文艺气息。还是去八一路好吃街吧 :-)
 
 ## 武汉美景
@@ -133,49 +133,49 @@ draft: false
 
 ### 武大赏樱之旅
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/2.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/2.jpeg)
 武汉近一周都在下雨，周六上午来到武汉大学樱花大道，看到满地的樱花瓣，哎，还是没能赶上樱花全盛的时间（听说是前一个周末，3月14日）。东湖的水，我的泪。知否知否，应该是“绿肥红瘦”。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/1.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/1.jpeg)
 不过还是有一些樱花依旧盛开的，应该是最后的一抹樱色了。因为来的比较早，所以樱花大道的游客还不是很多（游玩完返程时，游客非常得多）。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/3.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/4.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/5.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/3.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/4.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/5.jpeg)
 老斋舍窗外就是樱花大道，生活在里面的学生多幸福，打开窗户就可以赏樱。不需要像我一样，从千里之外赶来看。
 
 	梦醒来是谁在窗台把结局打开
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/6.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/6.jpeg)
 这颗樱花树长得好妖娆。“我见诸君多妩媚,料诸君见我应如是”。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/7.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/7.jpeg)
 樱花树近景，底部的一朵小樱花已经凋谢了。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/8.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/8.jpeg)
 老斋舍楼下的走廊，相比樱花大道，游客更多，因为可以更近距离的赏樱（头顶就是千万朵樱花），自然也称了摄影师云集之处。笑靥如花。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/9.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/9.jpeg)
 正好拍到两位老人来赏樱，背着粉色的背包，正是樱花的颜色！
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/10.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/12.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/10.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/12.jpeg)
 地上落满了樱花花瓣，但是树上的樱花看上去还有很多，实际近看已经是将近多半已经凋谢。说明全盛开时该有多漂亮。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/16.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/13.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/16.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/13.jpeg)
 相比樱花大道，行政楼的樱花应该晚开，所以凋谢的也不多。赏樱治好了我多年的颈椎病。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/14.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/15.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/14.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/15.jpeg)
 全民赏樱！看到有人带着小孩，有人带着爷爷奶奶来赏樱。樱花花期只有短短十几天，想看就看，莫失良机。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/17.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/18.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/19.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/17.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/18.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/19.jpeg)
 樱花近景，有的樱花含苞待放，有的正盛开，有的已然凋谢，各有各的美。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/20.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/20.jpeg)
 
 	劝君莫惜金缕衣，
 	劝君惜取少年时。
@@ -185,38 +185,38 @@ draft: false
 
 手里这朵樱花不是摘的，是从草丛里捡到的。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/21.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/22.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/21.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/22.jpeg)
 临近中午，武大校园里赏樱的游客也越来越多。每颗樱花树下都站满了人，熙熙攘攘。是时候返程回去了。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/23.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/23.jpeg)
 遇到了武大学生采风绘画。我觉得绘画相比于摄影，是一种感性的美，而非摄影这样理性的美。绘画不一定要完全纪实，而是突出画中意境。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/25.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/25.jpeg)
 而采风画画的她们，也成了另一副画的背景。
 
 	初看不明画中意，再看已是画中人。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/26.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/26.jpeg)
 老斋舍，于1930年3月开工建设，1931年9月竣工，已经有九十年的历史了。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/27.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/27.jpeg)
 当然武大的樱花也不是只有那几种，樱花大道下面的樱园里面，还有很多其他品种的樱花，比如这个垂枝大叶早樱（八重樱）。可惜当时手机电量不足，没能拍下多少。
 
 ### 黄鹤楼
 中午租借了一部充电宝，前往户部巷小吃一条街吃午饭。相比重庆的八一路好吃街、观音桥好吃街，户部巷就略显小气，地方不大。不过也是美食云集，足够游客来吃个饱了。下午从户部巷出发，前往黄鹤楼。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/28.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/28.jpeg)
 没想到都 2021 年了，还有算卦这个职业。在重庆瓷器口也看到有算卦大师。黄鹤大师，能否算算你自己什么时候鸿运将至呢？或者两个黄鹤大师相互掐指一算呢？
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/29.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/30.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/29.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/30.jpeg)
 
 小姨已跟黄鹤跑，此地空余黄鹤楼。
 黄鹤一去不复返，工人钱包空荡荡。
 浙江温州皮革厂，欠下巨款三个亿。
 钱包原价一两百？统统只卖二十块。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/31.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/31.jpeg)
 还是得登高眺楼才好看。视角和站在黄鹤楼下面仰拍完全不一样。这一张才真正拍出了黄鹤楼的建筑美感。
 
 黄鹤楼（Yellow Crane Tower）位于湖北武汉长江南岸的武昌蛇山之巅，濒临万里长江，是“江南三大名楼”之一，自古享有“天下江山第一楼”和“天下绝景”之称。黄鹤楼是武汉市标志性建筑，与晴川阁、古琴台并称“武汉三大名胜”。
@@ -235,35 +235,35 @@ draft: false
 
 决定了，农历三月要去扬州春游！
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/32.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/33.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/32.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/33.jpeg)
 登楼远眺，武汉三镇的风光尽收眼底。黄鹤楼与蛇山脚下的武汉长江大桥交相辉映。可惜天气不佳，雾蒙蒙的，远眺视野被阻挡。下次有机会，希望可以晴天登高一览黄鹤楼。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/34.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/35.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/34.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/35.jpeg)
 逛完黄鹤楼，就继续顺路前往武汉长江大桥。一路赏景慢游。周六暴走一天，后面就返回酒店休息了，连出门吃晚饭的力气都没有了（晴川大道666号距离地铁站有一公里，交通也不怎么方便），最后点了个外卖，惨兮兮。
 
 ### 汉口江滩
 第二天下午就要坐飞机，所以只有一上午的时间。本来计划去湖北省博物馆的，发现需要提前一天预约，只能前往汉口江滩散散步。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/37.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/37.jpeg)
 同样是樱花，武大的樱花大道人山人海，汉口江滩的樱花径荒无人迹。
 
 	繁华如三千东流水
 	我只取一瓢爱了解
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/38.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/38.jpeg)
 汉口江滩是个周末休闲的好去处，空气清新，滨临长江，可以玩轮滑，跑步，放风筝，散步等等。头顶上空全是各种样式的风筝。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/40.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/40.jpeg)
 老大爷天天来汉口江滩健身，这个路灯杆怕是老大爷撞歪了，所以现在换了一棵树（这棵树有点慌），树也有点歪了。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/42.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/42.jpeg)
 江边还有很多钓鱼爱好者。而且都是自动化钓鱼了，找块石头压着钓鱼杆，就不用时刻拄着钓鱼杆了。一边的年轻人是小石头+小型鱼杆，另一边的老大爷是大石块+大型鱼竿，你大爷果然还是你大爷。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/43.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/43.jpeg)
 小孩子玩软翅风筝，成年人玩硬翅风筝，大爷们玩的是四线特技飞鱼风筝。
 火力老年王——汉江怪物队，参上！
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Wuhan/44.jpeg)
+![](https://image.seanxp.com/Tour-Wuhan/44.jpeg)
 最后走累了，坐着江边吹吹风，听听歌，悠闲的周末时光！
 
 	我们总打算在旅途中思考人生，或者在地球别处观看自己。

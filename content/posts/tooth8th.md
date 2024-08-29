@@ -11,7 +11,7 @@ categories:
 draft: false
 ---
 <div align=center>
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/images/tooth8th-0.jpg" width="540" height="540" alt='Teeth'/>
+<img src="https://image.seanxp.com/images/tooth8th-0.jpg" width="540" height="540" alt='Teeth'/>
 嗡 嘛 智 牟 耶 萨 列 德
 </div>
 
@@ -83,7 +83,7 @@ draft: false
 * 上下第一乳臼齿、乳犬齿，共8颗
 * 上下第二乳臼齿。共4颗
 
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/images/tooth8th-1.gif" style="zoom:50%" />
+<img src="https://image.seanxp.com/images/tooth8th-1.gif" style="zoom:50%" />
 
 
 ### 恒牙（28颗+4颗智齿）
@@ -100,7 +100,7 @@ draft: false
 * 第二大臼齿
 * 第三大臼齿（智慧齿）
 
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/images/tooth8th-2.jpg" style="zoom:80%" />
+<img src="https://image.seanxp.com/images/tooth8th-2.jpg" style="zoom:80%" />
 
 ### 智齿阻生
 
@@ -113,7 +113,7 @@ draft: false
 ### 牙齿构造
 虽然看起来和骨骼类似，但牙齿不是骨头，因为它不生产红血球，没有连接颌骨的关节，比骨头能承受更多更大的磨损。假若牙齿是骨骼，那么它将会极快被磨平。
 
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/images/tooth8th-3.jpg" style="zoom:30%" />
+<img src="https://image.seanxp.com/images/tooth8th-3.jpg" style="zoom:30%" />
 
 A-齿冠（Crown），B-齿根（Root）：
 

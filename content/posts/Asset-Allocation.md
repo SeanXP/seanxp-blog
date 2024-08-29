@@ -12,7 +12,7 @@ draft: false
 ---
 
 <div align=center>
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Asset-Allocation/0.jpg" alt='Asset'/>
+<img src="https://image.seanxp.com/Asset-Allocation/0.jpg" alt='Asset'/>
 <blockquote class="blockquote-center">你永远挣不到，超出你认知范围外的钱，除非你靠运气。
 但是靠运气赚到的钱，最后往往又会靠实力亏掉，这是一种必然。
 你所赚的每一分钱，都是你对这个世界认识的变现。
@@ -22,7 +22,7 @@ draft: false
 <!--more-->
 
 ## 什么是资产配置？
-![asset.jpeg](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Asset-Allocation/1.jpg)
+![asset.jpeg](https://image.seanxp.com/Asset-Allocation/1.jpg)
 资产配置是指因应投资者个别的情况和投资目标，把投资分配在不同种类的资产上，如：股票、债券、房地产及现金等，在获取理想回报之余，把风险减至最低。配置资产主要是取决于以下四种因素：
 * 投资目标（保本、稳定的收入、资本增值）
 * 可承受的风险（风险低收益低、风险高收益高）

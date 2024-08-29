@@ -11,7 +11,7 @@ draft: false
 
 <div align=center>
 <!--<img src="https://ww3.sinaimg.cn/large/006tNc79jw1fawfvd5fulj30u00u0djw.jpg" width="540" height="540" alt='真田丸'/>-->
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/TV-sanadamaru-1.jpg" width="540" height="540" alt='真田丸'/>
+<img src="https://image.seanxp.com/images/TV-sanadamaru-1.jpg" width="540" height="540" alt='真田丸'/>
 NHK 大河剧《真田丸》播送一年，「完结」撒花！
 </div>
 
@@ -40,7 +40,7 @@ NHK 大河剧《真田丸》播送一年，「完结」撒花！
 看完第 50 话「最终回」，一边听着服部隆之的配乐《ふたりでひとつ》，一边翻看[真田丸回忆录](https://www.nhk.or.jp/sanadamaru/special/subject/subject56.html)，源次郎的一生如画卷般徐徐展开，感慨良多，不一而足。
 
 <!--![真田信繁](https://ww1.sinaimg.cn/large/006tNc79gw1fawft9whyzj30hv0iagpe.jpg)-->
-![真田信繁](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/TV-sanadamaru-2.jpg)
+![真田信繁](https://image.seanxp.com/images/TV-sanadamaru-2.jpg)
 
 周更的好处是播放时间持久，电视台可以靠一部作品持续吸引观众长达一年的注意力，广告营销效果自然好。但是对于观众而言，不易将剧情连贯起来，因此我打算偷得几日闲空再看一遍《真田丸》。
 

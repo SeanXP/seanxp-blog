@@ -10,7 +10,7 @@ categories:
   - 金融理财
 ---
 <div align=center>
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/credit/0.png" alt='shut up and take my money'/>
+<img src="https://image.seanxp.com/credit/0.png" alt='shut up and take my money'/>
 <blockquote class="blockquote-center">钱是人类共同的语言
 </blockquote>
 </div>

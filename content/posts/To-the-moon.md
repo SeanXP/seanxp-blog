@@ -12,7 +12,7 @@ draft: false
 
 <div align=center>
 <!--<img src="https://ww4.sinaimg.cn/large/006tNbRwgy1ffngsr3tnuj31kw16o47g.jpg" width="512" height="384" alt='To the moon'/>-->
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/To-the-moon/0.jpg" width="512" height="384" alt='To the moon'/>
+<img src="https://image.seanxp.com/To-the-moon/0.jpg" width="512" height="384" alt='To the moon'/>
 <blockquote class="blockquote-center"> 亿万灯塔屹立，你我受制命运，终隔绝天际。
 于梦境，与你，重新相遇；
 在月下，与你，停止呼吸。
@@ -74,22 +74,22 @@ Kan Gao在2016年8月初公布iOS和android的移动版将会由心动网络（X
 而约翰尼的最后心愿竟是…去月球。
 
 
-![Johnny](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/To-the-moon/1.jpg)
+![Johnny](https://image.seanxp.com/To-the-moon/1.jpg)
 游戏开始，Dr. Rosalene 与 Dr. Watts 两位工作人员来到老人 John 的居所（一所位居悬崖之上的别墅），来满足老人 John 最后的心愿 —— 去月球。此时老人已经昏迷不醒，只有尽快启动回忆装置进入老人的回忆中。
 
 <!--![dream](https://ww1.sinaimg.cn/large/006tNbRwgy1ffnh022e5qj31kw16o77r.jpg)-->
-![dream](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/To-the-moon/2.jpg)
+![dream](https://image.seanxp.com/To-the-moon/2.jpg)
 而在 John 的回忆里， John 也不清楚自己为什么想去月球，「我就是...想去」，这一句话引起了玩家无限的遐想，也让故事变得开始具备悬疑特色，「是为了名？为了利？总的有个想去月球的理由吧！」。
 为了搞清楚 John 想去月球的想法从何而来，我们要一步步向回忆的深处追溯，而在追溯的过程中 John 的一生也徐徐向我们展开...
 
 <!--![River-John-1](https://ww3.sinaimg.cn/large/006tNbRwgy1ffnh56ynyjj31kw16ogod.jpg)-->
-![River-John-1](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/To-the-moon/3.jpg)
+![River-John-1](https://image.seanxp.com/To-the-moon/3.jpg)
 我们见证了 John 的妻子 River 的生命是如何走向终结，John 如何陪伴 River 走到生命的尽头，John 在失去 River 的孤独站立在灯塔下坟墓旁边，然后回到家里一遍遍弹奏那首为妻子谱写的钢琴曲《To River》，同时我们的心里却也埋下了疑惑的种子... 因为 John 与 River 的对话十分奇怪，River 一直试图通过折纸兔子向 John 暗示什么。（这段对话在通关之后才会理解，兔子真正的含义将会十分令人感动）
 
 折纸兔子，盆栽，鸭嘴兽，这些都是 John 记忆中重要的东西，通过它们我们可以调整到更早的记忆，而对于玩家，是梳理记忆线和感情线的重要道具，玩家需要将逆行的记忆进行整理，从而不断梳理 John 的一生，去探索 To the moon 背后的故事。
 
 <!--![River-John-2](https://ww1.sinaimg.cn/large/006tNbRwgy1ffnhwfm7esj31kw16oadc.jpg)-->
-![River-John-2](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/To-the-moon/4.jpg)
+![River-John-2](https://image.seanxp.com/To-the-moon/4.jpg)
 灯塔的存在对于 John 与 River 有着特殊的含义，他们为灯塔取名「Anya」，亲切称之为「她」，并在灯塔旁边盖下房子，甚至 River 放弃治疗也要 John 积攒费用坚持盖好房子，那么灯塔究竟意味着什么？
 
 游戏的最后，年幼的 River 提出自己对灯塔的看法：「每个人都是灯塔，灯塔之间相隔万里，无法触碰无法沟通，唯一能做的就是用自己的光去照耀别人。」
@@ -99,22 +99,22 @@ Kan Gao在2016年8月初公布iOS和android的移动版将会由心动网络（X
 「结局永远也不会比过程重要」，同样精辟，游戏通关不是目的，而游戏的这个过程，John 的一生历程与 River 的坎坷经历，才是最重要的。
 
 <!--![River-John-3](https://ww3.sinaimg.cn/large/006tNbRwgy1ffnhaibo2hj31kw16odk4.jpg)-->
-![River-John-3](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/To-the-moon/5.jpg)
+![River-John-3](https://image.seanxp.com/To-the-moon/5.jpg)
 <!--![River-John-4](https://ww1.sinaimg.cn/large/006tNbRwgy1ffnhdhbdkij31kw16otbg.jpg)-->
-![River-John-4](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/To-the-moon/6.jpg)
+![River-John-4](https://image.seanxp.com/To-the-moon/6.jpg)
 我们从后往前，见证了 River 与 John 的生活中的矛盾与不和谐，冲突的原因，River 的病情，有见证到 John 与 River 恩爱的生活，一直逆行到两人的婚礼。疑惑也越来越重，似乎两人之间矛盾的根源都是在更早的回忆中，同样 John 想要去月球的心愿也是在更早的回忆之中...
 
 John 与 River 在婚礼当天于灯塔塔顶的跳舞，搭配游戏的主旋律 <To River>，让一切都显得那么美好，在游戏充满悬疑的过程中，是一段可以闭着眼睛放松的桥段。
 
 <!--![game](https://ww2.sinaimg.cn/large/006tNbRwgy1ffnih8cx2xj31kw16o42v.jpg)-->
-![game](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/To-the-moon/7.jpg)
+![game](https://image.seanxp.com/To-the-moon/7.jpg)
 
 游戏中的笔记画风很赞，没有一点冗余信息（大量剧透内容），每条笔记都是卡通风格涂鸦形式。最终集齐的四页笔记也是满满的回忆。
 
 在抵达 John 最小年龄段的回忆时（游戏最大的伏笔，本文按下不表），我不由倒吸一口冷气，一个完美的伏笔，有细节观察的玩家可能提前就能发现。这段回忆，影响了 John 的一生，结合之前的很多笔记，很多细节都值得细细思考，也让故事变得开始具备悲剧色彩。
 
 <!--![River-John-5](https://ww1.sinaimg.cn/large/006tNbRwgy1ffnhjo9n7sj31kw16oe83.jpg)-->
-![River-John-5](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/To-the-moon/8.jpg)
+![River-John-5](https://image.seanxp.com/To-the-moon/8.jpg)
 在 John 最早的回忆中，我们见证了 John 与 River 的初次相遇，真的是只有泪目，River 一直因为自己名字的特殊而被同学们取笑，而 John 正好相反，一直苦难自己有一个过于普通的名字，然而两人却在人群之中遇到特殊的彼此，相同的爱好，相同的心理问题，一切都已经明朗，「TO THE MOON」，完成彼此的约定。
 
 玩到这里，我才发现游戏的五个章节名称都是有伏笔的，它们是 River 与 John 初次相遇的谈话，这段对话影响了 John 与 River 的一生。

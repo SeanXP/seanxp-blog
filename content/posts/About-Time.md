@@ -9,7 +9,7 @@ categories:
   - 读书笔记
 draft: false
 ---
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/htgcoytayl/EF9BA399-F4C6-4303-B182-9FC98CFC89F7.jpg)
+![](https://image.seanxp.com/htgcoytayl/EF9BA399-F4C6-4303-B182-9FC98CFC89F7.jpg)
 <center>There is time.</center>
 
 <!--more-->
@@ -17,15 +17,15 @@ draft: false
 这篇笔记整理了我所读到过的关于时间管理、精力管理的读书笔记。时间是固定的，唯一的区别是你选择在什么地方花时间。而这由你的价值观所决定。所以术是时间管理，道是价值观管理。
 ## Getting Things Done
 [搞定 (豆瓣)](https://book.douban.com/subject/4849382/)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/htgcoytayl/Getting%20Things%20Done.png)
+![](https://image.seanxp.com/htgcoytayl/Getting%20Things%20Done.png)
 
 ## 要事第一
 [要事第一 (豆瓣)](https://book.douban.com/subject/1028372/)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/htgcoytayl/First%20Things%20First.png)
+![](https://image.seanxp.com/htgcoytayl/First%20Things%20First.png)
 
 ## 精力管理
 [精力管理 (豆瓣)](https://book.douban.com/subject/26606009/)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/htgcoytayl/managing%20energy.png)
+![](https://image.seanxp.com/htgcoytayl/managing%20energy.png)
 
 ## 如何掌控自己的时间和生活
 [如何掌控自己的时间和生活 (豆瓣)](https://book.douban.com/subject/1436707/)

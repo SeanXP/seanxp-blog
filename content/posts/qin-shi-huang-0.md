@@ -12,7 +12,7 @@ draft: false
 ---
 
 <div align=center>
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/qin-shi-huang-0.png" width="512" height="512"/><blockquote class="blockquote-center">高祖常繇咸阳，纵观，观秦皇帝，
+<img src="https://image.seanxp.com/images/qin-shi-huang-0.png" width="512" height="512"/><blockquote class="blockquote-center">高祖常繇咸阳，纵观，观秦皇帝，
 喟然太息曰：“嗟乎，大丈夫当如此也！”——《史记·高祖本纪》
 </blockquote>
 </div>

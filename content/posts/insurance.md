@@ -13,7 +13,7 @@ draft: false
 ---
 <div align=center>
 <!--<img src="https://ws1.sinaimg.cn/large/006tKfTcgy1g0j388u0awj31900u0n9s.jpg" width="540" height="540" alt='保险'/>-->
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/insurance/0.jpg" width="540" height="540" alt='保险'/>
+<img src="https://image.seanxp.com/insurance/0.jpg" width="540" height="540" alt='保险'/>
 </div>
 
 <div align=center>
@@ -61,7 +61,7 @@ draft: false
 ## 房屋保险
 [家庭财产保险－家财险－中国平安保险商城](http://baoxian.pingan.com/product/jiatingcaichanbaoxian.shtml)
 <!--<img src="https://ws1.sinaimg.cn/large/006tKfTcgy1g0j2xyi0zaj30k00eyjsc.jpg" width="360" height="269" alt='微笑中透露着贫穷'/>-->
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/insurance/1.jpg" width="360" height="269" alt='微笑中透露着贫穷'/>
+<img src="https://image.seanxp.com/insurance/1.jpg" width="360" height="269" alt='微笑中透露着贫穷'/>
 
 ## 重疾险
 * 保障最全面的消费型重疾险：[百年康惠保旗舰版](http://www.kaixinbao.com/jiankang-baoxian/315704.shtml)；
@@ -145,7 +145,7 @@ draft: false
 
 [意外险vs重疾险vs寿险](https://zhuanlan.zhihu.com/p/26720802)
 <!--![](https://ws1.sinaimg.cn/large/006tKfTcgy1g0j32y3e2oj30j60elmxv.jpg)-->
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/insurance/2.jpg)
+![](https://image.seanxp.com/insurance/2.jpg)
 * 意外险：意外身故；意外残疾，按照残疾等级分为1-10级（由行业专门的《人身保险伤残评定标准》来确定）；附加险意外医疗；附加险意外住院津贴；其他附加项目等组成。（成因：所有必须为意外导致）  
 * 纯重疾：合同约定的重大疾病。（成因：根据合同定义，可包含意外或者自身患病导致）  
 * 寿险：身故责任；全残责任。（成因：只看结果，不问导致的原因）  
@@ -258,7 +258,7 @@ draft: false
 在专业人员眼里，人身险产品按照保险责任只分为三种：寿险、健康险和意外险。**我国保险产品是有命名规则的，大致为：保险公司名称 + 可选的吉庆名字 + 具体保险类型。所有保险计划都是有不同保险产品组成的，无论如何设计搭配，他们的最基本的组成就是各个保险产品。**
 
 <!--![人身险产品](https://ws3.sinaimg.cn/large/006tKfTcgy1g0jj8262pej30fa0d4wfn.jpg)-->
-![人身险产品](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/insurance/3.jpg)
+![人身险产品](https://image.seanxp.com/insurance/3.jpg)
 
 ### 两年不可抗辩条款
 [两年不可抗辩条款的正确解读](https://zhuanlan.zhihu.com/p/25202085)

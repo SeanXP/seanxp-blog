@@ -10,7 +10,7 @@ categories:
 draft: false
 ---
 <div align=center>
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/images/Guns-Germs-and-Steel-0.jpg" width="550" height="373"/>
+<img src="https://image.seanxp.com/images/Guns-Germs-and-Steel-0.jpg" width="550" height="373"/>
 <blockquote class="blockquote-center">那已风化百年的历史
 一切又重演
 粮食 枪炮 病菌 钢铁 是谁的从前

@@ -9,7 +9,7 @@ categories:
 draft: false
 ---
 <div align=center>
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Vietnam-Da-Nang/0.jpg" width="512" height="512" alt='Fly Me to the Da Nang'/>
+<img src="https://image.seanxp.com/Tour-Vietnam-Da-Nang/0.jpg" width="512" height="512" alt='Fly Me to the Da Nang'/>
 <blockquote class="blockquote-center"> 乘上与平时相反方向的列车，为了去看未曾看过的风景。
 </blockquote>
 </div>
@@ -35,7 +35,7 @@ draft: false
 
 因为护照问题带来的大悲大喜不必提及，拿到护照后的第一感觉是「日本签证上的五七桐纹可真漂亮啊」，这一趟辛苦奔波值了！
 
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Vietnam-Da-Nang/1.jpg" width="128" height="128" alt='Goshichi_no_kiri_inverted.svg'/>
+<img src="https://image.seanxp.com/Tour-Vietnam-Da-Nang/1.jpg" width="128" height="128" alt='Goshichi_no_kiri_inverted.svg'/>
 
 ## 越南盾的千万富翁
 来到岘港后的第一件事，就是钱！钱！钱！越南盾可能是实现人生第一个千万的最快捷径了。
@@ -44,7 +44,7 @@ google maps 上面搜到到一台附近的 BIDV ATM，免 ATM 机手续费取款
 
 	财富自由路漫漫，人生第一个千万！
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Vietnam-Da-Nang/2.jpg)
+![](https://image.seanxp.com/Tour-Vietnam-Da-Nang/2.jpg)
 
 ### 境外取现 tips
 
@@ -70,14 +70,14 @@ google maps 上面搜到到一台附近的 BIDV ATM，免 ATM 机手续费取款
 * 早上9点，已经被晒4个小时的沙滩变得非常炙热，赤脚走在沙滩上非常烫脚；
 * 晚上20点，沙滩上还有白天晒后的余温，海水也是温热的，涨潮的海水此起彼伏，冲刷着乱糟糟的沙滩，留下一片洁净的海滩。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Vietnam-Da-Nang/3.jpg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Vietnam-Da-Nang/4.jpg)
+![](https://image.seanxp.com/Tour-Vietnam-Da-Nang/3.jpg)
+![](https://image.seanxp.com/Tour-Vietnam-Da-Nang/4.jpg)
 
 早上还碰巧看到了越南渔夫用簸箕船打捞小鱼，真正诠释了什么叫「一网打尽」。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Vietnam-Da-Nang/5.jpg)
+![](https://image.seanxp.com/Tour-Vietnam-Da-Nang/5.jpg)
 
 有时是天气不好云霞遮日，有时则是天气好但拍摄手法不好，终于在最后一天离开前，拍出了一张美溪海滩日出的照片。日月同辉，美不胜收！
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Vietnam-Da-Nang/6.jpg)
+![](https://image.seanxp.com/Tour-Vietnam-Da-Nang/6.jpg)
 
 大海呀，都是浪；
 沙滩呀，全是人。
@@ -96,42 +96,42 @@ google maps 上面搜到到一台附近的 BIDV ATM，免 ATM 机手续费取款
 
 位于岘港市东北区，距市中心10公里左右。半岛在岘港港口的正中央，自然风景优美。山茶山腰上的佛滩灵应寺有一尊号称全越南最高的观音像。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Vietnam-Da-Nang/7.jpg)
+![](https://image.seanxp.com/Tour-Vietnam-Da-Nang/7.jpg)
 
 岘港大教堂（Da Nang Cathedral）原本是在1923年为了当地的法国人而建造，目前成为服务于当地四千多天主教徒的教堂。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Vietnam-Da-Nang/8.jpg)
+![](https://image.seanxp.com/Tour-Vietnam-Da-Nang/8.jpg)
 
 ## 陵姑湾
 
 	我见青山多妩媚，料青山见我应如是。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Vietnam-Da-Nang/9.jpg)
+![](https://image.seanxp.com/Tour-Vietnam-Da-Nang/9.jpg)
 
 ## 巴拿山（Ba Na Hills）
 
 巴拿山（Ba Na Hills）国家公园离岘港市以西约四十公里，海拔1487米，主要为度假区。世界最长独线、世界最高缆车吉尼斯纪录。坐缆车半小时上山，头顶蓝天白云，脚下原始森林，尽览一路风光美景。缆车速度不快，滑行平稳，远处眺望还能看到远处的岘港和美溪海滩。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Vietnam-Da-Nang/10.jpg)
+![](https://image.seanxp.com/Tour-Vietnam-Da-Nang/10.jpg)
 
 巴拿山顶远眺，碰巧遇到山中下雨的景色。何方道友在此渡劫？
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Vietnam-Da-Nang/11.jpg)
+![](https://image.seanxp.com/Tour-Vietnam-Da-Nang/11.jpg)
 
 相比巴拿山远处的风景，这里是我最不喜欢的，游客实在是太多多多多多多了。真正是寸步难行，虽然中间的向日葵花坛很漂亮，可惜周围人实在多。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Vietnam-Da-Nang/12.jpg)
+![](https://image.seanxp.com/Tour-Vietnam-Da-Nang/12.jpg)
 
 非常幸运的赶上了一场巴拿山大雨，褪去人潮，只留下了雨中景色。Tôi yêu những ngày mưa。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Vietnam-Da-Nang/13.jpg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Vietnam-Da-Nang/14.jpg)
+![](https://image.seanxp.com/Tour-Vietnam-Da-Nang/13.jpg)
+![](https://image.seanxp.com/Tour-Vietnam-Da-Nang/14.jpg)
 
 ## HEILO 夜市
 晚上除了在海滩散步戏水之外，我们还向岘港城市内部探索。体验了越南的打车软件 Grab，打车很快，无需沟通交流，下车打表付款即可。一路开到了 HEILO 夜市，体验了一把越南人民的夜生活。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Vietnam-Da-Nang/15.jpg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Vietnam-Da-Nang/16.jpg)
+![](https://image.seanxp.com/Tour-Vietnam-Da-Nang/15.jpg)
+![](https://image.seanxp.com/Tour-Vietnam-Da-Nang/16.jpg)
 
 ## 胡志明补完计划（Ho Chi Minh Instrumentality Project)
 由于个人收集钞票的兴趣爱好，这次越南之旅收集了全套的越南钞票，总计 888000 VND（262.85 CNY）。越南小额钞票还是纸币，大额钞票都是塑料材质了。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Vietnam-Da-Nang/17.jpg)
+![](https://image.seanxp.com/Tour-Vietnam-Da-Nang/17.jpg)
 
 ## 结
 这次五天越南岘港之旅，看到了沿途的靓丽风景，吃到了各种的越南美食，也体会了异国他乡的风土人情，玩得非常开心。

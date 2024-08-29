@@ -9,7 +9,7 @@ categories:
 draft: false
 ---
 <div align=center>
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/37.jpeg" ></a>
+<img src="https://image.seanxp.com/Tour-Lhasa/37.jpeg" ></a>
 <blockquote class="blockquote-center">
 
 生灵顺从雅鲁藏布江流淌，
@@ -43,11 +43,11 @@ draft: false
 前提是买对保险，否则原地爆炸。
 
 一觉醒来，吃过早餐，又要出发去机场了，没有时间体验下酒店泳池，也没有时间去八一路好吃街逛逛。去拉萨！
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/1.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/1.jpeg)
 
 飞机即将抵达拉萨机场时，周围已经是群山环绕，蓝天、白云、青山、绿水，荒芜的地面稀稀落落种植的一些树木，只有越靠近机场附近，树林才渐渐多了起来。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/2.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/3.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/2.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/3.jpeg)
 
 抵达拉萨机场后，就立即打车去酒店休息了。之前在网上研究过高原反应，都是建议前两天不要剧烈运动，尽量待在酒店休息，要像老奶奶一样慢慢走路。那时候的我还年轻，不知道接下来几天等待着我的，是怎样难（gao）忘（fan）的体验。
 
@@ -82,67 +82,67 @@ draft: false
 公元7世纪初，松赞干布统一西藏，定都拉萨，建立起强大的吐蕃政权。641年，他与尼泊尔塔库里王朝和中原唐王朝联姻，迎娶尺尊公主和文成公主，在玛布日山上修建了宫殿。因为松赞干布把观世音菩萨作为自己的本尊佛，所以就用佛经中菩萨的住地“布达拉”来给宫殿命名，称作“布达拉宫”。
 后来在吐蕃王朝灭亡时，宫殿也几乎全部被毁，只留下了两座佛堂幸免于战火。此后随着西藏的政治中心移至萨迦，布达拉宫也一直处于破败之中。
 1642年，五世达赖喇嘛洛桑嘉措建立了噶丹颇章政权，拉萨再度成为青藏高原的政治中心。1645年，他开始重建布达拉宫，三年后竣工，是为白宫。五世达赖去世后，为安放灵塔，宫廷总管第巴·桑结嘉措继续扩建宫殿，形成红宫。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/4.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/4.jpeg)
 
 布达拉宫的白鸽，被来来往往的游客喂肥了，旁边一堆叽叽喳喳的麻雀在抢着吃鸽子的吃食。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/5.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/5.jpeg)
 
 进入布达拉宫，救命的氧气瓶被安检收走了，不能带瓶装水和氧气瓶进入。只好一路用增压呼吸法（yyds！）扛着爬台阶。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/6.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/6.jpeg)
 
 下午阳光依旧非常晒，来来往往的游客很多，都在爬台阶，努力克服高原反应中。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/7.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/7.jpeg)
 
 布达拉宫内部不允许拍照，只能跟着导游一个个景点去参观。
 白宫因外墙为白色而得名。它是达赖喇嘛生活、起居的场所，共有七层。最顶层是达赖喇嘛的寝宫“日光殿”，殿内有一部分屋顶敞开，阳光可以射入，晚上再用蓬布遮住，因此得名。
 红宫位于布达拉宫的中央位置，外墙为红色。宫殿采用了曼陀罗布局，围绕着历代达赖的灵塔殿建造了许多经堂、佛殿，从而与白宫连为一体。最初是尺尊公主从尼泊尔带来的工匠设计建造的。
 布达拉宫所有宫殿、佛堂和走廊的墙壁上，都绘满了壁画，周围还有各种浮雕。壁画和雕塑大都绚丽多彩，题材主要有高原风景、历史传说、佛教故事和布达拉宫建造场面等，具有较高的历史和艺术价值。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/8.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/8.jpeg)
 
 参观完布达拉宫，下山路上已经没有导游陪同了，正好可以一个人悠闲地逛逛。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/9.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/10.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/11.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/9.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/10.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/11.jpeg)
 
 离开布达拉宫以后，下面是一条商业街，前面有两家是卖牦牛酸奶的，非常好吃，10元一碗。可能是心理作用，感觉高反也减轻了好多。后面的商业街都是卖旅游物品的，完全不感兴趣。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/12.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/12.jpeg)
 
 偶然碰到了一个失去左腿的朝圣者，双手绑着两块砖头，面向布达拉宫，真的是一步一跪，非常虔诚。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/13.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/13.jpeg)
 
 白天只是轻微头疼，还能忍，一到晚上睡觉又开始头疼欲裂，怀疑酒店的供氧设施反而是吸氧的。加上还有慢性咽炎的困扰，不容易睡着，就深夜打车去了拉萨医院看咽炎。
 来医院看咳嗽，医生看我血氧低，让我再吸氧一小时。
 来自卓玛医生的爱的供氧，再问आत्मघाती！
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/14.JPG)
+![](https://image.seanxp.com/Tour-Lhasa/14.JPG)
 
 吸氧完毕后，原地复活！腰不酸了，头不痛了，精神很好。回来的路上赶上了拉萨下大雨，看天气预报凌晨三四点还会下雪。简直可怕。
 
 ## Day3-大昭寺
 第三天，计划去八廓街和大昭寺逛逛。上午去八廓街吃早餐，近距离体验下藏民的生活。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/15.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/15.jpeg)
 
 随便进了一家光明茶馆，发现里面空间好大，黑压压一片全是当地吃早茶的藏民，感觉找对了地方。是按磅卖的，因为对磅这个计量单位没概念，直接点了一个二十元的，老板问我是不是一个人，说我一个人的喝不了那么多，所以我又换了十块钱的，以为是几杯，没想到是一壶甜茶，随便喝。甜茶很好喝，类似平时喝的奶茶。我喝了四杯，实在是喝不动了。看着墙上贴着的“浪费可耻”的标语，又坐着休息喝了两杯。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/16.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/16.jpeg)
 喝完甜茶，在八廓街附近绕着大昭寺逛，等着下午去大昭寺。没想到不一会儿的功夫，拉萨就下起了大雨。没有带伞，被困在原地。带上耳机，听一首《六月的雨》。等了几首歌的时间，变成小雨了，赶紧去前面便利店买了一把伞。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/17.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/17.jpeg)
 吃过午饭，拉萨又是晴天白云大太阳，简直神奇。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/18.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/18.jpeg)
 
 大昭寺始建于七世纪吐蕃王朝的鼎盛时期，建造的目的据传说是为了供奉一尊不动金刚佛像，即释迦牟尼八岁等身像，该佛像据传是当时的吐蕃赞普松赞干布迎娶的尼泊尔尺尊公主从家乡带去的。不过，由于一段神奇的历史原因，现在大昭寺内供奉的是唐朝文成公主带去的释迦牟尼十二岁等身像，而八岁等身像于八世纪被转供奉在小昭寺。
 大昭寺被认为是拉萨的“城市精神中心”和西藏最神圣的寺庙。它也是藏传佛教最神圣的地方之一，在藏民和藏传佛教信徒心中具有至高无上的地位。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/19.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/19.jpeg)
 
 大昭寺门口的经幡柱，每个都有自己的名字。据说很早之前挂着的是人头，后来觉得太血腥，不利于藏传佛法传播，改成了牦牛尾巴代替人头。
 风马旗一串横向展开五面幡布，每面分别为蓝、白、红、缘、黄等色。上有六字真言等经咒，常悬挂在寺院、敖包、圣地、嘛呢堆等处，当牧民们路过这些地方，都会下马致意，右绕经幡。因布条上画有风马一只，寓意把祷文藉风马传播各处，故得名“[风马旗](https://baike.baidu.com/item/%E9%A3%8E%E9%A9%AC%E6%97%97)”。
 风马藏语称为“隆达”，隆为风，达为马。传说风马旗缘起于藏族祖先祭山神的仪式。藏族人认为山神经常骑着风马巡视着雪山、草原、森林、河谷，保护着雪域人民的安宁，风是山神的坐骑。为了表示对山神的崇敬和感激，人们就会向山神献上“风马”，表示向山神献上宝马坐骑。
 前面的石碑坑洼不平，据说是之前被来来往往的信徒挖粉末导致的，信徒们相信把这种粉末冲水可以治疗疾病。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/20.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/20.jpeg)
 
 大昭寺藏语为“觉康”，是藏传佛教信徒朝圣的终点，大昭寺之神圣，并不逊于布达拉宫。大昭寺融合了藏、唐、尼泊尔、印度的建筑风格，成为藏式宗教建筑的千古典范。寺前终日香火缭绕，信徒们虔诚的叩拜在门前的青石地板上留下了等身长头的深深印痕。万盏酥油灯长明，留下了岁月和朝圣者的痕迹。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/21.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/21.jpeg)
 
 转经桶，与八字真言和六字真言（六字大明咒）有关，藏传佛教认为，持颂真言越多，越表对佛的虔诚，可得脱轮回之苦。因此人们除口诵外，还制作“嘛呢”经筒，把“六字大明咒”经卷装于经筒内，用手摇转，藏族人民把经文放在转经筒里，每转动一次就相当于念颂经文一次，表示反复念诵着成百倍千倍的“六字大明咒”。而且转动的方向也有讲究，顺时针转是佛教，逆时针是苯教。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/22.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/22.jpeg)
 
 凌晨的拉萨是飘雪的冬季，
 早晨的拉萨是多雨的春季，
@@ -156,81 +156,81 @@ draft: false
 抵达加若拉山口，海拔4700米。时至五月，山顶还有积雪，据说还是前两天刚下的雪。山顶好大的风，不知道是海拔高，还是风大，吹着人头痛。山顶上到处都是玛尼堆，还有雪片般的风马纸片。
 [玛尼堆](https://baike.baidu.com/item/%E7%8E%9B%E5%B0%BC%E5%A0%86)，藏语称“朵帮”，是垒起来的石头之意。玛尼堆也被称为“神堆”。这些石块和石板上，大都刻有六字真言、慧眼、神像造像、各种吉祥图案，它们也是藏族民间艺术家的杰作。
 [哈达](https://zh.wikipedia.org/zh-hans/%E5%93%88%E8%BE%BE)，是用长方形绢布制成的礼敬法器。哈达长短不一，一般为二至四尺，也有一丈多长的。大都为白色，象征纯洁、吉祥、繁荣。也有蓝、红、绿、黄等不同种类颜色。传统上，献哈达，是藏传佛教寺庙以及蒙古族、藏族的一种普遍而崇高的礼节。以为对方表达纯洁、诚心和尊敬。在西藏，凡是婚丧节庆、迎来送往、拜会尊长、觐见佛像等，都有献哈达的习惯。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/23.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/23.jpeg)
 
 这么大的玛尼堆，上次还是在泸沽湖看到的。蓝天白云，玛尼堆上的经幡随风摇摆，风吹动经幡，吟诵着六字真言：唵（ōng）嘛（ma）呢（nī）叭（bēi）咪（mēi）吽（ hōng）。西藏人的信仰，也让他们对大自然充满了敬畏，也使得很多野生动物得以保存下来。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/24.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/24.jpeg)
 
 翻过加若拉垭口，羊湖就映入眼帘。非常幸运，今天天气非常好，阳光明媚，欣赏到了羊湖的美景！
 [羊卓雍措](https://zh.wikipedia.org/zh-hans/%E7%BE%8A%E5%8D%93%E9%9B%8D%E9%94%99)，藏语“羊卓”意为“上部牧场”，“雍”意为“碧玉”，“错”意为“湖”，合起来意思是“上部牧场碧玉湖”。汉语又称“羊卓雍湖”，简称为“羊湖”。羊卓雍错是西藏自治区第五大湖，藏南最大的内陆微咸水湖。该湖与纳木错和玛旁雍错并称西藏三大圣湖。藏传佛教认为，羊卓雍错是龙女的化身，也是女护法神的驻锡地，所以是圣湖。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/25.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/26.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/25.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/26.jpeg)
 
 附近只有这两间公共卫生间，而且面向羊湖，不知道边上厕所边赏羊湖是一种什么样的体验。不过因为山上风大，也没有去尝试。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/27.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/27.jpeg)
 
 不同角度看羊湖，风景不同。羊湖近景，周围湖边依然摆放着各种各样的玛尼堆。羊湖从近处的绿色渐渐到远处的蓝色，白云倒映在上面，波光粼粼，美不胜收！
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/28.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/28.jpeg)
 
 日托寺，遗世独立于碧玉羊湖之畔，号称是一座全世界最孤独的寺庙。小岛其实就是一个山头，被称之为日冬，而日托寺就在最高处，在藏语中的意思就是：山上的石头。而这个寺庙里确实供奉着一个神石，据说可以治百病。日托寺虽小，但已经拥有了700多年的历史。
 我们跟团一起爬山，爬上日托寺去看羊湖的美景。同行有的小伙伴，走了几步就喘的不行，开始吸氧。也有的小伙伴，如履平地，据说完全没有高反。靠着秘技增压呼吸法，一路爬山，走走停停，坚持没吸氧。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/29.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/29.jpeg)
 爬山一路上都是羊湖美景，毕竟日托寺所在的地方是一座小岛，周围360度全方位欣赏羊湖美景。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/30.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/31.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/32.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/33.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/34.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/30.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/31.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/32.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/33.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/34.jpeg)
 
 抵达山顶，终于可以好好歇息下了。边看羊湖美景，边吸氧，美到窒息。真是应了那句话：“眼睛在天堂，身体在地狱”。记得上一次“美到窒息要吸氧”，还是在云南蓝月谷。不过蓝月谷海拔不高，没有高原反应，其实不需要吸氧。氧气瓶是给后面的玉龙雪山准备的。云南旅游时期，无论是上苍山还是玉龙雪山，都是短暂停留，所以并没有明显的高原反应。不像现在，人在拉萨，三天了依然走路不利索，晚上头痛欲裂。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/35.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/36.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/35.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/36.jpeg)
 
 在日托寺还碰到了几个航拍的小伙伴，厚着脸皮加了微信，要来了两张当天的航拍风景照。航拍的视角真好，是你在下面欣赏不到的美景！
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/38.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/39.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/38.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/39.jpeg)
 
 ## Day5-纳木措
 第5天，前往纳木错！本来之前计划是纳木错两日游，晚上在纳木错营地露营，看纳木错的星空。结果被高反毒打了好几天，加上纳木错海拔4718米，大部分人来了都会高反，最终还是放弃了两日游，改成了一日游。事实也证明这个选择是多么的正确。
 相比昨天前往养湖的车程，今天前往纳木错的车程就更遥远了，坐车要4个多小时，而且是翻山越岭，需要在车上持续吸氧的。
 西藏的高山和其他地方的不同，其他地方的山是绿色的，山上覆盖着茂密的植被，至少也有几颗树。但是西藏的山，就是一个高土堆或者高石堆，空气稀薄，天气寒冷，环境冷酷到一般植被都无法正常生存的地步。
 不知道是不是高反导致的头晕，远远看着黑色的山和白色的雪，看起来给人一种冰淇淋的错觉。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/41.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/41.jpeg)
 
 那根拉山口，海拔5190米，是通往纳木错的必经之地。山顶有一个观景台，下车以后风超级超级大，艰难地走了二十米，看了一眼石碑，然后就返回。回来司机师傅让我赶紧吸氧，说我的嘴唇已经紫到发黑了。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/42.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/42.jpeg)
 
 从那根拉山口，再开一段距离，终于抵达了纳木错，我此行最期待的地方。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/43.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/43.jpeg)
 
 [纳木措](https://zh.wikipedia.org/zh-hans/%E7%BA%B3%E6%9C%A8%E9%94%99)，现为西藏第二大的湖泊，也是中国第三大的咸水湖。湖面海拔4718米，为世界上海拔最高的大型湖泊。“纳木错”为藏语，这个湖的蒙古语名称为“腾格里淖尔”，两个名称都是“天湖”之意。由于气候高寒，冬季湖面结冰很厚，至翌年5月开始融化，融化时裂冰发出巨响，声传数里。
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/44.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/45.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/44.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/45.jpeg)
 
 看到海鸥，第一印象就想起了《塞尔达传说：织梦岛》里面的玛琳，她的梦想就是变成一只海鸥，想飞多远飞多远。
 耳边响起玛琳哼唱的《风鱼之歌》，这里就是织梦岛。
 All that we see or seem, is but a dream within a dream.（我们所看到和感受的一切，不过是一场梦中的梦）
 ......
 狗子视角：牦牛好臭，海鸥好吵，游客好多，湖边好晒，湖水好冷，氧气好少，风好大，方便面喂鸟也不喂我。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/46.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/47.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/48.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/46.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/47.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/48.jpeg)
 
 可惜当天天气不行，缺少天空的风景加成，也看不到远处的高山。加上高反有些严重，基本没有好好逛，就看了看海鸥，牦牛，狗子，就坐旅游大巴回来了。没能欣赏到纳木错完整的美景，非常遗憾，希望下次有机会来拉萨，可以再去一趟纳木错。当然，前提是不能有高反了。
 
 ## Day6-布达拉宫
 最后一天，感觉身体才适应了高反（啊～）。由于高反，这几天的行程调整，原本计划的哲蚌寺和色拉寺都没有去，只有留到下次旅游再会了。最后一天预约了布达拉宫的藏式摄影（酒店套餐送的）。拍完摄影已经中午了，就随便逛了逛布达拉宫广场，下午坐车去机场。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/49.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/49.jpeg)
 来到了药王山观景台，很多人都在拍布达拉宫和50元钞票的合影。开始觉得很简单，后来发现从技术上用手机很难拍出好效果。因为一个是远景，一个是近景，没有办法同时聚焦在一起。后来一拍脑袋，想到了可以后期加工拼图的方式。这个照片，“简直完美”，不过需要近视眼的同学摘掉眼镜看，不近视的同学戴上眼镜看。:-)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/50.jpg)
+![](https://image.seanxp.com/Tour-Lhasa/50.jpg)
 返回的路上打车，出租车里竟然翻出一本《拉萨浮生》，不知道是哪个来拉萨旅游的文情留下来的。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/51.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/51.jpeg)
 
 
 ## 后记
 当天返回重庆，在重庆又睡了一晚，没有高反，终于美美的睡了一觉。第二天休息放松，上午去游泳，吃自助早餐，中午去解放碑八一路吃吃吃，下午坐飞机返回深圳。从飞机下来，正好赶上深圳的夕阳余晖，回想起在拉萨四季变幻的神奇天气，夜不能寐的煎熬，头痛欲裂的痛苦，凌晨吸氧还淋雨，再想到布达拉宫的朵朵白云，大昭寺的经幡柱随风飘扬，羊卓雍错湖畔的午餐，纳木措自由飞翔的海鸥，不由感叹，活（you）着（qian）真好。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-Lhasa/52.jpeg)
+![](https://image.seanxp.com/Tour-Lhasa/52.jpeg)
 
 我们总打算在旅途中思考人生，或者在地球别处观看自己。但是旅行不是朝圣，生活的意义永远在你的身边，并非一个陌生的地方。去旅行就是找一个自己得空的时间，出去放松一下，就这样。
 放松过后，会有一股向上生长的力量。因为走过好看的地方，吃过好吃的食物，聊过有趣的人，就会深深的感觉到：活着，真好。

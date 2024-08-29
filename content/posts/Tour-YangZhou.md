@@ -11,7 +11,7 @@ draft: false
 
 
 <div align=center>
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/14.jpeg" ></a>
+<img src="https://image.seanxp.com/Tour-YangZhou/14.jpeg" ></a>
 <blockquote class="blockquote-center">故人西辞黄鹤楼，烟花三月下扬州。
 </blockquote>
 </div>
@@ -37,7 +37,7 @@ draft: false
 本来计划第一天逛完何园和个园的，后来发现自己还是年轻了，以为只是一个普通的周末，和清明假期错开了，没想到大家都是趁着农历三月来扬州旅游，人山人海。这就是传说中的疫情平静后的「报复性旅游」吗？
 
 4月份的扬州，天气更像是夏天般炎热，而非春天般温煦，中午阳光非常晒。就在这样的天气，旅游人潮涌向何园（又名：寄啸山庄）那小小的门，让人看着想咆哮。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/1.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/1.jpeg)
 
 	倚南窗以寄傲，审容膝之易安。
 	...
@@ -54,23 +54,23 @@ draft: false
 	年年后土祠，独比琼瑶贵。
 	————《琼花》韩琦
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/3.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/3.jpeg)
 
 最近正好在听音频讲宋史，北宋前期执政清明，名臣、贤臣、能臣数不胜数，韩琦韩大相公在其中就很有特点。19岁进士一甲第二名（王尧臣状元及第，同年还有包拯、文彦博等），后来有与范仲淹一起在西北抵御西夏，最后成了文臣里有军功，武将里有文采的能臣。不过韩琦的槽点也很多，战略眼光没有范仲淹高（对西夏战略），对待武将没有范仲淹谦和（韩琦对狄青），政治觉悟也没范仲淹高（对变法的态度）。不过，与宋朝第一人范仲淹（“仰止范文正，宋朝第一人”）比较，对韩琦或许有些不公平。
 
 提到扬州与韩琦，就不得不说一下「四相簪花」这个典故。韩琦任扬州太守时，官署后花园中有一种叫“金带围”的芍药一枝四岔，每岔都开了一朵花，而且花瓣上下呈红色，一圈金黄蕊围在中间，因此被称为金缠腰，又叫金带围。此花不仅花色美丽、奇特，而且传说此花一开，城中就要出宰相。当时，同在大理寺供职的王珪、王安石两个人正好在扬州，韩琦便邀他们一同观赏。因为花开四朵，所以韩琦便又邀请州黔辖诸司使前来，但他正好身体不适（这哥们错了一辈子最大的好运），就临时请路过扬州也在大理寺供职的陈升之参加。饮酒赏花之际，韩琦剪下这四朵金缠腰，在每人头上插了一朵。说来也奇，此后的三十年中，参加赏花的四个人竟都先后做了宰相。曾任扬州司理参军的北宋科学家沈括，将这个故事记载在他的《梦溪笔谈·补笔谈》中。
 
 扬州园林整体都不大，但是细节非常的多。例如园林花窗，各式各样各不相同。园中花窗，虚虚实实，漏而不尽，诱人探幽。走在狭长的走廊上，花窗直接开拓了空间视觉，让人可以欣赏都内外的景致。（听说这个窗户对面，就是小姐们的闺房）
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/4.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/4.jpeg)
 
 成群结队的游客，排着队在玉绣楼参过小姐们的闺房。中国传统的卧室见的多了，但这几间卧室很独特，是一百多年前采用欧式家居的布置，是中国私家园林中最早的欧式风格建筑。玉绣楼，前后两座砖木结构二层楼，既采用中国传统式的串楼理念，又融入西方的建筑手法，如采用法式的百叶门窗、日本式的拉门、法式的壁炉、铁艺的床等等。没想到在光绪年间，有钱人家的大小姐就已经可以住在这么洋气的欧式卧室中，家居是世界各地最先进的，也接收着国外的美术和音乐教育（隔壁有一间画室，一间钢琴室）。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/2.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/2.jpeg)
 
 据说园林的假山也非常有名，但我实在看不懂...
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/5.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/5.jpeg)
 
 水中月是片石山房中假山丘壑处的一道奇观。白天池水映中有一轮明月，且随着观者视角变化（在湖边来回走动即可）有阴晴圆缺之异。原为叠石后的墙上一处孔隙，随视角不同被叠石遮掩。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/6.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/6.jpeg)
 
 同样也有镜中花，在湖畔边种植着鲜花，远处有一面镜子，和周围的花窗无异，远远可以看到镜中的湖水与鲜花。很难让人分辨，看到是镜中景色，还是花窗漏出的景观。“一个是水中月，一个是镜中花”，让人如同身处太虚幻境一般。（可惜周围没有小仙女们 :-)
 
@@ -89,15 +89,15 @@ draft: false
 	也是销金一锅子，故应唤作瘦西湖。
 	————《瘦西湖》
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/7.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/8.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/9.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/7.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/8.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/9.jpeg)
 
 可惜没有坐船游览，不然可以像这位大哥一样，站在船头，沿岸的美景尽收眼底。和瘦西湖真的的零距离接触。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/10.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/10.jpeg)
 
 框景是建筑艺术园林构景方法之一，空间景物不尽可观，或则平淡间有可取之景。利用门框、窗框、树框、山洞等，有选择地摄取空间的优美景色，形成如嵌入镜框中图画的造景方式。找到一个绝佳的框景视角点，可以在一张照片里面同时包揽瘦西湖的三大景观：钓鱼台、白塔、莲花桥。瘦西湖的美景，确实美如画。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/11.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/11.jpeg)
 钓鱼台，相传乾隆曾于此钓鱼而得名。钓鱼台巧妙地运用了“框景”手法，成为中国园林“框景”艺术的经典之作。不过我看到钓鱼台，第一眼感觉很想西游记里面孙悟空与二郎神杨戬斗法时，孙悟空变出来的土地庙。你看，旁边还有尾巴变做的一棵树，是这猢狲了！
 
 	那大圣趁着机会，滚下山崖，伏在那里又变，变了一座土地庙儿，
@@ -108,7 +108,7 @@ draft: false
 	断是这畜生弄喧！他若哄我进去，他便一口咬住。我怎肯进去？等我掣拳先捣窗棂，后踢门扇！”
 	————《西游记》第六回 观音赴会问原因 小圣施威降大圣
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/12.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/12.jpeg)
 
 五亭桥，别名莲花桥，是中国江苏省扬州市境内的一座桥梁，位于瘦西湖水道之上，是扬州市的地标建筑之一，是中国古代十大名桥之一，有“中国最美的桥”之称。（中国最古老的桥是赵州桥，最壮美的桥是卢沟桥，最具艺术美的桥就是扬州的五亭桥。—— 茅以升）
 
@@ -127,11 +127,11 @@ draft: false
 	夜听玉人箫。
 	————《望江南 五亭桥》
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/15.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/15.jpeg)
 
 [白塔晴云](https://baike.baidu.com/item/%E7%99%BD%E5%A1%94/997594)是瘦西湖二十四景之一，主要建筑就是一座白色的喇嘛塔，它位于五亭桥一侧。清乾隆年间按北京北海的白塔仿建。砖石结构，高30余米。该园门嵌赖少奇书"白塔晴云"石额。内设积翠轩、曲廊、半亭、林香榭等景点。
 关于它的出现，在扬州民间广为流传着“一夜造塔”的传说。相传当年乾隆皇帝南巡时，感慨五亭桥畔的景色很像[北京北海的“琼岛春荫”](https://baike.baidu.com/item/%E5%8C%97%E6%B5%B7%E7%99%BD%E5%A1%94)，只可惜少了一座塔，说者无意，听者有心，盐商为博龙心，便连夜用盐包堆砌而成。皇帝走后，盐商怕犯欺君之罪，花万金购买北京白塔的图纸建造了这座白塔。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/16.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/16.jpeg)
 
 湖边看到了黑天鹅和丑小鸭，愉快的划水中。黑天鹅在啄食着岸边的水草，吃饱了才去喂旁边嗷嗷待哺的丑小鸭。话说丑小鸭感觉并不丑，周围很多游客都觉得丑小鸭比黑天鹅更萌更可爱。
 
@@ -139,11 +139,11 @@ draft: false
 	白毛浮绿水，红掌拨清波。
 	————《咏鹅》
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/17.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/17.jpeg)
 
 快逛完瘦西湖南区的时候，旅游游客们蜂拥而至。一个普普通通非节假日的周日上午，来了这么多游客，简直可怕。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/18.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/19.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/18.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/19.jpeg)
 
 [二十四桥](https://baike.baidu.com/item/%E4%BA%8C%E5%8D%81%E5%9B%9B%E6%A1%A5)，又称为廿四桥，是古代桥梁建筑的杰作，位于江苏省扬州市。现今扬州市经过规划，在瘦西湖西修长桥，筑亭台，重修了二十四桥景点。二十四桥为单孔拱桥，汉白玉栏杆，如玉带飘逸，似霓虹卧波。该桥长24米，宽2.4米，栏柱24根 ，台阶24级，处处都与二十四对应。
 
@@ -151,10 +151,10 @@ draft: false
 	二十四桥明月夜，玉人何处教吹箫。
 	————《寄扬州韩绰判官》
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/20.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/21.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/20.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/21.jpeg)
 不过游客实在是多，在排队上桥的路上，欣赏着炎炎夏日盛开的常春油麻藤。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/22.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/22.jpeg)
 
 逛完二十四桥，就坐着船一路北上，离开有游客的地方，前往大明寺。
 
@@ -166,12 +166,12 @@ draft: false
 	离开有你的季节
 	————《一路向北》
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/23.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/23.jpeg)
 
 ## Day2-大明寺
 下船以后，还有一段路程才能到大明寺。岸边的红叶非常漂亮。没想到这个季节还能在江南看到红叶，神奇。
 按观赏期长短枫树可分两大类：两头红和四季红。四季红枫的叶子春夏秋都是红的（没有冬天）。两头红枫叶，它们在春天萌发出的嫩叶是红色的，然后经过1-2个月的时间，树叶变绿，到秋季经过低温的洗礼会再一次变红。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/24.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/24.jpeg)
 
 [大明寺](https://baike.baidu.com/item/%E5%A4%A7%E6%98%8E%E5%AF%BA/58103)，因初建于南朝宋孝武帝大明年间（457—464年）而得名。1500余年来，寺名多有变化，如隋代称“栖灵寺”、“西寺”，唐末称“秤平”等。清代，因讳“大明”二字，一度沿称“栖灵寺”，乾隆三十年皇帝亲笔题书“敕题法净寺”。1980年，大明寺恢复原名。
 
@@ -179,7 +179,7 @@ draft: false
 	南朝四百八十寺，多少楼台烟雨中。
 	————《江南春》
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/25.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/25.jpeg)
 
 * 隋朝仁寿元年（601年），皇帝杨坚为庆贺其生日，下诏于全国建塔30座，以供养佛骨，该寺建“栖灵塔”，塔高九层，宏伟壮观，被誉为“中国之尤峻特者”，故寺又称“栖灵寺”。
 * 唐朝鉴真法师任大明寺住持，使大明寺成为中日佛教文物关系史上的重要古刹。
@@ -197,10 +197,10 @@ draft: false
 
 鉴真是当时淮南地区极有名望的佛教首领，他拜唐代律宗祖师道岸为师，受请东渡日本传法，于奈良东大寺设坛传戒，又创建唐招提寺，成为日本律宗初祖。
 鉴真曾六次东渡，历时十年，虽双目失明而矢志不渝，在日十年不仅辛勤传法，而且把唐代绘画、书法、雕塑、医药、工艺、印刷、建筑等成就的文化带至日本，实际上是一僧团形式的文化代表团。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/26.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/26.jpeg)
 
 平山堂是北宋大学家欧阳修任扬州太守时所建。堂前花木扶疏，庭院幽静，凭栏远眺江南诸山，恰与视线相平，“远山来与此堂平”，故称“平山堂”。堂前有联曰：“过江诸山到此堂下，太守之宴与众宾欢”，是欧阳修当年潇洒流运的生动写照。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/27.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/27.jpeg)
 
 后来苏东坡任扬州太守时，常来此凭吊，并在后面为欧阳建造了“谷林堂”和“欧阳河”。这里也有坡仙的书法大作，写的就是欧阳修的《醉翁亭记》。宋仁宗庆历五年（1045年），参知政事范仲淹等人遭谗离职，欧阳修上书替他们分辩，被贬到滁州做了两年知州。到任以后，他内心抑郁，但还能发挥“宽简而不扰”的作风，取得了某些政绩。
 
@@ -210,10 +210,10 @@ draft: false
 	太守谓谁？庐陵欧阳修也。
 	————《醉翁亭记》欧阳修
 
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/28.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/29.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/30.jpeg)
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/31.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/28.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/29.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/30.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/31.jpeg)
 
 	臣闻朋党之说，自古有之，惟幸人君辨其君子小人而已。
 	大凡君子与君子以同道为朋，小人与小人以同利为朋，此自然之理也。
@@ -231,8 +231,8 @@ draft: false
 相比「寄啸山庄」（何园），我更喜欢「个园」这个名字。从古代诗书里取名字来表示自己的志向或寄托，动动嘴皮子很容易，但要取一个像「个园」这样独树一帜的有趣名字，就很难。
 
 个园与北京颐和园、承德避暑山庄、苏州拙政园齐名，是中国园林的典范之一。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/32.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/32.jpeg)
 
 碰巧遇到小学生来风景写生。回想起当初美术课经常被占用做数学课的经历，羡慕如今的小学生，可以来这么漂亮的园林里写生。
 等等，他们是周日来上课的？心疼。
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/Tour-YangZhou/33.jpeg)
+![](https://image.seanxp.com/Tour-YangZhou/33.jpeg)

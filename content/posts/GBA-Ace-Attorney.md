@@ -10,7 +10,7 @@ draft: false
 ---
 <div align=center>
 <!--<img src="https://ww1.sinaimg.cn/large/006tNbRwly1fch3qkki7sj30go0afaod.jpg" width="480" height="300" alt='逆转裁判全人物'/>-->
-<img src="https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/GBA-Ace-Attorney/0.jpg" width="480" height="300" alt='逆转裁判全人物'/>
+<img src="https://image.seanxp.com/GBA-Ace-Attorney/0.jpg" width="480" height="300" alt='逆转裁判全人物'/>
 <blockquote class="blockquote-center"> 人与人的邂逅充满了神奇，各种刑案更是迷题重重，能够遇到你真是有缘。
 唯一看透了事件真相的，却是外表看似常人智慧却过于小孩的成步堂龙一。
 </blockquote>
@@ -22,7 +22,7 @@ draft: false
 ## [逆转裁判](https://www.wikiwand.com/en/Phoenix_Wright:_Ace_Attorney)
 《逆转裁判》最早于2001年由卡普空（CAPCOM）发行于日本 Game Boy Advance 平台。逆转裁判系列（日语：逆転裁判）是 Capcom 制作的法庭战斗冒险游戏，游戏中玩家扮演辩护律师，通过侦查收集证据，然后在假想规则的日本法庭上质疑检察官和证人的证词来为嫌疑人获得“无罪”的判决作为胜利目的。
 <!--![1](https://ww1.sinaimg.cn/large/006tNbRwly1fch3q35q4jj30k50deta9.jpg)-->
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/GBA-Ace-Attorney/1.jpg)
+![](https://image.seanxp.com/GBA-Ace-Attorney/1.jpg)
 初次玩《逆转裁判》，感觉真是太赞了，后悔没有早一点接触这款游戏神作！作为一款 2001 年发售的经典 GBA 游戏，却因为种种原因一直无缘玩到这款游戏，直到近日才入坑，通关《逆转裁判》。
 
 
@@ -42,7 +42,7 @@ draft: false
 
 ## [逆转裁判2](https://www.wikiwand.com/zh/%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A42)
 <!--![2](https://ww3.sinaimg.cn/large/006tNbRwly1fch3p8whzmj30jw0jkjsu.jpg)-->
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/GBA-Ace-Attorney/2.jpg)
+![](https://image.seanxp.com/GBA-Ace-Attorney/2.jpg)
 《逆转裁判2》今天通关了，玩出了和《逆转裁判》不一样的感觉！
 
 * 第一章依旧是「法庭」环节的牛刀小试，编剧也是煞费苦心，为了能够指导新手玩家，竟然让龙一「强行失忆」，成为一个新手律师，又可以出新手指导喽！不过也是因为事先被剧透，整个过程毫无压力，亦无逆转可言。
@@ -73,7 +73,7 @@ draft: false
 ## [逆转裁判3](https://www.wikiwand.com/zh-hans/%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A43)
 
 <!--![v3](https://ww4.sinaimg.cn/large/006tKfTcgy1fek52nm9v7j30kl0dotam.jpg)-->
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/GBA-Ace-Attorney/3.jpg)
+![](https://image.seanxp.com/GBA-Ace-Attorney/3.jpg)
 
 2017年4月，通关了逆转系列三部曲的《逆转裁判3》！
 
@@ -87,18 +87,18 @@ draft: false
 * 第三章《逆转的配方》，也是独立关卡。独立关卡的套路基本一致，经过就是「引子」=>「侦探」=>「法庭」=>「侦探」=>「法庭」这个套路模式，第二章重点是「角色的逆转」，第三章重点是「时间的逆转」，这里不多剧透了。
 * 第四章《最初的逆转》，这章节的印象很深，因为这章节也算是本系列的前传，讲述了绫里千寻的第一次“失败”辩护的故事，该故事由第一章已经引入悬念，直到这一章节才徐徐展开，也是逆转系列诸多主角的人生相遇点与转折点。因为第一章，因此看到美柳千奈美很容易猜到结局，逆转易如反掌。不过最后的结局实在让人唏嘘不已。
 <!--![c4](https://ww1.sinaimg.cn/large/006tKfTcgy1fek5u7alcgj30kj0dn0v6.jpg)-->
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/GBA-Ace-Attorney/4.jpg)
+![](https://image.seanxp.com/GBA-Ace-Attorney/4.jpg)
 * 第五章《最终的逆转》，篇幅最长，也是主线剧情，花了一天的时间通关。此章节由玩家对样貌与美柳千奈美相似的尼姑引入，也让我一度以为是美柳千奈美的越狱。最后的「真相」让人震惊，为一对母女感到悲哀，而为另一对母亲感到欣慰。悲哀的是，自己一直反感的美柳千奈美，不过是父母失败婚姻下导致的产物。其母亲对宗家掌门的觊觎之情一直到深陷囚牢也不甘心，甚至想出陷害自己亲生女儿的计划也要夺回掌门宝座，真是悲哀。14岁就学会利用周围的人来向自己的父亲复仇，19岁残忍杀死自己的同父异母的姐姐，20岁又为隐瞒真相杀害陷害好几人，最后竟然到死也要向仇人复仇，在这样美丽可爱的外表下隐藏着多么一颗丑陋的心。与之相比，能够从小脱离父亲与姐姐，在偏远的叶樱院长大的绫美真是幸运地得以健康成长。而另一对母女，绫里舞子因为自身灵力得到掌门之位，却因为掌门之位遭人陷害，不仅一直被自己的妹妹所仇视，还无法与自己的两位女儿相见。而当掌门最重要的信物被拆开时，我们得以一窥这位母亲的内心。虽然仓院之罐可能金钱价值为零，但是供子的灵魂却一直仍在守护着绫里一脉吧。
 <!--![c5](https://ww3.sinaimg.cn/large/006tKfTcgy1fek6ovntxgj30js0cvtak.jpg)-->
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/GBA-Ace-Attorney/5.jpg)
+![](https://image.seanxp.com/GBA-Ace-Attorney/5.jpg)
 结果一位女儿为了母亲走上律师道路最终残遭杀害，而另一位女儿屡次遭分家陷害。作为母亲，也只有默默的旁边守护却不敢与女儿相认，着实另人感动。在这样相互仇视的宗家与分家，真宵与春美之间的亲情真是难能可贵。
 <!--![c51](https://ww4.sinaimg.cn/large/006tKfTcgy1fek6ucgp7fj30kl0d6jtr.jpg)-->
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/GBA-Ace-Attorney/6.jpg)
+![](https://image.seanxp.com/GBA-Ace-Attorney/6.jpg)
 而这系列的迷之检察官戈德，戴着科幻面具，喝着品质咖啡，似乎对什么都不在乎的人，原来也是一位可怜人。对千寻的第一次辩护帮助很大（简直是宠溺），却因为此事被牵连，不仅残疾昏迷，醒来还失去了“一切”，生存的意义就是去守护「曾经的一切」。最后留下红色眼泪说着“男人只会一切都结束的时候哭泣”。让我郁闷的事，事情的发展其实不用这样收场吧？
 为何不事先预防事情的发生，可以解释是预防这次还有下次，但是检察官完全可以控制牢中的“源头”，没有必要等待事情的发成，结果发生了那样的事情，死亡。
 其实一拳一棍敲晕的事情，何必动刀呢？感觉逆转世界很迷，很多事情其实不需要人命吧？不过看看现实世界况且有那么多的命案呢。
 最后，即使被妹妹纪妹子仇恨，且多次陷害自己的女儿，绫里舞子也依然爱护着春美，这份爱甚至超越了春美的母亲纪美子与姐姐千奈美。纪美子只是当春美是夺回掌门之位的工具，从有目的地生育春美与教育就看出来了。而千奈美，无论是对母亲、父亲、双胞胎妹妹、同母异父妹妹、同父异母妹妹、前男友等等，都没有感情，过度自私的人，最后只能回到自己的世界，为自己的失败永远懊悔下去。
 <!--![c5-3](https://ww2.sinaimg.cn/large/006tKfTcgy1fek52vbumjj30kk0cxjsp.jpg)-->
-![](https://seanxpcom-1252122045.cos.ap-nanjing.myqcloud.com/GBA-Ace-Attorney/7.jpg)
+![](https://image.seanxp.com/GBA-Ace-Attorney/7.jpg)
 这一系列最出彩的就是这一、四、五主线剧情，情节也是迭代起伏颇具逆转色彩。通关之后久久难以平复心情，再看本文开头那张逆转系列全人物图，又是一番不同的滋味。
 这大概就是逆转系列的魅力所在吧。
