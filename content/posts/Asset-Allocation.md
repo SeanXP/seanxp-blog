@@ -9,16 +9,13 @@ tags:
 categories:
   - 金融理财
 draft: false
+featuredImage: https://image.seanxp.com/Asset-Allocation/0.jpg
 ---
 
-<div align=center>
-<img src="https://image.seanxp.com/Asset-Allocation/0.jpg" alt='Asset'/>
-<blockquote class="blockquote-center">你永远挣不到，超出你认知范围外的钱，除非你靠运气。
-但是靠运气赚到的钱，最后往往又会靠实力亏掉，这是一种必然。
-你所赚的每一分钱，都是你对这个世界认识的变现。
-你所亏的每一分钱，都是因为对这个世界认知有缺陷。
-</blockquote>
-</div>
+你永远挣不到，超出你认知范围外的钱，除非你靠运气。  
+但是靠运气赚到的钱，最后往往又会靠实力亏掉，这是一种必然。  
+你所赚的每一分钱，都是你对这个世界认识的变现。  
+你所亏的每一分钱，都是因为对这个世界认知有缺陷。  
 <!--more-->
 
 ## 什么是资产配置？

@@ -6,15 +6,14 @@ tags:
   - 旅游
 categories:
   - 旅游游记
+featuredImage: https://image.seanxp.com/Tour-YangZhou/14.jpeg
 draft: false
+
 ---
 
+故人西辞黄鹤楼，  
+烟花三月下扬州。
 
-<div align=center>
-<img src="https://image.seanxp.com/Tour-YangZhou/14.jpeg" ></a>
-<blockquote class="blockquote-center">故人西辞黄鹤楼，烟花三月下扬州。
-</blockquote>
-</div>
 <!--more-->
 
 ## 序

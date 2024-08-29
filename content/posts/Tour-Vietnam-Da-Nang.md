@@ -7,12 +7,9 @@ tags:
 categories:
   - 旅游游记
 draft: false
+featuredImage: https://image.seanxp.com/Tour-Vietnam-Da-Nang/0.jpg
 ---
-<div align=center>
-<img src="https://image.seanxp.com/Tour-Vietnam-Da-Nang/0.jpg" width="512" height="512" alt='Fly Me to the Da Nang'/>
-<blockquote class="blockquote-center"> 乘上与平时相反方向的列车，为了去看未曾看过的风景。
-</blockquote>
-</div>
+乘上与平时相反方向的列车，为了去看未曾看过的风景。
 <!--more-->
 
 ## 序

@@ -8,7 +8,7 @@ categories:
   - 科技数码
 draft: false
 ---
-# Reference
+## Reference
 
 * [The GNU Privacy Guard](https://www.gnupg.org/)
 * [GPG 维基百科](https://www.wikiwand.com/zh-hans/GnuPG)
@@ -19,7 +19,7 @@ draft: false
 
 <!--more-->
 
-# [Why Use GnuPG?](https://www.phildev.net/pgp/gpgwhy.html)
+## [Why Use GnuPG?](https://www.phildev.net/pgp/gpgwhy.html)
 
 PGP is useful for two things:
 1. Privacy and Security
@@ -29,8 +29,8 @@ PGP is useful for two things:
 当然也有类似凌退思这样“密码字典暴力破解”的方法 :-)
 所以我们的 GPG 钥匙长度要设置的长长长一些。
 
-# Usage
-## Generate GPG Keys
+## Usage
+### Generate GPG Keys
 
     $ gpg --gen-key
 
@@ -58,7 +58,7 @@ PGP is useful for two things:
     启动`gpg-agent`（功能类似`ssh-agent`），输入一次 GPG 私钥密码以后，`gpg-agent` 自动将私钥密码拷贝到内存中供下次使用，下次不用再输入密码。
     注意：安全性与便捷性之间需要取舍。`gpg-agent / ssh-agent` 固然便捷许多，但是也为他人大开方便之门。如果他人连接进本机，也无需输入密码而使用 GPG / SSH 。
 
-## Export Public Key
+### Export Public Key
 
     $ gpg --armor --output key.pub.asc --export $GPGKEY
     $ gpg --output key.pub --export $GPGKEY
@@ -67,7 +67,7 @@ PGP is useful for two things:
 * `--armor`, create ASCII armored output; 导出文字版本的 GPG 公钥，故用后缀 `.asc` 表示，这种格式比较常用，可直接公布在网站页面中；
 * 无`--armor`参数，导出二进制格式的 GPG 公钥；
 
-## Sends Public Key to Keyserver
+### Sends Public Key to Keyserver
 除了直接导出公钥提供给他人以外，也可以将公钥发布到钥匙服务器 keyserver，供他人搜索下载：
 
     $ gpg --keyserver hkp://keys.gnupg.net --send-keys $GPGKEY
@@ -80,7 +80,7 @@ PGP is useful for two things:
 
     $ gpg --fingerprint <key ID> | perl -nE '$.-2 or s/^\h+// and print' | tee fingerprint
 
-## Generate Revocation Key
+### Generate Revocation Key
 **A revocation certificate must be generated to revoke your public key if your private key has been compromised in any way.** It is recommended to create a revocation certificate when you create your key. Keep your revocation certificate on a medium that you can safely secure, like a thumb drive in a locked box.
 **Anybody having access to your revocation certificate can revoke your key, rendering it useless.**
 **For security purposes, there is no mechanism in place to revoke a key without a revocation certificate.** As much as you might want to revoke a key, the revocation certificate prevents malicious revocations. Guard your revocation certificate with the same care you would use for your private key.
@@ -99,7 +99,7 @@ PGP is useful for two things:
 
         $ gpg --keyserver hkp://pgp.mit.edu --send-key [key-ID]
 
-## Search Public Key
+### Search Public Key
 根据`用户名（UID）`或`用户邮箱（email）`，可以从公钥服务器中搜索其发布的 GPG Public Key。
 注意：**任何人都可以用 seanxp 的名义向服务器发布公钥，因此必须审核公钥的指纹是否一致。**
 

@@ -7,8 +7,8 @@ tags:
 categories:
   - 影视笔记
 draft: false
+featuredImage: https://images-na.ssl-images-amazon.com/images/M/MV5BMzIxNDc1MDg0MF5BMl5BanBnXkFtZTgwNTI3ODE4MzE@._V1_SY1000_SX676_AL_.jpg
 ---
-![Monkey Kingdom](https://images-na.ssl-images-amazon.com/images/M/MV5BMzIxNDc1MDg0MF5BMl5BanBnXkFtZTgwNTI3ODE4MzE@._V1_SY1000_SX676_AL_.jpg)
 <!--more-->
 
 * [Disney - Monkey Kingdom](https://nature.disney.com/monkey-kingdom)

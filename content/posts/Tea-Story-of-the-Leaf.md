@@ -6,20 +6,14 @@ tags:
 draft: false
 categories:
   - 影视笔记
+featuredImage: https://image.seanxp.com/images/Tea-Story-of-the-Leaf.jpg
 ---
-
-
-<div align=center>
-<img src="https://image.seanxp.com/images/Tea-Story-of-the-Leaf.jpg" width="600" height="400" alt='Tea'/>
-<blockquote class="blockquote-center"> 一碗喉吻润，二碗破孤闷。
-三碗搜枯肠，惟有文字五千卷。
-四碗发轻汗，平生不平事，尽向毛孔散。
-五碗肌骨清，六碗通仙灵。
-七碗吃不得也，唯觉两腋习习清风生。
-蓬莱山，在何处？玉川子乘此清风欲归去。
-</blockquote>
-</div>
-
+一碗喉吻润，二碗破孤闷。  
+三碗搜枯肠，惟有文字五千卷。  
+四碗发轻汗，平生不平事，尽向毛孔散。  
+五碗肌骨清，六碗通仙灵。  
+七碗吃不得也，唯觉两腋习习清风生。  
+蓬莱山，在何处？玉川子乘此清风欲归去。  
 <!--more-->
 
 ## 序

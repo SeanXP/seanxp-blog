@@ -10,9 +10,7 @@ categories:
   - 学习笔记
 draft: false
 ---
-
-<blockquote class="blockquote-center">经济学就是把‘有限资源’做‘最适当的安排’，以得到‘最好的效果’。
-</blockquote>
+经济学就是把‘有限资源’做‘最适当的安排’，以得到‘最好的效果’。
 <!--more-->
 
 * [khanacademy-microeconomics](https://www.khanacademy.org/economics-finance-domain/microeconomics)

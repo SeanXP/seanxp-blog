@@ -10,9 +10,8 @@ categories:
   - 学习笔记
 draft: false
 ---
-I can do this all day.
-—— 会计师联盟：无差异曲线（Accountants: Indifference Curve）
-
+I can do this all day.  
+—— 会计师联盟：无差异曲线（Accountants: Indifference Curve）   
 <!--more-->
 
 * [khanacademy-microeconomics](https://www.khanacademy.org/economics-finance-domain/microeconomics)

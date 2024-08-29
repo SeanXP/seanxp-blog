@@ -9,10 +9,7 @@ categories:
   - 金融理财
 draft: false
 ---
-<div align=center>
-<blockquote class="blockquote-center">遇到喜欢的东西就买下来，钱不是真的花掉了，而是换了一种形式（账本）陪在你身边。
-</blockquote>
-</div>
+遇到喜欢的东西就买下来，钱不是真的花掉了，而是换了一种形式（账本）陪在你身边。
 <!--more-->
  
 ## 序

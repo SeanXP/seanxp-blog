@@ -9,10 +9,6 @@ categories:
   - 生活随笔
 draft: false
 ---
-
-<div align=center>
-<img src="https://raw.githubusercontent.com/Hammerspoon/hammerspoon.github.io/master/images/hammerspoon.png" width="100" height="100" alt='Hammerspoon'/>
-</div>
 一键切换常用应用，一键调整桌面布局，Love Mac，Love Hammerspoon。
 <!--more-->
 # What is Hammerspoon?

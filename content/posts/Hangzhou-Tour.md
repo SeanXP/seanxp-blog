@@ -7,13 +7,14 @@ tags:
 categories:
   - 旅游游记
 draft: false
+featuredImage: https://image.seanxp.com/hangzhou202012/hangzhou-25.jpeg
+
 ---
-<div align=center>
-<a href="https://image.seanxp.com/hangzhou202012/hangzhou-25.jpeg" target="_blank"><img src="https://image.seanxp.com/hangzhou202012/hangzhou-25.jpeg" width="672" height="448"></a>
-<blockquote class="blockquote-center">人人尽说江南好，游人只合江南老。春水碧于天，画船听雨眠。
-垆边人似月，皓腕凝霜雪。未老莫还乡，还乡须断肠。
-</blockquote>
-</div>
+人人尽说江南好，游人只合江南老。  
+春水碧于天，画船听雨眠。  
+垆边人似月，皓腕凝霜雪。  
+未老莫还乡，还乡须断肠。  
+
 <!--more-->
 
 ## 序

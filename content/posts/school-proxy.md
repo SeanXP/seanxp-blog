@@ -9,14 +9,10 @@ tags:
 categories:
   - 网络技术
 draft: false
+featuredImage: https://image.seanxp.com/school-proxy/0.jpg
 ---
-<div align=center>
-<img src="https://image.seanxp.com/school-proxy/0.jpg" alt='proxy'/>
-<blockquote class="blockquote-center">那时我们有梦，关于校园网，关于种子，关于穿越高校的 IPv6，
-    如今下班后的我们深夜饮酒，杯子碰到一起，都是梦破碎的声音。
-</blockquote>
-</div>
-
+那时我们有梦，关于校园网，关于种子，关于穿越高校的 IPv6，  
+如今下班后的我们深夜饮酒，杯子碰到一起，都是梦破碎的声音。  
 <!--more-->
 <div align=center>
 <img src="https://image.seanxp.com/school-proxy/1.jpg" width="400" height="400" alt='NAT'/>

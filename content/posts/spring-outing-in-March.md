@@ -8,17 +8,15 @@ tags:
 categories:
   - 旅游游记
 draft: false
+featuredImage: https://image.seanxp.com/Tour-Chongqing/3.jpeg
+
 ---
 
+劝君莫惜金缕衣，  
+劝君惜取少年时。  
+花开堪折直须折，  
+莫待无花空折枝。  
 
-<div align=center>
-<a href="https://image.seanxp.com/Tour-Chongqing/3.jpeg" target="_blank"><img src="https://image.seanxp.com/Tour-Chongqing/3.jpeg" width="512" height="512"></a>
-<blockquote class="blockquote-center">劝君莫惜金缕衣，
-劝君惜取少年时。
-花开堪折直须折，
-莫待无花空折枝。
-</blockquote>
-</div>
 <!--more-->
 
 ## 序

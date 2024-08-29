@@ -8,13 +8,10 @@ tags:
 categories:
   - 旅游游记
 draft: false
+featuredImage: https://image.seanxp.com/Tour-Japan-Tokyo/0.jpg
 ---
-<div align=center>
-<img src="https://image.seanxp.com/Tour-Japan-Tokyo/0.jpg" width="512" height="512" alt='Fujisan'/>
-<blockquote class="blockquote-center">为何为好事泪流
-谁能凭爱意要富士山私有
-</blockquote>
-</div>
+为何为好事泪流  
+谁能凭爱意要富士山私有  
 <!--more-->
 ## 序
 因为很喜欢看日漫和日剧的原因，对日本这个国家的历史和文化很感兴趣。曾经计划去一趟日本关西大阪，看看丰臣秀吉之城，奈何最终出游计划落空。幸好近期赶上一次日本东京都的旅游机会，决定花掉即将过期的年休假，飞去日本，体验下日本生活。

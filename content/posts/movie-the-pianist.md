@@ -8,11 +8,8 @@ tags:
 categories:
   - 影视笔记
 draft: false
+featuredImage: https://image.seanxp.com/images/movie-the-pianist-0.jpg
 ---
-
-<!--![The-Pianist.jpg](https://img3.doubanio.com/view/photo/photo/public/p837891375.jpg)-->
-<!--![The-Pianist.jpg](https://ws1.sinaimg.cn/large/006tNbRwgy1fp8ti1ta08j30m80eumyu.jpg)-->
-![The-Pianist.jpg](https://image.seanxp.com/images/movie-the-pianist-0.jpg)
 [《The Pianist》](https://movie.douban.com/subject/1296736/), 和《Schindler’s List》一样的传记题材电影，不一样的人物视角。二战题材的电影看过不少，在那个年代，无论发生什么都不会再令我感到震惊，因为那本来就是一个荒谬而残酷的时代。
 <!--more-->
 

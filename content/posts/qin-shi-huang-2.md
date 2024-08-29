@@ -9,13 +9,8 @@ tags:
 categories:
   - 历史文化
 draft: false
+featuredImage: https://image.seanxp.com/images/qin-shi-huang-2.jpg
 ---
-
-<div align=center>
-<img src="https://image.seanxp.com/images/qin-shi-huang-2.jpg" width="512" height="512"/><blockquote class="blockquote-center">公如青山，我如松柏，同心同德，永为知音。
-</blockquote>
-</div>
-
 <!--more-->
 
 ## [商君列传第八（节选）](http://www.guoxue.com/shibu/24shi/shiji/sj_068.htm)

@@ -9,12 +9,9 @@ tags:
 categories:
   - 学习笔记
 draft: false
+featuredImage: https://image.seanxp.com/images/tooth8th-0.jpg
 ---
-<div align=center>
-<img src="https://image.seanxp.com/images/tooth8th-0.jpg" width="540" height="540" alt='Teeth'/>
 嗡 嘛 智 牟 耶 萨 列 德
-</div>
-
 <!--more-->
 
 # 智齿列传第八（误

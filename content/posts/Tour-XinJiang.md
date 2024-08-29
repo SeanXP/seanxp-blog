@@ -6,16 +6,16 @@ tags:
   - 旅游
 categories:
   - 旅游游记
+featuredImage: https://image.seanxp.com/Tour-XinJiang/19.jpeg
 draft: false
----
-<div align=center>
-<img src="https://image.seanxp.com/Tour-XinJiang/19.jpeg" ></a>
-</div>
 
-摇下了我的车窗来，
-让我来看看你的脸， 
-你的脸蛋儿黑又长呀， 
-好象那牛头到秋天。 
+---
+
+摇下了我的车窗来，  
+让我来看看你的脸，   
+你的脸蛋儿黑又长呀，   
+好象那牛头到秋天。   
+
 <!--more-->
 
 ## 序

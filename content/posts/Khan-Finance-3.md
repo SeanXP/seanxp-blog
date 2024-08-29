@@ -10,11 +10,10 @@ categories:
   - 学习笔记
 draft: false
 ---
-人类的一切智慧是包含在这四个字里面的：‘等待’和‘希望’！
-
-Wait and hope (Fac et spera)! 
-
-—— 《基督山炒股记》 
+人类的一切智慧是包含在这四个字里面的：  
+‘等待’和‘希望’！  
+Wait and hope (Fac et spera)!   
+—— 《基督山炒股记》   
 <!--more-->
 
 # [Khan-Finance-1](https://seanxp.com/2016/05/Khan-Finance-1/)

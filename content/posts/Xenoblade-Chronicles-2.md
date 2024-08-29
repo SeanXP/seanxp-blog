@@ -8,20 +8,15 @@ tags:
 categories:
   - 游戏体验
 draft: false
+featuredImage: https://image.seanxp.com/Xenoblade-Chronicles-2/0.jpg
 ---
-<div align=center>
-<img src="https://image.seanxp.com/Xenoblade-Chronicles-2/0.jpg" ></a>
-<blockquote class="blockquote-center"> 从前初识世界树
-万般流连
-看着天边似在眼前
-也甘愿赴汤蹈火去走它一遍
-迎着光（焰）行走
-任风吹雨打
-</blockquote>
-</div>
-
+从前初识世界树  
+万般流连  
+看着天边似在眼前  
+也甘愿赴汤蹈火去走它一遍  
+迎着光（焰）行走  
+任风吹雨打  
 <!--more-->
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=565966082&auto=1&height=32"></iframe>
 
 ## 序
 * [异度神剑2](https://zh.wikipedia.org/zh-hans/%E5%BC%82%E5%BA%A6%E7%A5%9E%E5%89%912)

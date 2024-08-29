@@ -8,12 +8,9 @@ tags:
 draft: false
 categories:
   - 金融理财
+featuredImage: https://image.seanxp.com/credit/0.png
 ---
-<div align=center>
-<img src="https://image.seanxp.com/credit/0.png" alt='shut up and take my money'/>
-<blockquote class="blockquote-center">钱是人类共同的语言
-</blockquote>
-</div>
+钱是人类共同的语言。
 <!--more-->
 
 ## 什么是信用卡？

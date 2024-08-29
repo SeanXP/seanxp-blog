@@ -7,12 +7,11 @@ tags:
 categories:
   - 游戏体验
 draft: false
+featuredImage: https://image.seanxp.com/Dragon-Quest-XI/0.png
 ---
-![](https://image.seanxp.com/Dragon-Quest-XI/0.png)
-
-<center>Who controls the past controls the future;</center>
-<center>Who controls the present controls the past.</center>
-<center>胸怀勇气，手握雷电，寻觅逝去的时光！</center>
+Who controls the past controls the future;  
+Who controls the present controls the past.  
+胸怀勇气，手握雷电，寻觅逝去的时光！  
 <!--more-->
 ## 序
 * [wiki-勇者斗恶龙XI](https://zh.wikipedia.org/zh-hans/%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8DXI_%E5%B0%8B%E8%A6%93%E9%80%9D%E5%8E%BB%E7%9A%84%E6%99%82%E5%85%89)

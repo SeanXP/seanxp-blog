@@ -8,14 +8,10 @@ tags:
 categories:
   - 旅游游记
 draft: false
+featuredImage: https://image.seanxp.com/Tour-XiAn/0.jpg
 ---
-
-<div align=center>
-<img src="https://image.seanxp.com/Tour-XiAn/0.jpg" width="300" height="400"></a>
-<blockquote class="blockquote-center">鸳鸯双栖蝶双飞，满园春色惹人醉。
-悄悄问圣僧，女儿美不美？
-</blockquote>
-</div>
+鸳鸯双栖蝶双飞，满园春色惹人醉。  
+悄悄问圣僧，女儿美不美？  
 <!--more-->
 
 ## 序

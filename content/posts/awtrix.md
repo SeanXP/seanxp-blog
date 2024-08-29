@@ -8,14 +8,11 @@ tags:
 categories:
   - 科技数码
 draft: false
+featuredImage: https://image.seanxp.com/awtrix/0.jpg
 ---
-
-<div align=center>
-<img src="https://image.seanxp.com/awtrix/0.jpg" alt='shut up and take my money'/>
-<blockquote class="blockquote-center">小明在用 $200 买来的 Lametric Time，我在用 ￥200 DIY 的 AWTRIX Clock：
-	我们都有着光明的未来。
-</blockquote>
-</div>
+小明在用 $200 买来的 Lametric Time，  
+我在用 ￥200 DIY 的 AWTRIX Clock，  
+我们都有着光明的未来。  
 <!--more-->
 ![Awtrix-SeanXP](https://image.seanxp.com/awtrix/1.jpg)
 ![Awtrix-matrix](https://image.seanxp.com/awtrix/2.jpg)

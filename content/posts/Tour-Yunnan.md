@@ -7,14 +7,9 @@ tags:
 categories:
   - 旅游游记
 draft: false
+featuredImage: https://image.seanxp.com/Tour-Yunnan/0.jpg
 ---
-
-
-<div align=center>
-<img src="https://image.seanxp.com/Tour-Yunnan/0.jpg" ></a>
-<blockquote class="blockquote-center">我叫遥大地，小学五年级，要到月球去。
-</blockquote>
-</div>
+“我叫遥大地，小学五年级，要到月球去。” —— 《光能使者》
 <!--more-->
 
 ## 序

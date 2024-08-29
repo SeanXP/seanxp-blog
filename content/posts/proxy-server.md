@@ -8,16 +8,9 @@ tags:
 categories:
   - 网络技术
 draft: false
+featuredImage: https://image.seanxp.com/proxy-server/0.jpg
 ---
-
-
-<div align=center>
-<!--<img src="https://ws3.sinaimg.cn/large/0069RVTdgy1fu6qzkm6gmj30hs06fdgz.jpg" alt='proxy'/>-->
-<img src="https://image.seanxp.com/proxy-server/0.jpg" alt='proxy'/>
-<blockquote class="blockquote-center">剑阁峥嵘而崔嵬，一夫当关，万夫莫开。
-</blockquote>
-</div>
-
+剑阁峥嵘而崔嵬，一夫当关，万夫莫开。
 <!--more-->
 
 * [wiki-代理服务器](https://www.wikiwand.com/zh/%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8)

@@ -8,15 +8,12 @@ tags:
 draft: false
 categories:
   - 生活随笔
+featuredImage: https://image.seanxp.com/images/he-lived-0.JPG
 ---
-<div align=center>
-<img src="https://image.seanxp.com/images/he-lived-0.JPG" width="540" height="540" alt='哈工大铁道口'/>
-</div>
-<blockquote class="blockquote-center">有骂过这家公司，
-有骂过这个时代，
-有骂过这不真实的生活，
-到头来，唯愿你一路平安。
-</blockquote>
+有骂过这家公司，  
+有骂过这个时代，  
+有骂过这不真实的生活，  
+到头来，唯愿你一路平安。  
 <!--more-->
 
 今日惊闻师弟去世之噩耗，甚为惋惜。

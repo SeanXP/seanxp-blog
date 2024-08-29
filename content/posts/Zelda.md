@@ -7,16 +7,10 @@ tags:
 categories:
   - 游戏体验
 draft: false
+featuredImage: https://image.seanxp.com/Zelda2017/0.jpg
 ---
-<div align=center>
-<!--<img src="https://ww4.sinaimg.cn/large/006tKfTcgy1ffjic3u5rcj30zk0k0tbb.jpg" width="1280" height="720" alt='Princess Zelda'/>-->
-<!--<img src="https://i.loli.net/2019/04/30/5cc8565e02bc5.jpg" width="1280" height="720" alt='Princess Zelda'/>-->
-<img src="https://image.seanxp.com/Zelda2017/0.jpg" width="1280" height="720" alt='Princess Zelda'/>
-<blockquote class="blockquote-center"> 我为你翻山越岭，却沉迷看风景
-我想你身不由己，当然是选择原谅你
-</blockquote>
-</div>
-
+我为你翻山越岭，却沉迷看风景  
+我想你身不由己，当然是选择原谅你  
 <!--more-->
 ## 序
 [《塞尔达传说：荒野之息》（The Legend of Zelda: Breath of the Wild）](https://www.wikiwand.com/zh-hans/%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B4_%E8%8D%92%E9%87%8E%E4%B9%8B%E6%81%AF) 由任天堂企划制作本部与任天堂旗下子公司 Monolith Soft 协力开发。游戏最早计划为 Wii U 平台独占发行（结果做完已经到了 Wii U时代的结束），之后（迫不得已）宣布将在任天堂新的混合型游戏主机任天堂 Switch 上发售，并将成为该主机的首发游戏之一。同时任天堂确认本作会是任天堂在Wii U上开发的最后一款游戏。

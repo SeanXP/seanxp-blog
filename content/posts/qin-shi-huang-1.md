@@ -9,14 +9,9 @@ tags:
 categories:
   - 历史文化
 draft: false
+featuredImage: https://image.seanxp.com/images/qin-shi-huang-1.png
 ---
-
-<div align=center>
-<img src="https://image.seanxp.com/images/qin-shi-huang-1.png" width="256" height="256"/><blockquote class="blockquote-center">秦王为人，蜂准，长目，挚鸟膺，豺声，
 少恩而虎狼心，居约易出人下，得志亦轻食人。——《秦始皇本纪第六》
-</blockquote>
-</div>
-
 <!--more-->
 
 ## 秦始皇本纪第六（一）

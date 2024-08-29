@@ -8,14 +8,13 @@ tags:
 categories:
   - 旅游游记
 draft: false
+featuredImage: https://image.seanxp.com/chengdu202012/chengdu-04.jpg
+
 ---
 
-<div align=center>
-<a href="https://image.seanxp.com/chengdu202012/chengdu-04.jpg" target="_blank"><img src="https://image.seanxp.com/chengdu202012/chengdu-04.jpg" width="378" height="504"></a>
-<blockquote class="blockquote-center">丞相祠堂何处寻？
-	锦官城外柏森森。
-</blockquote>
-</div>
+丞相祠堂何处寻？  
+锦官城外柏森森。  
+
 <!--more-->
 
 ## 序

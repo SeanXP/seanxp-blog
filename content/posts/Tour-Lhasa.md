@@ -6,19 +6,16 @@ tags:
   - 拉萨
 categories:
   - 旅游游记
+featuredImage: https://image.seanxp.com/Tour-Lhasa/37.jpeg
 draft: false
----
-<div align=center>
-<img src="https://image.seanxp.com/Tour-Lhasa/37.jpeg" ></a>
-<blockquote class="blockquote-center">
 
-生灵顺从雅鲁藏布江流淌，
-时光在布达拉宫越拉越长。
-无边的草原放开怀抱，
-我是一只温顺的绵羊。
-我要去西藏。
-</blockquote>
-</div>
+---
+
+生灵顺从雅鲁藏布江流淌，  
+时光在布达拉宫越拉越长。  
+无边的草原放开怀抱，  
+我是一只温顺的绵羊。  
+我要去西藏。  
 <!--more-->
 
 ## 序

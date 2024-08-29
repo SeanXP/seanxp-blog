@@ -10,15 +10,9 @@ tags:
   - 生命
   - 消费观
 draft: false
+featuredImage: https://image.seanxp.com/insurance/0.jpg
 ---
-<div align=center>
-<!--<img src="https://ws1.sinaimg.cn/large/006tKfTcgy1g0j388u0awj31900u0n9s.jpg" width="540" height="540" alt='保险'/>-->
-<img src="https://image.seanxp.com/insurance/0.jpg" width="540" height="540" alt='保险'/>
-</div>
-
-<div align=center>
-<B>珍惜今天，珍惜现在，谁知道明天和意外，哪一个先来。</B>
-</div>
+珍惜今天，珍惜现在，谁知道明天和意外，哪一个先来。
 <!--more-->
 
 （销售语气）朋友，你听说过“保险”吗，你买过“保险”的产品吗？也许你已经用过一些保险产品，也许你也多少接触过保险，听别人说起过保险，但你真的了解保险吗，它有什么样的特质，它有怎样的发展空间？你有没有认真考虑过这些问题？也许你会说：“保险是什么，与我有什么关系？”是的，你可以一辈子不用保险的产品，也可以一辈子不与保险打交道，这并不会给你带来什么损失。但是我们是不是可以来看一看这究竟是一件什么样的事呢？你不是正在寻找一个机会吗，来看看保险，它也许就是你要找的机会，机会永远给那些有梦想、有准备的人，你准备好了吗？ 

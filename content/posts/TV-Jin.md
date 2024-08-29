@@ -7,13 +7,12 @@ tags:
 categories:
   - 影视笔记
 draft: false
+featuredImage: https://image.seanxp.com/images/TV-Jin-0.jpg
 ---
-<!--![JIN-1](https://ww2.sinaimg.cn/large/006tNbRwly1fdmdakvrz0j30zk0k00wz.jpg)-->
-![JIN-1](https://image.seanxp.com/images/TV-Jin-0.jpg)
-我生君未生，君生我已老。
-我恨君生迟，君恨我生早。
-唯留书一封，寸心以相表。
-若得生同时，誓拟与君好。
+我生君未生，君生我已老。  
+我恨君生迟，君恨我生早。  
+唯留书一封，寸心以相表。  
+若得生同时，誓拟与君好。  
 <!--more-->
 
 # 日剧《仁医》

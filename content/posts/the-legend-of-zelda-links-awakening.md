@@ -8,15 +8,11 @@ tags:
 categories:
   - 游戏体验
 draft: false
+featuredImage: https://image.seanxp.com/the-legend-of-zelda-links-awakening/0.jpg
 ---
-<div align=center>
-<img src="https://image.seanxp.com/the-legend-of-zelda-links-awakening/0.jpg" width="512" height="512"></a><blockquote class="blockquote-center">All that we see or seem,
-我们所看到和感受的一切，
-Is but a dream within a dream.
-不过是一场梦中的梦。
-</blockquote>
-</div>
-
+我们所看到和感受的一切，  
+Is but a dream within a dream.  
+不过是一场梦中的梦。  
 <!--more-->
 
 ## 序

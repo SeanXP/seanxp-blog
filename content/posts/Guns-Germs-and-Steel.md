@@ -8,18 +8,14 @@ tags:
 categories:
   - 读书笔记
 draft: false
+featuredImage: https://image.seanxp.com/images/Guns-Germs-and-Steel-0.jpg
 ---
-<div align=center>
-<img src="https://image.seanxp.com/images/Guns-Germs-and-Steel-0.jpg" width="550" height="373"/>
-<blockquote class="blockquote-center">那已风化百年的历史
-一切又重演
-粮食 枪炮 病菌 钢铁 是谁的从前
-经过印加帝国身边
-皮萨罗以和平之名会面
-鲜血像亚马逊河般的漫延
-</blockquote>
-</div>
-
+那已风化百年的历史  
+一切又重演  
+粮食 枪炮 病菌 钢铁 是谁的从前  
+经过印加帝国身边  
+皮萨罗以和平之名会面  
+鲜血像亚马逊河般的漫延  
 <!--more-->
 Q：为什么是欧亚大陆人征服、赶走或大批杀死印第安人、澳大利亚人和非洲人，而不是相反？
 A：哥伦布时代的欧亚大陆社会，在粮食生产、病菌、技术（包括武器）、政治组织和文字方面，拥有对印第安社会的巨大优势。这些优势的直接原因是枪炮、病菌与钢铁，终极原因是粮食的生产与传播。

@@ -8,10 +8,8 @@ draft: false
 categories:
   - 学习笔记
 ---
-
-<blockquote class="blockquote-center">All problems in computer science can be solved by another level of indirection. - David Wheeler
-计算机科学领域的任何问题都可以通过增加一个间接的中间层来解决。—— 鲁迅
-</blockquote>
+All problems in computer science can be solved by another level of indirection. - David Wheeler  
+计算机科学领域的任何问题都可以通过增加一个间接的中间层来解决。—— 鲁迅  
 <!--more-->
 
 计算机科学领域的任何问题都可以通过增加一个间接的中间层来解决。

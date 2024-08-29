@@ -8,9 +8,11 @@ tags:
 categories:
   - 读书笔记
 draft: false
+featuredImage: https://image.seanxp.com/htgcoytayl/EF9BA399-F4C6-4303-B182-9FC98CFC89F7.jpg
+
 ---
-![](https://image.seanxp.com/htgcoytayl/EF9BA399-F4C6-4303-B182-9FC98CFC89F7.jpg)
-<center>There is time.</center>
+
+There is time.
 
 <!--more-->
 

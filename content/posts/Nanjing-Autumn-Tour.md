@@ -7,13 +7,12 @@ tags:
 categories:
   - 旅游游记
 draft: false
+featuredImage: https://image.seanxp.com/tour-nanjing/nanjing-23.jpg
+
 ---
-<div align=center>
-<a href="https://image.seanxp.com/tour-nanjing/nanjing-23.jpg" target="_blank"><img src="https://image.seanxp.com/tour-nanjing/nanjing-23.jpg" width="378" height="378"></a>
-<blockquote class="blockquote-center">烟雨入江南，
-	红尘路漫漫。
-</blockquote>
-</div>
+烟雨入江南，  
+红尘路漫漫。  
+
 <!--more-->
 
 ## 序

@@ -7,14 +7,10 @@ tags:
 categories:
   - 游戏体验
 draft: false
+featuredImage: https://image.seanxp.com/GBA-Ace-Attorney/0.jpg
 ---
-<div align=center>
-<!--<img src="https://ww1.sinaimg.cn/large/006tNbRwly1fch3qkki7sj30go0afaod.jpg" width="480" height="300" alt='逆转裁判全人物'/>-->
-<img src="https://image.seanxp.com/GBA-Ace-Attorney/0.jpg" width="480" height="300" alt='逆转裁判全人物'/>
-<blockquote class="blockquote-center"> 人与人的邂逅充满了神奇，各种刑案更是迷题重重，能够遇到你真是有缘。
-唯一看透了事件真相的，却是外表看似常人智慧却过于小孩的成步堂龙一。
-</blockquote>
-</div>
+人与人的邂逅充满了神奇，各种刑案更是迷题重重，能够遇到你真是有缘。  
+唯一看透了事件真相的，却是外表看似常人智慧却过于小孩的成步堂龙一。  
 <!--more-->
 ## 序
 今天通关了《逆转裁判2》，很喜欢这款 GBA 游戏，特此记之，并安利给其他 GBA 游戏爱好者（含轻微剧透）。

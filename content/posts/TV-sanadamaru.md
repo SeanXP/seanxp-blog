@@ -7,14 +7,9 @@ tags:
 categories:
   - 影视笔记
 draft: false
+featuredImage: https://image.seanxp.com/images/TV-sanadamaru-1.jpg
 ---
-
-<div align=center>
-<!--<img src="https://ww3.sinaimg.cn/large/006tNc79jw1fawfvd5fulj30u00u0djw.jpg" width="540" height="540" alt='真田丸'/>-->
-<img src="https://image.seanxp.com/images/TV-sanadamaru-1.jpg" width="540" height="540" alt='真田丸'/>
 NHK 大河剧《真田丸》播送一年，「完结」撒花！
-</div>
-
 <!--more-->
 
 ### 相关网站

@@ -8,13 +8,11 @@ tags:
 categories:
   - 旅游游记
 draft: false
+featuredImage: https://image.seanxp.com/tour-beijing/beijing-9.jpg
+
 ---
-<div align=center>
-<a href="https://image.seanxp.com/tour-beijing/beijing-9.jpg" target="_blank"><img src="https://image.seanxp.com/tour-beijing/beijing-9.jpg" width="537" height="806"></a>
-<blockquote class="blockquote-center">欲说还休，却道——
-天凉好个秋
-</blockquote>
-</div>
+欲说还休，却道——  
+天凉好个秋  
 <!--more-->
 
 ## 序

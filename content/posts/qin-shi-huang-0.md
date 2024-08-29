@@ -9,14 +9,9 @@ tags:
 categories:
   - 历史文化
 draft: false
+featuredImage: https://image.seanxp.com/images/qin-shi-huang-0.png
 ---
-
-<div align=center>
-<img src="https://image.seanxp.com/images/qin-shi-huang-0.png" width="512" height="512"/><blockquote class="blockquote-center">高祖常繇咸阳，纵观，观秦皇帝，
 喟然太息曰：“嗟乎，大丈夫当如此也！”——《史记·高祖本纪》
-</blockquote>
-</div>
-
 <!--more-->
 
 ## 序

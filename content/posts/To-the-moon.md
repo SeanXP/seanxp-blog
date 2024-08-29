@@ -8,16 +8,13 @@ tags:
 categories:
   - 游戏体验
 draft: false
+featuredImage: https://image.seanxp.com/To-the-moon/0.jpg
+
 ---
 
-<div align=center>
-<!--<img src="https://ww4.sinaimg.cn/large/006tNbRwgy1ffngsr3tnuj31kw16o47g.jpg" width="512" height="384" alt='To the moon'/>-->
-<img src="https://image.seanxp.com/To-the-moon/0.jpg" width="512" height="384" alt='To the moon'/>
-<blockquote class="blockquote-center"> 亿万灯塔屹立，你我受制命运，终隔绝天际。
-于梦境，与你，重新相遇；
-在月下，与你，停止呼吸。
-</blockquote>
-</div>
+亿万灯塔屹立，你我受制命运，终隔绝天际。  
+于梦境，与你，重新相遇；  
+在月下，与你，停止呼吸。  
 
 <!--more-->
 
