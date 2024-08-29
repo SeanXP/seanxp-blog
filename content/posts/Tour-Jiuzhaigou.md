@@ -7,7 +7,7 @@ tags:
 categories:
   - 旅游游记
 draft: false
-featuredImage: https://image.seanxp.com/Tour-Jiuzhaigou/07.jpg
+featuredImage: https://image.seanxp.com/Tour-Jiuzhaigou/23.jpg
 ---
 九寨归来不看水，  
 弱水三千一瓢饮。  
@@ -21,7 +21,7 @@ featuredImage: https://image.seanxp.com/Tour-Jiuzhaigou/07.jpg
 ![](https://image.seanxp.com/Tour-Jiuzhaigou/04.jpg)
 ![](https://image.seanxp.com/Tour-Jiuzhaigou/05.jpg)
 ![](https://image.seanxp.com/Tour-Jiuzhaigou/06.jpg)
-<!--![](https://image.seanxp.com/Tour-Jiuzhaigou/07.jpg)-->
+![](https://image.seanxp.com/Tour-Jiuzhaigou/07.jpg)
 ![](https://image.seanxp.com/Tour-Jiuzhaigou/08.jpg)
 ![](https://image.seanxp.com/Tour-Jiuzhaigou/09.jpg)
 ![](https://image.seanxp.com/Tour-Jiuzhaigou/10.jpg)
