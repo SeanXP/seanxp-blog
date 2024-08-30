@@ -46,8 +46,10 @@ feature:
 
 ## 博客方案
 
-- 域名 `seanxp.com`，托管在 `Cloudfare`，方便使用 `Cloudfare CDN` 加速；
-- 博客系统 `hugo` + `DoIt`，一个高效简单的静态网站生成器，不会像 `hexo` 那样报一堆 js 错误，无依赖性，golang 语言（golang 粉丝狂喜）；
+- 域名 `seanxp.com`，托管在 `Cloudfare`，方便使用 `Cloudfare CDN` 加速国内外访问；
+	- 以前博客托管在 `Github Pages` ，访问非常慢。
+- 博客系统 `Hugo` + `DoIt`；
+	- `Hugo`，一个高效简单的静态网站生成器，不会像 `hexo` 那样许久未更新就报一堆 js 错误，无依赖性，golang 语言（golang 粉丝狂喜）；
 	- [The world’s fastest framework for building websites | Hugo](https://gohugo.io/)
 	- [HEIGE-PCloud/DoIt: A clean, elegant and advanced blog theme for Hugo.](https://github.com/HEIGE-PCloud/DoIt)
 - 自动化构建静态博客  `Cloudfare Pages` 关联 `github`，更新 `.md` 文件到 github，就可以自动触发构建，无需再关心博客页面构建问题；
@@ -60,11 +62,13 @@ feature:
 	- [Hugo With Obsidian :: 木木木木木](https://immmmm.com/hugo-with-obsidian/)
 - 评论系统 `Remark42` + `fly.io`，Go 语言实现，支持多种方式登录（包括匿名登录）、可以直接在评论界面管理评论。
 	- [从零开始搭建你的免费博客评论系统（Remark42 + fly.io） · Pseudoyu](https://www.pseudoyu.com/zh/2024/07/22/free_commenting_system_using_remark42_and_flyio/)
-- 图床使用 `Cloudfare R2` + `WebP Cloud` + `PicGo` 方案；
+- 图床使用 `Cloudfare R2` + `WebP Cloud` + `PicGo` + `Image Auto Upload Plugin`方案；
 	- [从零开始搭建你的免费图床系统（Cloudflare R2 + WebP Cloud + PicGo） · Pseudoyu](https://www.pseudoyu.com/zh/2024/06/30/free_image_hosting_system_using_r2_webp_cloud_and_picgo/)
 	- [使用 WebP Cloud 与 Cloudflare WAF 为你的图床添加隐私和版权保护 · Pseudoyu](https://www.pseudoyu.com/zh/2024/07/02/protect_your_image_using_webp_and_cloudflare_waf/)
+	- Obsidian `Image Auto Upload Plugin` 插件，结合 PicGo app 使用，复制图片到 obsidian，自动上传图片并填充，随意插图。
 
 发文流程：
 1. （手动）`obsidian` 写完内容后，推送到 `github` 仓库；
 2. （自动）`Cloudflare Pages` 监测到  `github` 仓库变动，自动拉取 `main` 分支构建`hugo` 静态页面；
 3. （自动）`seanxp.com` 就可以看到新的内容。
+
