@@ -1,3 +1,4 @@
+# https://hugodoit.pages.dev/zh-cn/theme-documentation-basics/#site-configuration
 baseURL = "https://seanxp.com/"
 # [en, zh-cn, fr, ...] 设置默认的语言
 defaultContentLanguage = "zh-cn"
@@ -330,7 +331,13 @@ simple_view = true
 
 # DoIt 新增 | 0.2.0 网站分析配置
 [params.analytics]
-enable = false
+enable = true
+# DoIt 新增 | 0.2.13 Umami Analytics
+[params.analytics.umami]
+data_website_id = "7ad00a70-ef50-422b-ae08-9240ca788ebb"
+src = "https://grill.seanxp.com/grill"
+data_host_url = ""
+data_domains = ""
 
 # 网站地图配置
 [sitemap]
