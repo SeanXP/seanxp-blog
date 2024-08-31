@@ -66,6 +66,8 @@ feature:
 	- [从零开始搭建你的免费图床系统（Cloudflare R2 + WebP Cloud + PicGo） · Pseudoyu](https://www.pseudoyu.com/zh/2024/06/30/free_image_hosting_system_using_r2_webp_cloud_and_picgo/)
 	- [使用 WebP Cloud 与 Cloudflare WAF 为你的图床添加隐私和版权保护 · Pseudoyu](https://www.pseudoyu.com/zh/2024/07/02/protect_your_image_using_webp_and_cloudflare_waf/)
 	- Obsidian `Image Auto Upload Plugin` 插件，结合 PicGo app 使用，复制图片到 obsidian，自动上传图片并填充，随意插图。
+- 统计数据使用 `umani` Deploy on Railway，一键部署，只需要配好自定义域名，在 DoIt 模板填好 umami 参数即可。
+- 全文搜索功能 `Algolia`
 
 发文流程：
 1. （手动）`obsidian` 写完内容后，推送到 `github` 仓库；
