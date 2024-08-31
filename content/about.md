@@ -29,10 +29,10 @@ date: 2016-05-26T13:10:59+08:00
 </div>
 ## Contacts
 
-|   Contact   |                                                          Me                                                           |
-| :---------: | :-------------------------------------------------------------------------------------------------------------------: |
-|    Email    |                                                iseanxp+blog#gmail.com                                                 |
-| Fingerprint | 429D 47BB BDB0 AA92 B8B6  28F7 [5655 CA93 5F09 337F](https://pgp.mit.edu/pks/lookup?op=get&search=0x5655CA935F09337F) |
+|     Contact     |                                                                         Me                                                                         |
+| :-------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: |
+|      Email      |                                                               iseanxp+blog#gmail.com                                                               |
+| GPG Fingerprint | 3185 2DFF 9664 A108 34B3  05E6 [76DD 3DEB DDB6 0CF2](http://keyserver.ubuntu.com:11371/pks/lookup?search=76DD3DEBDDB60CF2&fingerprint=on&op=index) |
 
 ## Blog
 [我的 Hugo 新博客 - SeanXP's Blog](https://seanxp.com/new-hugo-blog/)
