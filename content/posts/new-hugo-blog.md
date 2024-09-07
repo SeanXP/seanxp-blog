@@ -19,6 +19,8 @@ feature:
 
 然后，最近的思维开始转变：
 * 有趣的事情确实很多，但是还是需要保留一定的时间去“输出”。学到了新东西，结合费曼学习法，用自己的话总结下；玩到了新游戏，发篇博客分享下。**“输出”是为了完善自己的信息流，形成一个完整的闭环，也能顺便锻炼下自己的文字、思维能力**。
+	* [The Surprising Reason Writing Remains Essential in an AI-Driven World](https://fs.blog/why-write/)
+	* Writing is the process by which you figure it out. Writing about something is one of the best ways to learn about it.
 * 作为一名 IT 从业者，总是想不起来自动化，实在惭愧。写博客这件事是好的，道路也是曲折的，那就利用 IT 技术去**尽可能的自动化，减少阻力**。
 * **博客是写给自己的，顺便给他人看的**。之前导向错了，所以很多值得总结的内容，都写在了个人笔记系统里面，并没有分享出来。但是从我个人使用互联网的经验，自己的个人笔记再全面，也不过是互联网内容中的沧海一粟。不如把自己的笔记共享出来，一起共建一个更好的互联网。
 
