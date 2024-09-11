@@ -8,7 +8,7 @@ tags:
   - 潜水
   - 旅游
   - AI辅助
-featuredImage: 
+featuredImage: https://image.seanxp.com/tour_malaysia/tour_malaysia_14.jpg
 draft: false
 feature:
 ---
