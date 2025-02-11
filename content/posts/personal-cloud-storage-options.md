@@ -11,6 +11,8 @@ featuredImage:
 draft: false
 feature:
 ---
+要把一个鸡蛋放在三个篮子里呀！
+<!--more-->
 
 # iCloud 的不稳定
 之前个人笔记是通过 obsidian + iCloud 来同步的，后来又额外加上了 git 插件，将笔记推送到 github 的私人仓库备份。iCloud 负责苹果设备之间的同步，git 只负责备份，各司其职。我经常会在2台电脑（工作电脑和家里电脑）之间来回切换，所以需要频繁的进行同步。用久后发现了 iCloud 同步存在几个问题：
@@ -41,3 +43,10 @@ feature:
 - Obsidian 存储个人笔记知识库，iCloud + Git 同步。
   - 仍使用 iCloud 进行设备间同步，但需结合 git 插件，将笔记推送到 github 仓库，实现版本控制。
   - 不再使用 Git Commit All Change 一键提交，避免 iCloud 丢失数据，每次 git 提交都要手动检查。以 github 数据为准。
+
+# 3-2-1 备份原则
+- 3：存储 3 份完整文件，一份原件加上两份拷贝。
+	- 原件：电脑/手机数据；
+	- 两份拷贝：线上网盘（iCloud/Dropbox/GoogleDrive）+ 线下NAS（Raid 1）
+- 2：将文件起码保持在两种不同的介质上。
+- 1：将一份拷贝保存在异地。
