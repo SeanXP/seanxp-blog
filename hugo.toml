@@ -18,7 +18,7 @@ dateFormat = "2006-01-02"
   lastmod = ['lastmod', ':git', ':fileModTime', 'date', 'publishDate']
 
 # 作者配置
-[author]
+[params.author]
 name = "SeanXP"
 email = "iseanxp+blog@gmail.com"
 link = ""
