@@ -138,8 +138,8 @@ highlightTag = "em"
 absoluteURL = false
 [params.search.algolia]
 index = "blogindex"
-appID = "I9UI5JO10P"
-searchKey = "6de6b09d932d4270d5c8a7989d942988"
+appID = "IY046TN4N6"
+searchKey = "a66e2d0f6ad6601cbed1c6e491d1a223"
 [params.search.fuse]
 #  https://fusejs.io/api/options.html
 isCaseSensitive = false
