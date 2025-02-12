@@ -319,11 +319,11 @@ enable = false
 
 # DoIt 更改 | 0.2.0 评论系统设置
 [params.page.comment]
-enable = false
+enable = true
 # DoIt 新增 | 0.2.13 Remark42 评论系统设置
 [params.page.comment.remark42]
-enable = false
-host = "https://remark42.seanxp.com"
+enable = true
+host = "https://remark.seanxp.com"
 site_id = "seanxp-blog"
 max_shown_comments = 15
 show_email_subscription = true
