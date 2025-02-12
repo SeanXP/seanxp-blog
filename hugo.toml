@@ -323,7 +323,7 @@ enable = true
 # DoIt 新增 | 0.2.13 Remark42 评论系统设置
 [params.page.comment.remark42]
 enable = true
-host = "https://remark.seanxp.com"
+host = "https://remark42.seanxp.com"
 site_id = "seanxp-blog"
 max_shown_comments = 15
 show_email_subscription = true
