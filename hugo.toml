@@ -341,8 +341,7 @@ priority = 0.5
 
 # Permalinks 配置
 [Permalinks]
-# posts = ":year/:month/:filename"
-posts = ":filename"
+posts = ":contentbasename"
 
 # 用于输出 Markdown 格式文档的设置
 [mediaTypes]
