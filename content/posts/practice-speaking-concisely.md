@@ -1,5 +1,5 @@
 ---
-title: 练习言简意赅的说话
+title: 如何言简意赅地说话
 date: 2025-10-31T06:25:09+08:00
 draft: false
 tags:
