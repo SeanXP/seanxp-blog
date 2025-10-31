@@ -12,6 +12,7 @@ featuredImage: https://image.seanxp.com/images/life_is_like_chess_no_regrets.jpg
 ---
 弃我去者，昨日之日不可留；  
 乱我心者，今日之日不烦忧。  
+活在当下。
 <!--more-->
 {{< admonition type=tip title="献给" open=true >}}
 这篇文章献给我的妻子怡宝，这是昨晚和你聊的话题，以及后续的思考。
