@@ -8,7 +8,7 @@ tags:
   - Linux
 categories:
   - 科技数码
-draft: true
+draft: false
 ---
 
 Proxmox VE（PVE）是 HomeLab 的核心组件，作为虚拟化平台承载着所有服务。本文基于最新的 **PVE 9.1**（Debian 13 Trixie），从零开始详细讲解安装流程、存储规划、系统优化等关键环节，帮助你构建稳定高效的虚拟化环境。
