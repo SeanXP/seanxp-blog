@@ -4,8 +4,7 @@ date: 2025-12-20T11:00:00+08:00
 tags:
   - HomeLab
   - PVE
-  - AMD
-  - Ubuntu
+  - Linux
   - Jellyfin
 categories:
   - 科技数码

@@ -3,8 +3,7 @@ title: HomeLab 搭建指南 (二)：虚拟化基石 —— Proxmox VE (PVE) 系�
 date: 2025-12-20T09:00:00+08:00
 tags:
   - HomeLab
-  - Proxmox
-  - 虚拟化
+  - PVE
   - Linux
 categories:
   - 科技数码
