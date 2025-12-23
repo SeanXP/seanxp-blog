@@ -162,6 +162,36 @@ systemctl restart pveproxy
 
 执行 `pvesm status`，你应该能看到清晰的三层存储结构：
 
+{{< mermaid >}}
+graph TD
+    Disk[("1TB NVMe 物理硬盘")]
+    
+    subgraph LVM_Layer ["LVM 逻辑卷管理层"]
+        VG[("Volume Group: pve")]
+    end
+    
+    subgraph Logical_Volumes ["逻辑卷 (Logical Volumes)"]
+        LV_Root["root (系统盘)<br/>100GB"]
+        LV_Backup["backup_space (备份)<br/>500GB"]
+        LV_Thin["data (Thin Pool)<br/>剩余空间"]
+    end
+    
+    subgraph PVE_Storage ["PVE 存储界面"]
+        Store_Local["local<br/>(ISO/模板)"]
+        Store_Backup["local-backup<br/>(VM 备份)"]
+        Store_LVM["local-lvm<br/>(虚拟机磁盘)"]
+    end
+
+    Disk ==> VG
+    VG --> LV_Root
+    VG --> LV_Backup
+    VG --> LV_Thin
+    
+    LV_Root -.-> Store_Local
+    LV_Backup -.-> Store_Backup
+    LV_Thin -.-> Store_LVM
+{{< /mermaid >}}
+
 | 存储 ID | 类型 | 用途 |
 | :--- | :--- | :--- |
 | **local** | dir | 存放 ISO 镜像、LXC 模板 |

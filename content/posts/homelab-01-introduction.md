@@ -108,26 +108,69 @@ HomeLab 界流传着两种主流架构，选择哪种决定了后续的硬件路
 
 我的 HomeLab 采用了 **逻辑 AIO，物理分离** 的混合模式：
 
-```mermaid
+{{< mermaid >}} 
 graph TD
-    Internet --> OpticalModem[光猫 (桥接)]
-    OpticalModem --> GEM12[GEM12 Max (PVE 宿主机)]
+    %% 样式定义
+    classDef ext fill:#f5f5f5,stroke:#666,stroke-width:2px,color:#333;
+    classDef hw fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#0d47a1;
+    classDef vm fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#e65100;
+    classDef svc fill:#e8f5e9,stroke:#2e7d32,stroke-width:1px,stroke-dasharray: 5 5,color:#1b5e20;
+
+    Internet(("互联网")):::ext ==> Modem["光猫 - 桥接模式"]:::hw
     
-    subgraph PVE [Proxmox VE 虚拟化环境]
-        OpenWrt[VM: OpenWrt 主路由]
-        Ubuntu[VM: Docker 宿主机]
-        HA[VM: Home Assistant]
+    subgraph GEM12 ["GEM12 Max - PVE 宿主机"]
+        direction TB
+        
+        subgraph Hardware ["硬件层"]
+            NIC_WAN["网口 1 - 直通"]:::hw
+            NIC_LAN["网口 2 - 物理"]:::hw
+            iGPU["AMD 680M 核显"]:::hw
+        end
+        
+        subgraph Virtualization ["虚拟化层"]
+            VMBR0["虚拟网桥 vmbr0"]:::hw
+            
+            subgraph VM_OpenWrt ["VM: OpenWrt 主路由"]
+                Wrt_WAN("WAN 口"):::vm
+                Wrt_LAN("LAN 口"):::vm
+            end
+            
+            subgraph VM_Ubuntu ["VM: Ubuntu Server"]
+                Jellyfin("Docker: Jellyfin"):::svc
+            end
+            
+            subgraph VM_HA ["VM: HomeAssistant"]
+                HAS("HASS OS"):::svc
+            end
+        end
     end
+
+    %% 物理连接
+    Modem ==> NIC_WAN
+    NIC_LAN ==> Switch["千兆交换机"]:::hw
+
+    %% 逻辑连接与虚拟化映射
+    NIC_WAN ==> Wrt_WAN
+    Wrt_LAN <--> VMBR0
+    VMBR0 <--> NIC_LAN
     
-    GEM12 --> OpenWrt
-    OpenWrt --> Switch[交换机]
+    VMBR0 <--> VM_Ubuntu
+    VMBR0 <--> VM_HA
     
-    Switch --> TPLink[TP-LINK 无线路由 (AP模式)]
-    Switch --> NAS[群晖 NAS (存储)]
-    Switch --> Gateway[小米智能网关]
-    
-    Ubuntu -.->|挂载 SMB/NFS| NAS
-```
+    %% 硬件直通关系
+    iGPU -.->|PCIe 直通 - 硬解| Jellyfin
+
+    %% 外设与终端
+    Switch --> NAS["群晖 NAS - 纯存储"]:::hw
+    Switch --> AP["无线 AP / Mesh"]:::hw
+    Switch --> Gateway["智能网关"]:::hw
+    AP -.- WiFi_Dev["手机 / 平板 / IoT"]:::ext
+    Switch --> Wired_Dev["PC / 电视 / 游戏机"]:::ext
+
+    %% 数据流向
+    Jellyfin -.->|SMB/NFS| NAS
+    HAS -.->|局域网控制| Gateway
+{{< /mermaid >}}
 
 **架构亮点**：
 1.  **OpenWrt 虚拟化**：利用 PVE 的高性能网卡直通，跑满 2.5G 内网带宽。
@@ -151,4 +194,4 @@ HomeLab 的核心不在于硬件有多贵，而在于架构是否优雅、维护
     *   ❌ **不要过度追求企业级硬件**：二手服务器噪音大、功耗高，不适合家用。
     *   ❌ **不要忽视数据备份**：RAID 不是备份，重要数据请遵循 3-2-1 原则（本地+异地/云端）。
 
-万事俱备，硬件已就位。在下一篇文章中，我将手把手带你完成 **Proxmox VE (PVE) 8.0 的安装与初始化配置**，正式开启 HomeLab 之旅。
+万事俱备，硬件已就位。在下一篇文章中，我将手把手带你完成 **Proxmox VE (PVE) 的安装与初始化配置**，正式开启 HomeLab 之旅。

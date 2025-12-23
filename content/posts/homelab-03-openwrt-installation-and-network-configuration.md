@@ -231,6 +231,31 @@ libustream-openssl ca-bundle kmod-nft-tproxy
 *   **运行模式**: 选择 **`Fake-IP (增强模式)`**。这是目前体验最好的模式。
 *   **流量控制**: 勾选 **`绕过中国大陆 IP`**。这利用了主机的高性能 CPU，让国内流量直接通过内核转发，不走代理核心，极大降低延迟。
 
+{{< mermaid >}}
+sequenceDiagram
+    participant PC as "电脑/手机"
+    participant OC as "OpenClash (Fake-IP)"
+    participant DNS as "运营商 DNS"
+    participant Proxy as "代理节点"
+    participant Web as "目标网站"
+
+    Note over PC, OC: 阶段一：DNS 解析 (极速)
+    PC->>OC: 请求 www.google.com
+    OC-->>PC: 秒回假 IP (198.18.0.1)
+    
+    Note over PC, Web: 阶段二：流量转发 (分流)
+    PC->>OC: 发送数据包 -> 198.18.0.1
+    
+    alt 命中规则：国内流量 (直连)
+        OC->>DNS: 查询真实 IP
+        DNS-->>OC: 返回 220.181.x.x
+        OC->>Web: 直连访问 (不走代理)
+    else 命中规则：国外流量 (代理)
+        OC->>Proxy: 封装数据包
+        Proxy->>Web: 代为访问
+    end
+{{< /mermaid >}}
+
 ### 5.2 DNS 深度优化 (覆写设置)
 
 *   **本地 DNS 劫持**: `启用` (让 OpenClash 接管 53 端口)。
